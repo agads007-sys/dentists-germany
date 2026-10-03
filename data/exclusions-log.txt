@@ -275,3 +275,10 @@ zahnarzt-dr-oefler@t-online.de | Zahnarztpraxis Dr. med. dent. Frank Oefler
 info@plauen.dentist | Zahnarztpraxis Martin Schaller
 info@praxis-kroll.com | Zahnarztpraxis Kroll Plauen
 info@zahnarztpraxis-wild.de | Zahnarztpraxis Sarah Wild
+
+# 2026-10-03 third-run batch 3
+info@zahnarzt-hochfranken.de | Zahnarztpraxis Mirko Hoffmann
+info@zahnarzt-hof.de | Zahnarztpraxis Gebelein
+info@zahnarzt-dr-hack.de | Zahnarztpraxis Dr. Martin Hack
+kontakt@zahnarztpraxis-holter.de | Zahnarztpraxis Dr. Lena Holter
+info@dr-habiger.de | Praxis Dr. Stephan Habiger
