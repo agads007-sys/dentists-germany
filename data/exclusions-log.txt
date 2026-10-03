@@ -64,3 +64,10 @@ termin@zahnarzt-zapf.de | Zahnarztpraxis Dr. Andreas Zapf
 info@zamora-dental.de | zamora DENTAL
 info@zahnarzt-drude.de | Zahnarztpraxis Dr. Clemens Drude
 info@zahnarzt-vogel-bs.de | Zahnarztpraxis Stefan Vogel MSc
+
+# 2026-10-03 evening batch 5
+zahnarztpraxis@dr-endmann.de | Zahnarztpraxis Dr. Claudia Endmann
+info@zahnarztpraxis-staginsky.de | Zahnarztpraxis Dr. Katharina Staginsky
+info.kesselring@t-online.de | Zahnarztpraxis Dr. Petra Kesselring
+info@zahnarzt-pomowski.de | Zahnarztpraxis Dr. Reyk Pomowski
+info@zahnarzt-clauser.de | Zahnarztpraxis Dr. Andreas Clauser
