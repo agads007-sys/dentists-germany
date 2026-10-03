@@ -183,3 +183,10 @@ frage@dr-harnack.de | Zahnarztpraxis Dr. Lutz Harnack
 info@dr-jo-walter.de | Praxis für Zahnheilkunde Dr. med. dent. Johannes Walter
 praxis@eydel.net | Dr. Uta Eydel und Franz Eydel
 praxis@zahnarzt-gabriel.de | Zahnarztpraxis Dr. Wolf-Diether Gabriel
+
+# 2026-10-03 run batch 4
+info@praxis-dr-tietjen.de | Zahnarztpraxis Dr. med. dent. Reinhard Tietjen
+praxis.hoehnen@gmx.de | Zahnarztpraxis Dr. med. dent. Oranna Höhnen
+praxis-am-theater@gmx.de | die zahnarztpraxis am theater - Dr. Ralf Junk
+regina-grundheber@t-online.de | Zahnarztpraxis Regina Grundheber
+fremdlb@yahoo.de | Praxis Dr. med. dent. Matthias Boettel
