@@ -1,0 +1,3 @@
+# Germany dentist Google-review outreach exclusion log
+# Append only clinic emails and facility names for Gmail drafts that were actually created successfully.
+# Campaign initialized clean on 2026-10-03.
