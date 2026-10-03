@@ -12,9 +12,7 @@ It contains:
 
 ## Germany campaign scope
 
-Only research and draft for dentists / dental clinics located in Germany. Verify the clinic's current Google/Google Maps review count and use only clinics with fewer than 30 reviews. Use an appropriate officially published contact email. Never guess review counts or contact details.
-
-The exclusion state in this repository starts clean and belongs only to the Germany campaign. Do not import or consult exclusion lists from `agads007-sys/dentists`, `agads007-sys/outreach-barebones`, or any other campaign.
+Only research and draft for dentists / dental clinics located in Germany, in cities, can be small cities, but never completely rural places with tiny populations. Verify the clinic's current Google/Google Maps review count and use only clinics with between 1-25 reviews. Use an appropriate officially published contact email. Never guess review counts or contact details.
 
 When multiple connected Gmail accounts are available, spread genuinely new drafts across the accounts in `data/gmail_accounts.txt`. Never duplicate prospects merely to fill accounts.
 
