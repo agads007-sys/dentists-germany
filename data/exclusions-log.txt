@@ -1,3 +1,10 @@
 # Germany dentist Google-review outreach exclusion log
 # Append only clinic emails and facility names for Gmail drafts that were actually created successfully.
 # Campaign initialized clean on 2026-10-03.
+
+# 2026-10-03 batch 1
+rezeption@zahnarzt-kienzler.de | Zahnarztpraxis Lutz Kienzler
+praxis.butzmann@t-online.de | Zahnarztpraxis Dirk Butzmann & Kollegen
+info@aden-kassel.de | Zahnarztpraxis Dr. Dagmar Aden & Dr. Jan-Eilert Aden
+mail@zahnarztpraxis-jena.de | Zahnarztpraxis Dr. Jan Lorbeer
+info@zahnarzt-andrea-hopf.de | Zahnarztpraxis Andrea Hopf
