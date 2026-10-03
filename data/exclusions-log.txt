@@ -36,3 +36,10 @@ praxis@zaguenther.de | Zahnarztpraxis Dipl.-Stom. Constanze Günther
 praxis@zahnaerzte-im-ulrichshaus.de | Zahnärzte im Ulrichshaus
 info@floradent-magdeburg.com | FloraDent-Magdeburg Abdellatif Hammadi Zahnarztpraxis
 info@zahnarztpraxis-kielwein.de | Zahnarztpraxis Katharina Kielwein
+
+# 2026-10-03 evening batch 1
+praxis@niederlausitzer-mundhort.de | Zahnarztpraxis Karina Raddatz - Niederlausitzer Mundhort
+praxis@zahnarzt-bues.de | Zahnarztpraxis Dr. Judith Bues
+lorbach@praxis-gartenallee.de | Praxis Gartenallee
+info@zahnarztpraxis-am-tannhof.de | Zahnarztpraxis am Tannhof
+info@zahnarztpraxis-holtenau.de | Zahnarztpraxis Agata Grabowski
