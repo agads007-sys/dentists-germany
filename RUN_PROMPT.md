@@ -4,7 +4,7 @@ Run the Google-review outreach workflow using the GitHub repository `agads007-sy
 
 **DRAFTS ONLY. NEVER SEND EMAILS.**
 
-Create exactly **25 new, high-quality Gmail drafts** for **dentists / dental clinics located in Germany only, and never totally rural dentists, they have to be in cities, can also be small cities, but still cities, never rural ones**.
+Create exactly **25 new, high-quality Gmail drafts** for **dentists / dental clinics located in Germany only**. Each clinic must be located in an actual German **Stadt**. Small cities / **Kleinstädte** are valid; villages, hamlets, isolated rural places, and rural municipalities without genuine city/town character are not. If the city/town location cannot be verified confidently, skip the prospect.
 
 Work in **batches of 5 successful drafts** until you reach **25 total successful drafts**. Do not research 25 prospects upfront and do not build a large candidate backlog.
 
@@ -27,7 +27,7 @@ Load the three exclusion files once and combine them into the working deduplicat
 
 As soon as a new prospect is selected, add both its clinic name and email address to the in-memory working deduplication list so it cannot be selected again in a later batch.
 
-Follow all messaging, verification, eligibility, Gmail-account distribution, and logging rules in `MESSAGE.md`. Only create drafts for dental clinics physically located in Germany with a verified current Google/Google Maps review count between 2-25 and an appropriate officially published contact email. Never guess review counts. Preserve the full campaign message while genuinely varying the wording across drafts.
+Follow all messaging, verification, eligibility, Gmail-account distribution, and logging rules in `MESSAGE.md`. Only create drafts for dental clinics physically located in an eligible German city/town with a verified current Google/Google Maps review count of **2 through 25 inclusive** and an appropriate officially published contact email. Clinics with 0–1 or 26+ reviews are ineligible. Never guess review counts. Preserve the full campaign message while genuinely varying the wording across drafts.
 
 After each successful batch, append the newly drafted clinic email addresses and facility names to `data/exclusions-log.txt`. Record only drafts that were actually created successfully.
 
