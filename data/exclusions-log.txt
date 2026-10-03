@@ -148,3 +148,10 @@ praxis@z-ludwigsplatz.de | Zahnärzte am Ludwigsplatz - Ariane Cyrus
 info@dr-pantke.de | Dr. Pantke und Partner
 info@dr-petkov.de | Fachzahnarztpraxis Dr. Petko Petkov
 info@avadent.de | AVADENT Köppern
+
+# 2026-10-03 fill-to-25 batch 7
+info@praxis-drbutros.de | Praxis Dr. Rhena Butros
+info@praxis-fachinger.de | Zahnarztpraxis Stefan Fachinger
+Jan.bartel@gmx.net | Zahnarztpraxis Dr. Jan Bartel
+info@praxisaltemusikschule.de | Zahnarztpraxis Alte Musikschule Murat K. Pak
+praxis@zahnaerzte-badnauheim.de | Zahnärzte am Park Dr. Attia & Dr. Kirk
