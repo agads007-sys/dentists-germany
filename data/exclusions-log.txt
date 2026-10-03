@@ -225,3 +225,10 @@ mail@kurz-zahnmedizin.de | Zahnärztliche Gemeinschaftspraxis Dr. Andrea und Dr.
 info@dr-schirpenbach.de | Zahnarztpraxis Dr. Hanno Schirpenbach
 info@dentsveritas.de | Dents Veritas - Eure Zahnärzte
 praxis@dryazdani.de | Dr. Kianusch Yazdani & Kollegen - Münster
+
+# 2026-10-03 second-run batch 5
+anmeldung@zahnarztpraxis-am-werksberg.de | Zahnarztpraxis Andrea Rethschulte-Klute
+mail@hoernschemeyer.org | Zahnarztpraxis Dr. Tim Hörnschemeyer
+info@dr-lettow.de | Zahnarztpraxis Dr. med. dent. Barnim Lettow
+info@zahnarzt-zagratzki.de | Zahnarztpraxis Dr. Holger Zagratzki
+dr.niemeijer@osnanet.de | Zahnarztpraxis Dr. Roger Niemeijer
