@@ -8,3 +8,10 @@ praxis.butzmann@t-online.de | Zahnarztpraxis Dirk Butzmann & Kollegen
 info@aden-kassel.de | Zahnarztpraxis Dr. Dagmar Aden & Dr. Jan-Eilert Aden
 mail@zahnarztpraxis-jena.de | Zahnarztpraxis Dr. Jan Lorbeer
 info@zahnarzt-andrea-hopf.de | Zahnarztpraxis Andrea Hopf
+
+# 2026-10-03 batch 2
+info@lesum-zahnarzt-praxis.de | Zahnarztpraxis Dr. Wahid Ghannam - Hindenburgstraße
+praxis.seidemann@web.de | Zahnarztpraxis Ralf G. Seidemann
+info@zahnarztpraxis-am-rosental.de | Zahnarztpraxis am Rosental
+zahnarztpraxis-porst@web.de | Zahnarztpraxis Anja Porst
+info@zahnaerztin-erfurt.com | Zahnarztpraxis Dr. Caroline Köllner-Holzheu - Zweigpraxis Tschaikowskistraße
