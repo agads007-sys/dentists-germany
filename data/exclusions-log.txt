@@ -232,3 +232,10 @@ mail@hoernschemeyer.org | Zahnarztpraxis Dr. Tim Hörnschemeyer
 info@dr-lettow.de | Zahnarztpraxis Dr. med. dent. Barnim Lettow
 info@zahnarzt-zagratzki.de | Zahnarztpraxis Dr. Holger Zagratzki
 dr.niemeijer@osnanet.de | Zahnarztpraxis Dr. Roger Niemeijer
+
+# 2026-10-03 third-run batch 1
+info@zahnarztpraxis-sauer.de | Praxis für Zahnheilkunde Dr. Carmen Sauer
+info@praxis-weibrich-worms.de | Zahnarztpraxis Prof. Dr. Dr. Gernot Weibrich & Kollegen
+mail@zahnarzt-muenzner.de | Zahnarztpraxis Susanne Münzner
+info@dentalstudio-worms.de | Dentalstudio Worms - Sylvia von Dörnberg
+zahnarztpraxis-kessel@t-online.de | Dipl.-Stom. Ralf Kessel Zahnarzt
