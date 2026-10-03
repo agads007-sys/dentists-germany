@@ -1,0 +1,3 @@
+# Germany dentist Google-review outreach exclusion emails
+# Clean campaign state initialized for Germany on 2026-10-03.
+# Add only Germany-campaign email exclusions here when intentionally seeding permanent exclusions.
