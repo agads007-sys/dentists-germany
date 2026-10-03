@@ -239,3 +239,10 @@ info@praxis-weibrich-worms.de | Zahnarztpraxis Prof. Dr. Dr. Gernot Weibrich & K
 mail@zahnarzt-muenzner.de | Zahnarztpraxis Susanne Münzner
 info@dentalstudio-worms.de | Dentalstudio Worms - Sylvia von Dörnberg
 zahnarztpraxis-kessel@t-online.de | Dipl.-Stom. Ralf Kessel Zahnarzt
+
+# 2026-10-03 current-run batch 1
+kontakt@zahnarzt-praxis-gera.de | Zahnarztpraxis Lesser & Rudolf
+info@zahnarztpraxis-stoeckel.de | Zahnarztpraxis Stöckel Gera
+patienten-zap-geupel@zahnarzt-gera.info | Zahnarztpraxis Dr. Anke Geupel und Dr. Hendrik Geupel
+praxiskeller@me.com | Zahnarztpraxis Dr. Robert Richard Keller
+dr.claudia@gehroldt.de | Zahnarztpraxis Dr. Claudia Gehroldt-Schwarte
