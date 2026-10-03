@@ -296,3 +296,10 @@ praxis@dr-ulrich-kern.de | Praxis für Zahnheilkunde Dr. Ulrich Kern M.Sc.
 dr-brueckner-hoffmann@t-online.de | Zahnarztpraxis Dr. Susanne Brückner-Hoffmann
 info.mundok@gmail.com | Zahnarztpraxis Dr. stom. Slobodan Djurdjevic - Mund Ok!
 info@zahnarzt-windfelder-zietz.de | Zahnärzte Dr. Michael Windfelder & Dr. Annette Zietz
+
+# 2026-10-03 third-run batch 5
+praxis.dr-fraas@t-online.de | Zahnarztpraxis Dres. Florian und Eduard Fraas
+silvakh68@gmx.de | Zahnarztpraxis Dr. med. dent. Silva Kovacic Harcevic
+ratnadeepsircar@gmail.com | Zahnarztpraxis Ratnadeep Sircar
+wogru67@online.de | Zahnarztpraxis Dr. Wolfgang Grundler
+info@oralchirurgie-marktredwitz.de | Oralchirurgische Zahnarztpraxis Dr. Marc-André Grundl
