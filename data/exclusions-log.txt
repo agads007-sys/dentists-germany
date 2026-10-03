@@ -253,3 +253,11 @@ info@zahnheilkunde-weimar.de | Zahnarztpraxis Michael Brown
 weimar@drjanaherber.de | Zahnarztpraxis Dr. Jana Herber
 info@zahnarzt-weimar.de | Zahnarztpraxis Dr. med. dent. Christina Köhler
 info@annehaase.de | Zahnarztpraxis Anne Haase
+
+
+# 2026-10-03 current-run batch 3
+kontakt@zayw.de | Zahnarztpraxis Yves Winkelmann
+kontakt@praxis-schenk.de | Zahnarztpraxis Schenk
+info@zahnarzt-prifert.de | Gemeinschaftspraxis Prifert & Prifert
+info@zahnarzt-berthold.de | Zahnarzt am Neumarkt - Dr. Stephan Berthold
+info@zahnarztpraxis-dr-theiler.de | Zahnarztpraxis Dr. Julia Theiler
