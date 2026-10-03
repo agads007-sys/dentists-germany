@@ -162,3 +162,10 @@ zahnarzt-marburg-mitte@gmx.de | Zahnarztpraxis Bernd Heiden
 info@zahnarzt-bock.de | Dirk Bock Praxis für Zahnheilkunde
 info@kerngesundezaehne.de | Zahnarztpraxis Dr. Kern
 info@dr-lara-hansen.de | Zahnarztpraxis Dr. Lara Hansen
+
+# 2026-10-03 run batch 1
+praxis@zahnarzt-celle.de | Zahnärzte am Weißen Wall - Andrea Portius & Dr. Joachim Witt
+praxis-hense@t-online.de | Zahnärztliche Gemeinschaftspraxis Dr. Mathias Hense, ZA/ZT Thomas Hense
+zahnarztpraxis@toralfkoemmling.de | Zahnarztpraxis Toralf Kömmling
+info@zahnarztpraxis-tina-nobis.de | Zahnarztpraxis Tina Nobis
+kfo-praxis-gross@gmx.de | Praxis für Kieferorthopädie Dr. med. Petra Groß
