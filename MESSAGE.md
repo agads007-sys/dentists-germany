@@ -21,7 +21,7 @@ Die E-Mails sollen klingen, als hätte ein Deutscher sie selbst geschrieben: dir
 9. Michael richtet alles ein und kümmert sich darum.
 10. Der Preis ist exakt **39,99 € pro Monat**.
 11. Keine Bindung / keine langfristige Vertragsbindung.
-12. Die Überzeugung soll stark sein. Nicht zaghaft „vielleicht könnte das helfen“, sondern natürlich und selbstbewusst, z. B. „Ich bin überzeugt, dass das für Ihre Praxis einen deutlichen Unterschied machen kann.“ Keine garantierten Ergebnisse versprechen.
+12. Die Überzeugung muss sehr stark sein. Michael schreibt nicht, weil er „mal schauen“ will, ob es vielleicht etwas bringt. Er ist überzeugt, dass ein systematischer Aufbau von mehr echten Google-Bewertungen für eine Praxis mit nur 2–25 Bewertungen einen deutlichen Unterschied machen kann. Formuliere deshalb klar und sicher, z. B. „Ich bin überzeugt, dass das für Ihre Praxis einen deutlichen Unterschied machen wird“ oder „Das ist genau die Art von Sache, die Ihren Google-Auftritt spürbar stärker machen kann.“ Vermeide nur konkrete Garantien über Rangpositionen, Umsatz oder eine bestimmte Zahl neuer Patienten.
 13. Beende mit einer kurzen, lockeren CTA-Frage, ob sie es kurz sehen möchten / ob Michael ihnen zeigen soll, wie es funktioniert.
 14. Signiere ausschließlich:
 
@@ -48,11 +48,11 @@ Deshalb schreibe ich Ihnen.
 
 Ich habe ein sehr simples System dafür gebaut. Nach einem Termin geben Sie nur die Telefonnummer des Patienten ein. Der Patient bekommt direkt eine SMS mit einem Link zu Ihrem Google-Profil und kann dort sofort eine Bewertung abgeben.
 
-Für Sie ist das kaum Aufwand. Wenn Sie das konsequent mit Ihren Patienten nutzen, bin ich überzeugt, dass es über die Zeit einen deutlichen Unterschied dafür machen kann, wie Ihre Praxis auf Google dasteht.
+Für Sie ist das kaum Aufwand. Wenn Sie das konsequent mit Ihren Patienten nutzen, bin ich überzeugt, dass es über die Zeit einen deutlichen Unterschied dafür machen wird, wie Ihre Praxis auf Google dasteht.
 
 Ich richte alles ein und kümmere mich darum. Das Ganze kostet 39,99 € im Monat und es gibt keine langfristige Bindung.
 
-Ich glaube wirklich, dass das für Ihre Praxis sehr gut passen würde.
+Ich bin wirklich überzeugt, dass das für Ihre Praxis sehr gut passt.
 
 Soll ich Ihnen kurz zeigen, wie es funktioniert?
 
@@ -137,11 +137,11 @@ Wenn konkrete Zahlen von Wettbewerbern genannt werden, müssen diese ebenfalls a
 
 Schreibe wie ein echter deutscher Absender, der die Sache am Telefon genauso sagen würde.
 
-Direkt. Locker. Selbstbewusst. Klar. Hohe Überzeugung.
+Direkt. Locker. Selbstbewusst. Klar. Sehr hohe Überzeugung. Der Text soll klingen, als ob Michael das Problem klar sieht, die Lösung kennt und genau deshalb schreibt. Nicht vorsichtig, nicht defensiv und nicht „vielleicht hilft es“.
 
 Gut:
 - „Ganz ehrlich: Da ist bei Ihnen noch ziemlich viel Potenzial.“
-- „Ich bin überzeugt, dass das für Ihre Praxis einen deutlichen Unterschied machen kann.“
+- „Ich bin überzeugt, dass das für Ihre Praxis einen deutlichen Unterschied machen wird.“
 - „Für Sie ist das kaum Aufwand.“
 - „Deshalb schreibe ich Ihnen.“
 - „Soll ich Ihnen kurz zeigen, wie es funktioniert?“
@@ -151,7 +151,7 @@ Vermeiden:
 - künstliche Werbesprache
 - übertriebene Höflichkeitsfloskeln
 - wortwörtliche Übersetzungen aus dem Dänischen
-- Garantien über Rankings, Umsatz oder neue Patienten
+- konkrete Garantien über Rankings, Umsatz oder eine bestimmte Zahl neuer Patienten
 - unnötig aggressive oder beleidigende Aussagen über die aktuelle Situation der Praxis
 
 ## Personalisierung
