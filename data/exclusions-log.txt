@@ -190,3 +190,10 @@ praxis.hoehnen@gmx.de | Zahnarztpraxis Dr. med. dent. Oranna Höhnen
 praxis-am-theater@gmx.de | die zahnarztpraxis am theater - Dr. Ralf Junk
 regina-grundheber@t-online.de | Zahnarztpraxis Regina Grundheber
 fremdlb@yahoo.de | Praxis Dr. med. dent. Matthias Boettel
+
+# 2026-10-03 run batch 5
+info@zahnarztpraxis-in-trier.de | Zahnarztpraxis Dr. Martina Collet
+info@dr-claus.de | Zahnarztpraxis Dr. Carsten Claus - Dr. Violeta Claus
+info@zahnarztpraxis-faeven-siltan.de | Faeven Siltan Zahnarztpraxis
+anmeldung@zahnarzt-mark-hill.de | Zahnarztpraxis Mark Hill
+kontakt@dr-roth-ps.de | Zahnarztpraxis Dr. med. dent. Berthold Roth
