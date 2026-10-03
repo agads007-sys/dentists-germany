@@ -218,3 +218,10 @@ empfang@dr-posten.de | Dr. med. dent. Jörg Posten - Praxis für Zahnmedizin
 info@zahnarzt-aachen-brand.de | Zahnarztpraxis Dr. med. dent. Dieter Geisler
 info@jedras-musiol.de | Zahnarztpraxis Dr. Katarzyna Jedras-Musiol
 info@dent-ac.de | Zahnärztliche Praxisgemeinschaft am Theaterplatz - Dr. Jonas Höß
+
+# 2026-10-03 second-run batch 4
+kontakt@alfi2.de | ALFI2 - Dr. med. dent. Karsten Priehn
+mail@kurz-zahnmedizin.de | Zahnärztliche Gemeinschaftspraxis Dr. Andrea und Dr. Helmut Kurz
+info@dr-schirpenbach.de | Zahnarztpraxis Dr. Hanno Schirpenbach
+info@dentsveritas.de | Dents Veritas - Eure Zahnärzte
+praxis@dryazdani.de | Dr. Kianusch Yazdani & Kollegen - Münster
