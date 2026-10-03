@@ -137,9 +137,10 @@ Niemals Details erfinden.
 
 - NUR ENTWÜRFE. NIEMALS AUTOMATISCH SENDEN.
 - Diese Kampagne ist ausschließlich für Zahnärzte / Zahnarztpraxen mit Standort in Deutschland.
+- Die Praxisadresse muss in einer tatsächlichen deutschen **Stadt** liegen. Kleine Städte / Kleinstädte sind ausdrücklich erlaubt. Dörfer, Weiler, sehr ländliche Orte und isolierte ländliche Gemeinden ohne Stadtcharakter sind ausgeschlossen. Wenn der Stadtstatus bzw. der urbane Standort nicht zuverlässig verifiziert werden kann, die Praxis überspringen.
 - Nutze eine passende, offiziell veröffentlichte Kontakt-E-Mail der Praxis.
 - Verifiziere vor dem Entwurf die aktuelle Google-/Google-Maps-Bewertungszahl.
-- Verwende nur Praxen mit weniger als 30 Google-Bewertungen. Praxen mit 30 oder mehr Bewertungen überspringen.
+- Verwende nur Praxen mit **2 bis 25 Google-/Google-Maps-Bewertungen einschließlich beider Grenzen**. Praxen mit 0–1 oder 26+ Bewertungen überspringen.
 - Bewertungszahlen niemals schätzen.
 - Zu Beginn jedes Runs `data/excluded_emails.txt`, `data/excluded_facilities.txt` und `data/exclusions-log.txt` genau einmal laden und zu einer gemeinsamen Arbeits-Deduplizierungsliste zusammenführen.
 - Diese Ausschlüsse gehören ausschließlich zur Deutschland-Kampagne. Keine Ausschlusslisten aus `agads007-sys/dentists`, `agads007-sys/outreach-barebones` oder einer anderen Kampagne verwenden.
