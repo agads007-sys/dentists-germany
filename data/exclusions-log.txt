@@ -211,3 +211,10 @@ info@zahnaerztin-hartmann.de | Zahnarztpraxis Silvia Hartmann
 anmeldung@dr-behm.de | Zahnärztliche Fachpraxis in der Goldstraße - Dr. Behm, Dr. Rohlfing M.Sc.
 mail@zahnaerzte-am-niederwall.de | Zahnärzte am Niederwall - Dr. Sandra Eggert
 info@zahnarzt-philippsen.de | Praxis Artur Philippsen Zahnarzt
+
+# 2026-10-03 second-run batch 3
+info@praxiszentrum-aachen.de | Zahnärztliches Praxiszentrum Aachen - Dr. Christian Hammächer
+empfang@dr-posten.de | Dr. med. dent. Jörg Posten - Praxis für Zahnmedizin
+info@zahnarzt-aachen-brand.de | Zahnarztpraxis Dr. med. dent. Dieter Geisler
+info@jedras-musiol.de | Zahnarztpraxis Dr. Katarzyna Jedras-Musiol
+info@dent-ac.de | Zahnärztliche Praxisgemeinschaft am Theaterplatz - Dr. Jonas Höß
