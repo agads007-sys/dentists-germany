@@ -289,3 +289,10 @@ info@zahnarzt-hochfranken.de | Zahnarztpraxis Mirko Hoffmann
 kontakt@zahnarztpraxis-holter.de | Zahnarztpraxis Dr. Lena Holter
 info@dr-mueller-majer.de | Gemeinschaftspraxis Dr. Frank Müller & Johannes Majer
 praxis@dr-cerny.de | Zahnarztpraxis Dr. Axel Cerny
+
+# 2026-10-03 third-run batch 4
+info@zahnarzt-faustmann.de | Zahnarztpraxis Dr. med. dent. Eva Faustmann
+praxis@dr-ulrich-kern.de | Praxis für Zahnheilkunde Dr. Ulrich Kern M.Sc.
+dr-brueckner-hoffmann@t-online.de | Zahnarztpraxis Dr. Susanne Brückner-Hoffmann
+info.mundok@gmail.com | Zahnarztpraxis Dr. stom. Slobodan Djurdjevic - Mund Ok!
+info@zahnarzt-windfelder-zietz.de | Zahnärzte Dr. Michael Windfelder & Dr. Annette Zietz
