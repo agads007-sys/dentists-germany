@@ -282,3 +282,10 @@ info@zahnarzt-hof.de | Zahnarztpraxis Gebelein
 info@zahnarzt-dr-hack.de | Zahnarztpraxis Dr. Martin Hack
 kontakt@zahnarztpraxis-holter.de | Zahnarztpraxis Dr. Lena Holter
 info@dr-habiger.de | Praxis Dr. Stephan Habiger
+
+# 2026-10-03 current-run batch 5
+info@zahnarzt-hof.de | Zahnarztpraxis Gebelein
+info@zahnarzt-hochfranken.de | Zahnarztpraxis Mirko Hoffmann
+kontakt@zahnarztpraxis-holter.de | Zahnarztpraxis Dr. Lena Holter
+info@dr-mueller-majer.de | Gemeinschaftspraxis Dr. Frank Müller & Johannes Majer
+praxis@dr-cerny.de | Zahnarztpraxis Dr. Axel Cerny
