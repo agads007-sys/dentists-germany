@@ -261,3 +261,10 @@ kontakt@praxis-schenk.de | Zahnarztpraxis Schenk
 info@zahnarzt-prifert.de | Gemeinschaftspraxis Prifert & Prifert
 info@zahnarzt-berthold.de | Zahnarzt am Neumarkt - Dr. Stephan Berthold
 info@zahnarztpraxis-dr-theiler.de | Zahnarztpraxis Dr. Julia Theiler
+
+# 2026-10-03 third-run batch 2
+info@weissblick-zahnaerzte.de | Weißblick Zahnärzte Seidler & Pflaum
+info@praxis-wassmuth-uhlig.de | Zahnarztpraxis Dr. Waßmuth & Dr. Uhlig GbR
+kontakt@praxis-hanel-ilmenau.de | Zahnarztpraxis Grit Hanel
+info@zahnarzt-ziola.de | Zahnarztpraxis Ulrike Ziola
+info@praxis-petra-ludwig.de | Zahnarztpraxis Dr. Petra Ludwig
