@@ -141,3 +141,10 @@ anke.viebig@web.de | Zahnarztpraxis Dipl.-Stom. Anke Viebig
 kontakt@zahnbrillant.de | Zahnbrillant Praxis Dr. Annekathrin Bruder
 a.badstube@zahnarzt-badstube-brugger.de | Zahnarztpraxis Almuth Badstube
 Andrea_Loos@t-online.de | Zahnarztpraxis Andrea Loos
+
+# 2026-10-03 fill-to-25 batch 6
+info@zahnarzt-thorn.de | Zahnarztpraxis Thorn
+praxis@z-ludwigsplatz.de | Zahnärzte am Ludwigsplatz - Ariane Cyrus
+info@dr-pantke.de | Dr. Pantke und Partner
+info@dr-petkov.de | Fachzahnarztpraxis Dr. Petko Petkov
+info@avadent.de | AVADENT Köppern
