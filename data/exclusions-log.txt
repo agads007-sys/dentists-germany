@@ -246,3 +246,10 @@ info@zahnarztpraxis-stoeckel.de | Zahnarztpraxis Stöckel Gera
 patienten-zap-geupel@zahnarzt-gera.info | Zahnarztpraxis Dr. Anke Geupel und Dr. Hendrik Geupel
 praxiskeller@me.com | Zahnarztpraxis Dr. Robert Richard Keller
 dr.claudia@gehroldt.de | Zahnarztpraxis Dr. Claudia Gehroldt-Schwarte
+
+# 2026-10-03 current-run batch 2
+info@zahnkontakte-chemnitz.de | Zahnkontakte Chemnitz - Dr. Sarah Bonnet & Christian Kux
+info@zahnheilkunde-weimar.de | Zahnarztpraxis Michael Brown
+weimar@drjanaherber.de | Zahnarztpraxis Dr. Jana Herber
+info@zahnarzt-weimar.de | Zahnarztpraxis Dr. med. dent. Christina Köhler
+info@annehaase.de | Zahnarztpraxis Anne Haase
