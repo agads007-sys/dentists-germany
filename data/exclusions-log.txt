@@ -113,3 +113,10 @@ knutarew@gmx.de | Zahnpraxis Knutarew
 postpraxis@yahoo.com | Zahnarztpraxis Leo Feuer
 info@zahnarztpraxis-reichmann.de | Zahnarztpraxis Reichmann
 praxis@zahnaerztin-o-stuertz.de | Zahnarztpraxis Olga Stürtz
+
+# 2026-10-03 fill-to-25 batch 2
+info@zahnzentrum-sn.de | MVZ Zahnzentrum Schwerin
+info@zahnarztpraxis-hochleutner.de | Zahnarztpraxis Beate Hochleutner
+info@zahnarzt-schwerin.com | Zahnarztpraxis Mohamed Alsafadi
+zahnarztpraxis.geier@t-online.de | Zahnarztpraxis Geier
+za-thomaskoch@arcor.de | Zahnarztpraxis Thomas Koch
