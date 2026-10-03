@@ -1,0 +1,15 @@
+# Gmail draft account mapping
+# Copied from agads007-sys/dentists.
+# This file records account-to-secret-name wiring only. Never store app-password values here.
+# GitHub Actions secret values belong in: Settings > Secrets and variables > Actions.
+
+gmail1 | michaeldk2026@gmail.com | GMAIL1_APP_PASSWORD
+gmail2 | michaeldk.contact@gmail.com | GMAIL2_APP_PASSWORD
+gmail3 | michaeldk900@gmail.com | GMAIL3_APP_PASSWORD
+gmail4 | elizabethberg2021@gmail.com | GMAIL4_APP_PASSWORD
+gmail5 | michael2026dk@gmail.com | GMAIL5_APP_PASSWORD
+gmail6 | michaelbdk2026@gmail.com | GMAIL6_APP_PASSWORD
+gmail7 | michaelbdk2025@gmail.com | GMAIL7_APP_PASSWORD
+gmail8 | michaeldb2025@gmail.com | GMAIL8_APP_PASSWORD
+
+# Germany Google-review outreach rule: when multiple Gmail accounts are available, spread new drafts across all accounts rather than concentrating them in one account. Drafts only; never send automatically.
