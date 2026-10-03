@@ -106,3 +106,10 @@ info@zahnarzt-nordstrasse.de | Zahnarztpraxis Nordstraße - Dr. Sebastian Michae
 info@dr-osing.de | Zahnarztpraxis Dr. Christoph Osing
 info@zahnarzt-greger-duesseldorf.de | Zahnarztpraxis Markus Greger
 praxis-stircu-jakerson@gmx.de | Zahnarztpraxis Dr. Stircu-Jakerson
+
+# 2026-10-03 fill-to-25 batch 1
+info@zahnarztpraxis-soemers.de | Zahnarztpraxis Sonja Soemers
+knutarew@gmx.de | Zahnpraxis Knutarew
+postpraxis@yahoo.com | Zahnarztpraxis Leo Feuer
+info@zahnarztpraxis-reichmann.de | Zahnarztpraxis Reichmann
+praxis@zahnaerztin-o-stuertz.de | Zahnarztpraxis Olga Stürtz
