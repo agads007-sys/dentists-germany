@@ -204,3 +204,10 @@ info@zahnarzt-mainz.de | Gemeinschaftspraxis Dres. Bühner & Dr. Walk
 ulrike-baertsch@t-online.de | Ulrike Bärtsch Zahnärztin
 praxis-bi@drborcherding.de | Praxis Dr. Borcherding, Dr. Richters und Kollegen - Bielefeld
 post@zahnarztpraxis-huelsmann.de | Zahnarztpraxis Dr. Tina Hülsmann
+
+# 2026-10-03 second-run batch 2
+praxis@Dr-Kegel.de | Zahnarzt Dr. Kegel
+info@zahnaerztin-hartmann.de | Zahnarztpraxis Silvia Hartmann
+anmeldung@dr-behm.de | Zahnärztliche Fachpraxis in der Goldstraße - Dr. Behm, Dr. Rohlfing M.Sc.
+mail@zahnaerzte-am-niederwall.de | Zahnärzte am Niederwall - Dr. Sandra Eggert
+info@zahnarzt-philippsen.de | Praxis Artur Philippsen Zahnarzt
