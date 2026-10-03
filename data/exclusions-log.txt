@@ -134,3 +134,10 @@ info@zahnarztpraxis-schilling-meyer.de | Zahnarztpraxis Dr. Ingeborg Schilling-M
 service@zahnarztpraxis-rupf.de | Praxis für Zahnheilkunde Cornelia Rupf
 zahnarztpraxis-solbrig@t-online.de | Sandy Solbrig Zahnarztpraxis
 info@dentaliaplus.de | dentalia plus - Zahnarztpraxis Kathleen Franke
+
+# 2026-10-03 fill-to-25 batch 5
+info@gassdorf.net | Praxis Dipl.-Stom. Iris Gaßdorf
+anke.viebig@web.de | Zahnarztpraxis Dipl.-Stom. Anke Viebig
+kontakt@zahnbrillant.de | Zahnbrillant Praxis Dr. Annekathrin Bruder
+a.badstube@zahnarzt-badstube-brugger.de | Zahnarztpraxis Almuth Badstube
+Andrea_Loos@t-online.de | Zahnarztpraxis Andrea Loos
