@@ -268,3 +268,10 @@ info@praxis-wassmuth-uhlig.de | Zahnarztpraxis Dr. Waßmuth & Dr. Uhlig GbR
 kontakt@praxis-hanel-ilmenau.de | Zahnarztpraxis Grit Hanel
 info@zahnarzt-ziola.de | Zahnarztpraxis Ulrike Ziola
 info@praxis-petra-ludwig.de | Zahnarztpraxis Dr. Petra Ludwig
+
+# 2026-10-03 current-run batch 4
+info@warthmann-plauen.de | Zahnarztpraxis Ina Warthmann
+zahnarzt-dr-oefler@t-online.de | Zahnarztpraxis Dr. med. dent. Frank Oefler
+info@plauen.dentist | Zahnarztpraxis Martin Schaller
+info@praxis-kroll.com | Zahnarztpraxis Kroll Plauen
+info@zahnarztpraxis-wild.de | Zahnarztpraxis Sarah Wild
