@@ -169,3 +169,10 @@ praxis-hense@t-online.de | Zahnärztliche Gemeinschaftspraxis Dr. Mathias Hense,
 zahnarztpraxis@toralfkoemmling.de | Zahnarztpraxis Toralf Kömmling
 info@zahnarztpraxis-tina-nobis.de | Zahnarztpraxis Tina Nobis
 kfo-praxis-gross@gmx.de | Praxis für Kieferorthopädie Dr. med. Petra Groß
+
+# 2026-10-03 run batch 2
+rezeption@zahnarzt-nms.de | Die Zahnärzte Tungendorf GbR
+christine-denden@t-online.de | Zahnarztpraxis Christine Denden
+zahnarztpraxis-am-wall@gmx.de | Zahnarztpraxis am Wall Dr. Maline Bode-Hirsch
+info@zahnarztpraxis-krueger.net | Zahnarztpraxis Dr. Stephan Krüger
+info@zahnarzt-praxis-werner.de | Zahnarztpraxis Christine Werner
