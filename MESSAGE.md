@@ -1,111 +1,127 @@
 # Nachricht
 
-## NICHT VERHANDELBAR: GLEICHE BOTSCHAFT, ANDERE FORMULIERUNG
+## NICHT VERHANDELBAR: GLEICHE BOTSCHAFT, NATÜRLICHES DEUTSCH
 
-Jeder Entwurf muss dieselbe Botschaft unten vermitteln.
+Jeder Entwurf muss dieselbe Kernbotschaft vermitteln.
 
-„Variation“ bedeutet PARAPHRASIEREN, nicht einen neuen Pitch erfinden.
+Die E-Mails sollen klingen, als hätte ein Deutscher sie selbst geschrieben: direkt, locker, klar und selbstbewusst. Keine wörtlich aus dem Dänischen übertragenen Formulierungen, kein Agentursprech und kein künstlich perfektes Marketingdeutsch.
 
-Unterschiedliche Wörter. Gleiche Botschaft.
+„Variation“ bedeutet: dieselbe Aussage natürlich anders formulieren. Nicht nur einzelne Wörter austauschen und auch keinen neuen Pitch erfinden.
 
-Formuliere Sätze natürlich und deutlich unterschiedlich, während alle wichtigen Gedanken, dieselbe Überzeugung, dieselbe Argumentationsfolge und dasselbe Angebot erhalten bleiben.
+## Kernbotschaft jedes Entwurfs
 
-Erfinde keine neuen Verkaufsargumente, Vorteile, Einwände, Klinikgeschichten oder Marketingversprechen.
-
-## Die Botschaft, die jede E-Mail enthalten muss
-
-1. Michael ist auf Google / bei der Suche nach Zahnärzten auf die Praxis gestoßen.
-2. Nenne die VERIFIZIERTE aktuelle Anzahl der Google-Bewertungen der Praxis.
-3. Michael hat die Praxis mit anderen Zahnärzten/Praxen in der Umgebung verglichen und glaubt ehrlich, dass deutliches Potenzial darin liegt, mehr Bewertungen zu bekommen.
-4. Erkläre den Grund einfach: Menschen vergleichen Zahnarztpraxen auf Google, und ein großer Unterschied bei der Anzahl der Bewertungen kann bei der Wahl zwischen Praxen eine Rolle spielen.
-5. „Deshalb schreibe ich“ oder eine natürliche deutsche Formulierung mit genau derselben Bedeutung.
-6. Erkläre das Produkt: Nach einem Patientenbesuch gibt die Praxis die Telefonnummer des Patienten ein. Der Patient erhält eine SMS mit einem direkten Link zum Google-Profil / Bewertungsbereich der Praxis und kann sofort eine Bewertung abgeben.
-7. Erkläre, dass dies für die Praxis fast keinen Zeitaufwand bedeutet, aber bei konsequenter Nutzung mit Patienten langfristig einen großen Unterschied dafür machen kann, wie die Praxis auf Google wirkt.
-8. Michael richtet alles ein und kümmert sich darum.
-9. Der Preis ist exakt 299 kr. pro Monat.
-10. Keine Bindung / keine Vertragsbindung.
-11. Sage natürlich, dass Michael glaubt, dass das für diese Praxis sehr relevant bzw. naheliegend wäre.
-12. Beende mit einer kurzen, lockeren CTA-Frage, ob sie es sehen möchten / ob es relevant sein könnte.
-13. Signiere mit:
+1. Michael ist bei Google / bei der Suche nach Zahnärzten auf die Praxis gestoßen.
+2. Nenne die VERIFIZIERTE aktuelle Anzahl der Google-/Google-Maps-Bewertungen der Praxis.
+3. Stelle klar, dass die Praxis im Vergleich zu anderen Zahnärzten/Praxen in der Umgebung bei der Anzahl der Bewertungen noch deutlich Luft nach oben hat. Behaupte keine konkreten Wettbewerberzahlen, wenn diese nicht verifiziert wurden.
+4. Erkläre direkt, warum das relevant ist: Menschen vergleichen Zahnarztpraxen auf Google, und eine deutlich höhere Anzahl glaubwürdiger Bewertungen beeinflusst den Gesamteindruck und kann bei der Entscheidung zwischen mehreren Praxen eine Rolle spielen.
+5. Erwähne natürlich, dass Bewertungen nicht nur auf potenzielle Patienten wirken: Google selbst nennt Anzahl und Qualität von Bewertungen als Faktoren, die die lokale Sichtbarkeit mit beeinflussen können. Formuliere das niemals als Garantie oder als Behauptung, die Praxis mit den meisten Bewertungen werde automatisch am höchsten gerankt.
+6. „Deshalb schreibe ich Ihnen“ oder eine natürliche Formulierung mit genau derselben Funktion.
+7. Erkläre das Produkt: Nach einem Patientenbesuch gibt die Praxis die Telefonnummer des Patienten ein. Der Patient erhält eine SMS mit einem direkten Link zum Google-Profil / Bewertungsbereich der Praxis und kann dort direkt eine Bewertung abgeben.
+8. Erkläre, dass der Aufwand für die Praxis minimal ist, konsequente Nutzung aber über die Zeit einen deutlich sichtbaren Unterschied beim Google-Auftritt machen kann.
+9. Michael richtet alles ein und kümmert sich darum.
+10. Der Preis ist exakt **39,99 € pro Monat**.
+11. Keine Bindung / keine langfristige Vertragsbindung.
+12. Die Überzeugung soll stark sein. Nicht zaghaft „vielleicht könnte das helfen“, sondern natürlich und selbstbewusst, z. B. „Ich bin überzeugt, dass das für Ihre Praxis einen deutlichen Unterschied machen kann.“ Keine garantierten Ergebnisse versprechen.
+13. Beende mit einer kurzen, lockeren CTA-Frage, ob sie es kurz sehen möchten / ob Michael ihnen zeigen soll, wie es funktioniert.
+14. Signiere ausschließlich:
 
 Viele Grüße
-Michael
-Dansk Administrationsbureau
+Michael Berg
 
-Jeder Entwurf muss ALLE 13 Punkte enthalten. Ein Entwurf, der einen Kernpunkt weglässt, nur um „anders“ zu klingen, ist falsch.
+Keinen dänischen Firmennamen unter die Signatur setzen.
 
-## Referenznachricht
+Jeder Entwurf muss ALLE Kernpunkte enthalten. Ein Entwurf, der einen wichtigen Punkt weglässt, nur um anders zu klingen, ist falsch.
+
+## Master-Referenz
 
 Hallo,
 
 ich bin gerade auf Google auf Ihre Praxis gestoßen und habe gesehen, dass Sie aktuell [X] Bewertungen haben.
 
-Ich habe Sie kurz mit einigen anderen Zahnarztpraxen in Ihrer Umgebung verglichen, und ehrlich gesagt glaube ich, dass bei den Bewertungen noch ziemlich viel Potenzial liegt.
+Ich habe mir im Vergleich auch ein paar andere Zahnarztpraxen in Ihrer Umgebung angesehen. Ganz direkt: Bei den Google-Bewertungen ist bei Ihnen noch ziemlich viel Potenzial.
 
-Wenn Menschen einen neuen Zahnarzt suchen, vergleichen sie Praxen häufig direkt auf Google. Und wenn eine Praxis deutlich mehr Bewertungen als eine andere hat, kann das bei der Entscheidung natürlich einen Unterschied machen.
+Das ist relevant, weil viele Leute, die einen neuen Zahnarzt suchen, die Praxen erst einmal auf Google vergleichen. Wenn eine Praxis deutlich mehr Bewertungen aufgebaut hat als eine andere, macht das beim ersten Eindruck einen Unterschied und kann die Entscheidung mit beeinflussen.
+
+Dazu kommt, dass Bewertungen auch für die lokale Sichtbarkeit auf Google eine Rolle spielen können. Google nennt die Anzahl und Bewertung von Rezensionen selbst als einen der Faktoren für lokale Suchergebnisse.
 
 Deshalb schreibe ich Ihnen.
 
-Ich habe etwas sehr Einfaches aufgebaut: Nach einem Termin geben Sie nur die Telefonnummer des Patienten ein. Der Patient bekommt dann eine SMS mit einem direkten Link zu Ihrem Google-Profil und kann dort sofort eine Bewertung abgeben.
+Ich habe ein sehr simples System dafür gebaut. Nach einem Termin geben Sie nur die Telefonnummer des Patienten ein. Der Patient bekommt direkt eine SMS mit einem Link zu Ihrem Google-Profil und kann dort sofort eine Bewertung abgeben.
 
-Für Sie dauert das praktisch keine Zeit. Wenn Sie es aber konsequent mit Ihren Patienten nutzen, kann es langfristig einen großen Unterschied dafür machen, wie Ihre Praxis auf Google aussieht.
+Für Sie ist das kaum Aufwand. Wenn Sie das konsequent mit Ihren Patienten nutzen, bin ich überzeugt, dass es über die Zeit einen deutlichen Unterschied dafür machen kann, wie Ihre Praxis auf Google dasteht.
 
-Ich richte alles ein und kümmere mich darum. 299 kr. pro Monat, ohne Bindung.
+Ich richte alles ein und kümmere mich darum. Das Ganze kostet 39,99 € im Monat und es gibt keine langfristige Bindung.
 
-Ich glaube wirklich, dass das bei Ihnen sehr gut passen würde.
+Ich glaube wirklich, dass das für Ihre Praxis sehr gut passen würde.
 
 Soll ich Ihnen kurz zeigen, wie es funktioniert?
 
 Viele Grüße
-Michael
-Dansk Administrationsbureau
+Michael Berg
 
-## Gute Variation
+## Beispiele für natürliche Variation
 
-Ein Entwurf kann z. B. beginnen:
+Ein Entwurf kann beginnen:
 
-„Ich habe Ihre Praxis gerade bei Google gefunden und gesehen, dass Sie derzeit [X] Bewertungen haben.“
+„Ich bin gerade bei Google auf Ihre Praxis gestoßen. Dabei ist mir aufgefallen, dass Sie aktuell [X] Bewertungen haben.“
 
 Ein anderer:
 
-„Beim Blick auf Zahnarztpraxen in Ihrer Gegend bin ich auf Ihr Google-Profil gestoßen. Dort stehen aktuell [X] Bewertungen.“
+„Ich habe mir eben Zahnarztpraxen in Ihrer Gegend auf Google angesehen und bin dabei auf Sie gestoßen. Ihr Profil steht momentan bei [X] Bewertungen.“
 
 Ein weiterer:
 
-„Ich war gerade auf Google unterwegs und bin dabei auf Ihre Praxis gestoßen. Mir ist aufgefallen, dass Sie aktuell [X] Bewertungen haben.“
+„Beim Vergleich von Zahnarztpraxen in Ihrer Umgebung bin ich auf Ihr Google-Profil gekommen. Sie haben dort aktuell [X] Bewertungen.“
 
 Das sind unterschiedliche Formulierungen derselben Aussage.
 
-Dasselbe gilt für jeden Absatz.
+Für den Vergleichs- und Problemabsatz können z. B. folgende Varianten verwendet werden:
 
-Für den Vergleichs-/Begründungsabsatz können z. B. folgende Varianten dieselbe Botschaft tragen:
-
-„Ich habe mir auch ein paar andere Praxen in Ihrer Umgebung angesehen und glaube wirklich, dass hier einiges zu holen ist. Patienten vergleichen Zahnarztpraxen auf Google, und wenn eine Praxis deutlich mehr Bewertungen hat, fällt das natürlich auf.“
+„Ich habe mir daneben auch andere Praxen in der Gegend angesehen. Ganz ehrlich: Bei Ihnen ist bei der Zahl der Bewertungen noch ordentlich Luft nach oben. Gerade weil Patienten auf Google vergleichen, fällt so ein Unterschied schnell auf.“
 
 oder:
 
-„Als ich Ihre Praxis mit anderen Zahnärzten in der Umgebung verglichen habe, war mein erster Gedanke, dass bei den Bewertungen noch eine echte Chance liegt. Wer einen neuen Zahnarzt sucht, schaut oft auf Google, und die Anzahl der Bewertungen beeinflusst den Gesamteindruck.“
+„Im direkten Vergleich mit anderen Praxen in Ihrer Umgebung sieht man ziemlich schnell, dass Sie bei den Bewertungen noch einiges aufholen können. Und genau darauf achten viele Leute, wenn sie über Google einen neuen Zahnarzt suchen.“
 
-Gleiche Bedeutung. Andere Formulierung.
+oder:
+
+„Wenn man Ihr Profil neben andere Praxen aus der Gegend hält, ist bei der Bewertungszahl noch viel Potenzial. Für jemanden, der gerade einen neuen Zahnarzt sucht und mehrere Google-Profile nebeneinander anschaut, spielt das durchaus eine Rolle.“
+
+Für den Sichtbarkeits-Punkt:
+
+„Mehr gute Bewertungen können außerdem auch bei der lokalen Sichtbarkeit auf Google helfen.“
+
+oder:
+
+„Bewertungen sind nicht nur für Patienten wichtig. Anzahl und Bewertung fließen laut Google auch in die lokale Sichtbarkeit ein.“
+
+oder:
+
+„Das Ganze betrifft nicht nur den ersten Eindruck. Mehr positive Bewertungen können auch dazu beitragen, dass eine Praxis lokal auf Google stärker sichtbar wird.“
+
+Nie behaupten:
+- „Wer die meisten Bewertungen hat, steht automatisch ganz oben.“
+- „Damit kommen Sie garantiert auf Platz 1.“
+- „Sie werden dadurch sicher X neue Patienten bekommen.“
 
 ## Variationsanforderungen innerhalb eines Batches
 
-Erstelle keinen Batch, in dem fast alle E-Mails zu 90 % identisch sind.
+Erstelle keinen Batch, in dem die E-Mails fast identisch sind.
 
 Über einen Batch hinweg:
-- Formuliere die Einleitung auf mehrere deutlich unterschiedliche Arten.
-- Formuliere den lokalen Vergleich unterschiedlich.
-- Formuliere die Erklärung, warum Bewertungen wichtig sind, unterschiedlich.
+- Formuliere den Einstieg deutlich unterschiedlich.
+- Formuliere den Vergleich mit anderen Praxen unterschiedlich.
+- Formuliere das Problem niedriger Bewertungszahlen unterschiedlich.
+- Formuliere die Wirkung auf potenzielle Patienten unterschiedlich.
+- Formuliere den Punkt zur lokalen Google-Sichtbarkeit unterschiedlich.
 - Formuliere die Erklärung des SMS-Systems unterschiedlich.
-- Formuliere den Punkt „kaum Aufwand / langfristig großer Unterschied“ unterschiedlich.
+- Formuliere „kaum Aufwand / deutlicher Unterschied über Zeit“ unterschiedlich.
 - Formuliere Einrichtung, Preis und fehlende Bindung unterschiedlich.
 - Variiere den abschließenden Überzeugungssatz.
 - Variiere die CTA.
-- Schreibe immer „Dansk Administrationsbureau“ unter Michael.
+- Signiere immer mit „Michael Berg“.
 
-Trotzdem muss die Botschaft und müssen alle 13 Kernpunkte immer erhalten bleiben.
-
-Keine zufällige Personalisierung nur für Abwechslung. Die Variation soll hauptsächlich aus der Sprache kommen.
+Die Variation soll aus natürlicher Sprache kommen, nicht aus erfundenen Praxisdetails.
 
 ## Wichtige Regel zu Zahlen
 
@@ -113,23 +129,36 @@ Keine zufällige Personalisierung nur für Abwechslung. Die Variation soll haupt
 
 Verwende keine erfundenen oder geschätzten Bewertungszahlen.
 
-Wenn tatsächliche Zahlen von Wettbewerbern als lokaler Vergleich genannt werden, müssen auch diese vorher verifiziert werden. Generische Aussagen wie „eine Praxis hat deutlich mehr Bewertungen als eine andere“ benötigen keine konkreten Wettbewerberzahlen.
+Verwende nur Praxen mit **2 bis 25 Google-/Google-Maps-Bewertungen einschließlich beider Grenzen**. Praxen mit 0–1 oder 26+ Bewertungen sind nicht geeignet.
+
+Wenn konkrete Zahlen von Wettbewerbern genannt werden, müssen diese ebenfalls aktuell verifiziert sein. Sonst nur allgemein formulieren, dass andere Praxen in der Umgebung mehr Bewertungen haben.
 
 ## Ton
 
-Schreibe so, wie Michael am Telefon tatsächlich sprechen würde.
+Schreibe wie ein echter deutscher Absender, der die Sache am Telefon genauso sagen würde.
 
-Locker. Direkt. Selbstbewusst. Gesprächig. Mit klarer Überzeugung.
+Direkt. Locker. Selbstbewusst. Klar. Hohe Überzeugung.
 
-Nicht unnötig förmlich oder nach Agentur-/KI-Vorlage klingend.
+Gut:
+- „Ganz ehrlich: Da ist bei Ihnen noch ziemlich viel Potenzial.“
+- „Ich bin überzeugt, dass das für Ihre Praxis einen deutlichen Unterschied machen kann.“
+- „Für Sie ist das kaum Aufwand.“
+- „Deshalb schreibe ich Ihnen.“
+- „Soll ich Ihnen kurz zeigen, wie es funktioniert?“
 
-Keine garantierten Ergebnisse und keine unbelegten Leistungsversprechen.
+Vermeiden:
+- steifes Geschäftsdeutsch
+- künstliche Werbesprache
+- übertriebene Höflichkeitsfloskeln
+- wortwörtliche Übersetzungen aus dem Dänischen
+- Garantien über Rankings, Umsatz oder neue Patienten
+- unnötig aggressive oder beleidigende Aussagen über die aktuelle Situation der Praxis
 
 ## Personalisierung
 
 Die verifizierte Google-Bewertungszahl ist die primäre Personalisierung.
 
-Eine zweite verifizierte praxisbezogene Information ist optional und darf nur verwendet werden, wenn sie natürlich passt, ohne die Botschaft zu verändern.
+Eine zweite verifizierte praxisbezogene Information ist optional und darf nur verwendet werden, wenn sie natürlich passt und den Pitch nicht verändert.
 
 Niemals Details erfinden.
 
@@ -140,7 +169,7 @@ Niemals Details erfinden.
 - Die Praxisadresse muss in einer tatsächlichen deutschen **Stadt** liegen. Kleine Städte / Kleinstädte sind ausdrücklich erlaubt. Dörfer, Weiler, sehr ländliche Orte und isolierte ländliche Gemeinden ohne Stadtcharakter sind ausgeschlossen. Wenn der Stadtstatus bzw. der urbane Standort nicht zuverlässig verifiziert werden kann, die Praxis überspringen.
 - Nutze eine passende, offiziell veröffentlichte Kontakt-E-Mail der Praxis.
 - Verifiziere vor dem Entwurf die aktuelle Google-/Google-Maps-Bewertungszahl.
-- Verwende nur Praxen mit **2 bis 25 Google-/Google-Maps-Bewertungen einschließlich beider Grenzen**. Praxen mit 0–1 oder 26+ Bewertungen überspringen.
+- Verwende nur Praxen mit **2 bis 25 Google-/Google-Maps-Bewertungen einschließlich beider Grenzen**.
 - Bewertungszahlen niemals schätzen.
 - Zu Beginn jedes Runs `data/excluded_emails.txt`, `data/excluded_facilities.txt` und `data/exclusions-log.txt` genau einmal laden und zu einer gemeinsamen Arbeits-Deduplizierungsliste zusammenführen.
 - Diese Ausschlüsse gehören ausschließlich zur Deutschland-Kampagne. Keine Ausschlusslisten aus `agads007-sys/dentists`, `agads007-sys/outreach-barebones` oder einer anderen Kampagne verwenden.
