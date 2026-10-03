@@ -120,3 +120,10 @@ info@zahnarztpraxis-hochleutner.de | Zahnarztpraxis Beate Hochleutner
 info@zahnarzt-schwerin.com | Zahnarztpraxis Mohamed Alsafadi
 zahnarztpraxis.geier@t-online.de | Zahnarztpraxis Geier
 za-thomaskoch@arcor.de | Zahnarztpraxis Thomas Koch
+
+# 2026-10-03 fill-to-25 batch 3
+info@gerne-zum-zahnarzt.de | Zahnarztpraxis Marcus Mohr
+mail@dr-bruno-wagner.de | Zahnarztpraxis Dr. Bruno Wagner
+info@zahnarztpraxis-apachter.de | Zahnarztpraxis Dr. Anna Pachter
+info@xn--diezahnrztin-mcb.de | Die Zahnärztin Nadine Bley-Schmidt
+zahnarzt@dr-niemann-hildesheim.de | Zahnarztpraxis Dr. Ulrich Niemann
