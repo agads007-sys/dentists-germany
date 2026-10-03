@@ -12,7 +12,7 @@ It contains:
 
 ## Germany campaign scope
 
-Only research and draft for dentists / dental clinics located in Germany, in cities, can be small cities, but never completely rural places with tiny populations. Verify the clinic's current Google/Google Maps review count and use only clinics with between 1-25 reviews. Use an appropriate officially published contact email. Never guess review counts or contact details.
+Only research and draft for dentists / dental clinics located in Germany. The clinic must be located in an actual German **Stadt**; small cities / **Kleinstädte** are allowed, but villages, hamlets, isolated rural places, and rural municipalities without genuine city/town character are excluded. If the location cannot be verified as a city/town rather than a rural settlement, skip it. Verify the clinic's current Google/Google Maps review count and use only clinics with **2 through 25 reviews inclusive**. Clinics with 0–1 or 26+ reviews are ineligible. Use an appropriate officially published contact email. Never guess review counts, location eligibility, or contact details.
 
 When multiple connected Gmail accounts are available, spread genuinely new drafts across the accounts in `data/gmail_accounts.txt`. Never duplicate prospects merely to fill accounts.
 
