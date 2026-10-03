@@ -155,3 +155,10 @@ info@praxis-fachinger.de | Zahnarztpraxis Stefan Fachinger
 Jan.bartel@gmx.net | Zahnarztpraxis Dr. Jan Bartel
 info@praxisaltemusikschule.de | Zahnarztpraxis Alte Musikschule Murat K. Pak
 praxis@zahnaerzte-badnauheim.de | Zahnärzte am Park Dr. Attia & Dr. Kirk
+
+# 2026-10-03 fill-to-25 batch 8
+zahnarztpraxis-michelbach@t-online.de | Gemeinschaftspraxis Dr. Prisender & Dr. Diekmann-Walter
+zahnarzt-marburg-mitte@gmx.de | Zahnarztpraxis Bernd Heiden
+info@zahnarzt-bock.de | Dirk Bock Praxis für Zahnheilkunde
+info@kerngesundezaehne.de | Zahnarztpraxis Dr. Kern
+info@dr-lara-hansen.de | Zahnarztpraxis Dr. Lara Hansen
