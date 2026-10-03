@@ -176,3 +176,10 @@ christine-denden@t-online.de | Zahnarztpraxis Christine Denden
 zahnarztpraxis-am-wall@gmx.de | Zahnarztpraxis am Wall Dr. Maline Bode-Hirsch
 info@zahnarztpraxis-krueger.net | Zahnarztpraxis Dr. Stephan Krüger
 info@zahnarzt-praxis-werner.de | Zahnarztpraxis Christine Werner
+
+# 2026-10-03 run batch 3
+info@zahnarzt-politz.de | Zahnarztpraxis Till Politz
+frage@dr-harnack.de | Zahnarztpraxis Dr. Lutz Harnack
+info@dr-jo-walter.de | Praxis für Zahnheilkunde Dr. med. dent. Johannes Walter
+praxis@eydel.net | Dr. Uta Eydel und Franz Eydel
+praxis@zahnarzt-gabriel.de | Zahnarztpraxis Dr. Wolf-Diether Gabriel
