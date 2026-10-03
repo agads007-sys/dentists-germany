@@ -197,3 +197,10 @@ info@dr-claus.de | Zahnarztpraxis Dr. Carsten Claus - Dr. Violeta Claus
 info@zahnarztpraxis-faeven-siltan.de | Faeven Siltan Zahnarztpraxis
 anmeldung@zahnarzt-mark-hill.de | Zahnarztpraxis Mark Hill
 kontakt@dr-roth-ps.de | Zahnarztpraxis Dr. med. dent. Berthold Roth
+
+# 2026-10-03 second-run batch 1
+kontakt@zahnaerztin-dr-sandner.de | Dr. Andrea Sandner - Sanfte Zahnheilkunde
+info@zahnarzt-mainz.de | Gemeinschaftspraxis Dres. Bühner & Dr. Walk
+ulrike-baertsch@t-online.de | Ulrike Bärtsch Zahnärztin
+praxis-bi@drborcherding.de | Praxis Dr. Borcherding, Dr. Richters und Kollegen - Bielefeld
+post@zahnarztpraxis-huelsmann.de | Zahnarztpraxis Dr. Tina Hülsmann
