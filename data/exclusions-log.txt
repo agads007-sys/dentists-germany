@@ -29,3 +29,10 @@ termin@zahnerhaltung-halle.de | Zahnerhaltung Halle - Dr. Michaela Strumpski
 rezeption@dr-reissmann.de | Zahnarztpraxis Dr. André Reißmann
 info@zahnarztpraxis-bertram.de | Zahnarztpraxis Janine Bertram M.Sc.
 webmaster@zap-hillebrand.de | Zahnarztpraxis Hillebrand - Dr. Richard Hillebrand & Kirsten Hillebrand
+
+# 2026-10-03 batch 5
+kontakt@trixl-heinig.de | Zahnarztpraxis Ines Trixl und Dr. Carmen Heinig
+praxis@zaguenther.de | Zahnarztpraxis Dipl.-Stom. Constanze Günther
+praxis@zahnaerzte-im-ulrichshaus.de | Zahnärzte im Ulrichshaus
+info@floradent-magdeburg.com | FloraDent-Magdeburg Abdellatif Hammadi Zahnarztpraxis
+info@zahnarztpraxis-kielwein.de | Zahnarztpraxis Katharina Kielwein
