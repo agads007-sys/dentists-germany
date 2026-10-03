@@ -127,3 +127,10 @@ mail@dr-bruno-wagner.de | Zahnarztpraxis Dr. Bruno Wagner
 info@zahnarztpraxis-apachter.de | Zahnarztpraxis Dr. Anna Pachter
 info@xn--diezahnrztin-mcb.de | Die Zahnärztin Nadine Bley-Schmidt
 zahnarzt@dr-niemann-hildesheim.de | Zahnarztpraxis Dr. Ulrich Niemann
+
+# 2026-10-03 fill-to-25 batch 4
+praxis@zahnmedizin-roessler.de | RÖßLER & RÖßLER ZAHNMEDIZIN
+info@zahnarztpraxis-schilling-meyer.de | Zahnarztpraxis Dr. Ingeborg Schilling-Meyer
+service@zahnarztpraxis-rupf.de | Praxis für Zahnheilkunde Cornelia Rupf
+zahnarztpraxis-solbrig@t-online.de | Sandy Solbrig Zahnarztpraxis
+info@dentaliaplus.de | dentalia plus - Zahnarztpraxis Kathleen Franke
