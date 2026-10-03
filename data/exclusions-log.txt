@@ -15,3 +15,10 @@ praxis.seidemann@web.de | Zahnarztpraxis Ralf G. Seidemann
 info@zahnarztpraxis-am-rosental.de | Zahnarztpraxis am Rosental
 zahnarztpraxis-porst@web.de | Zahnarztpraxis Anja Porst
 info@zahnaerztin-erfurt.com | Zahnarztpraxis Dr. Caroline Köllner-Holzheu - Zweigpraxis Tschaikowskistraße
+
+# 2026-10-03 batch 3
+info@zahnarztpraxis-gittersee.de | Zahnarztpraxis Dresden-Gittersee Verena Schneider
+post@biozahnarzt-dresden.de | Bio Zahnarztpraxis am Goldenen Reiter Dresden Dr. Constanze Groß
+info@zap-beyer.de | Praxis für Zahnheilkunde Susann Beyer
+praxis-almachot@web.de | Zahnarztpraxis Dr. Elyan Al Machot
+info@praxis-hoell.de | Zahnarztpraxis Höll - Nanni Höll / Mustafa Hablouss
