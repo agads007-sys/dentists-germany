@@ -415,3 +415,10 @@ mannheim@lieblings-zahnarzt.de | Lieblings-Zahnarzt Mannheim
 sarmas.zahnarztpraxis@gmail.com | Praxis Doctor-medic Evangelos Sarmas
 praxis@zahnarzt-fb.de | Zahnarzt Frankenbach - Vučinić
 info@habios.de | Dr. Michael Hanewinkel - habios Heidelberg
+
+# 2026-10-04 assistant-run batch 3
+praxis@zahnarzt-dr-hartmann.de | Zahnärzte Dr. Adrian Hartmann u. Dr. Melanie Hartmann-Redlich
+info@metzner-pollety.de | Dres. Jochen Metzner und Tanja Pollety
+info@schmidt-dr.de | Dr. Achim Schmidt - Zahnarzt
+info@zahnarzt-foerster.de | Dieter Förster Zahnarzt
+info@onednt.de | one.dnt - Individuelle Zahnkonzepte
