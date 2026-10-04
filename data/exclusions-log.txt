@@ -422,3 +422,10 @@ info@metzner-pollety.de | Dres. Jochen Metzner und Tanja Pollety
 info@schmidt-dr.de | Dr. Achim Schmidt - Zahnarzt
 info@zahnarzt-foerster.de | Dieter Förster Zahnarzt
 info@onednt.de | one.dnt - Individuelle Zahnkonzepte
+
+# 2026-10-04 fresh-run batch 1
+info@praxis-baumann.de | Zahnarztpraxis Dr. Harald Baumann
+info@schmidt-dr.de | Zahnarztpraxis Dr. Achim Schmidt
+info@zahnarztpraxis-mk.de | Zahnarztpraxis Dr. Marco Kellner
+info@zahnarzt-dr-lange.de | Zahnarztpraxis Dr. Ingo Lange
+info@zahnarztpraxis-fuss.de | Zahnarztpraxis Dr. Sebastian Fuß
