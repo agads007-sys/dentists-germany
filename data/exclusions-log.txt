@@ -713,3 +713,9 @@ info@zahnarztpraxis-tina-nobis.de | Zahnarztpraxis Tina Nobis
 praxiskeller@me.com | Zahnarztpraxis Dr. Robert Richard Keller
 info@zahnarztpraxis-stoeckel.de | Zahnarztpraxis Dr. Bernhard Stöckel
 zahnarztpraxis@toralfkoemmling.de | Zahnarztpraxis Toralf Kömmling
+# 2026-10-04 requested-run batch 4
+info@zahnarzt-hochfranken.de | Zahnarztpraxis Mirko Hoffmann
+kontakt@zahnarztpraxis-holter.de | Zahnarztpraxis Dr. Lena Holter
+info@dr-habiger.de | Praxis Dr. Stephan Habiger
+post@zahnarzt-zecha.de | Zahnarztpraxis Stefan Zecha
+post@gesund-im-mund-hof.de | Gemeinschaftspraxis Dr. Georg Schmehling & Shenja Motzke
