@@ -380,3 +380,10 @@ info@ziz-freiburg.de | Zahnärzte im Zentrum Dres. Herrmann, Bach, Stoll
 info@zahn-kramer.de | Dr. Jaap Kramer Zahnmedizin
 praxis@zahnarzt-jordan.com | Zahnarztpraxis Stefan Jordan
 dr.ritschel@web.de | Praxis Dr. Markus Ritschel
+
+# 2026-10-04 new-run batch 3
+hallo@zahnprofi.de | Dr. Kirchner & Dr. Goldbrunner - Zahnarzt Kempten
+praxis.bauer@dent-allgaeu.de | Dr. Bauer & Kollegen MVZ GmbH - Kempten
+info@dr-froemsdorf.de | Zahnarztpraxis Dr. Frömsdorf
+info@rieger-remensberger.de | Zahnarztpraxis Dr. Thomas Rieger & Dr. Sabine Remensberger
+info@zahnaerztelang.de | Dres. Lang Zahnärzte Stadtmitte Rosenheim
