@@ -653,3 +653,10 @@ info@hahn-zahnarzt.de | Zahnarztpraxis Thoralf Hahn
 info@dr-hellwig.de | Zahnarztpraxis Dr. Thomas Hellwig
 info@zahnkultur-nb.de | Zahnkultur Neubrandenburg - Chantal Sera
 za.schwermer@t-online.de | Zahnarztpraxis Arno Schwermer
+
+# 2026-10-04 workflow-late batch 4
+schueler@dr-schueler.com | Zahnarzt- und Arztpraxis Dr. med. Wilhelm Schüler
+info@zahnarzt-speyer.com | Zahnarztpraxis Dr. Smiljka Martinović und Dr. Damir Kamensek
+info@zahnarzt-speyer-nord.de | Zahnarztpraxis Speyer Nord
+praxis@zuiz.de | Praxis Dr. Horst Boland
+info@zahnarztpraxis-hoefer.de | Praxis Ursula Höfer & Waldemar Höfer
