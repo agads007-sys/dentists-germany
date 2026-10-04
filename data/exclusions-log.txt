@@ -639,3 +639,10 @@ info@mey-zahnarzt.de | Zahnarztpraxis Dr. Robert Mey
 zahnarztpraxis-wurzer@t-online.de | Zahnarztpraxis Tim Wurzer
 info@zahnarztpraxis-am-stahlwerk.de | Zahnarztpraxis am Stahlwerk Dr. Eike Teltow
 info@praxis-stuck.de | Zahnarztpraxis Stuck
+
+# 2026-10-04 workflow-late batch 3
+hallo@zmz-westpfalz.de | ZMZ Fachzahnärzte Westpfalz - Kaiserslautern
+info@zahnarzt-dr-schwall.de | Zahnarztpraxis Dr. med. dent. Ekkehard Schwall
+info@zahnarzt-bierich.de | Zahnarztpraxis Dr. med. dent. Eduard Bierich
+dr-wurz@t-online.de | Praxis für Oralchirurgie Dr. Matthias Wurz
+info@zahnarztpraxis-guengoer.de | Zahnarztpraxis Dr. Sevil Güngör-Haybat
