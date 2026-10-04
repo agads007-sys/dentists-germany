@@ -436,3 +436,10 @@ praxis@frank-zahnheilkunde.de | Klaus Peter Frank Zahnheilkunde
 Praxis-drbuck@web.de | Zahnarztpraxis Dr. Henning Buck
 anmeldung@wetzstein.net | Wetzstein & Kollegen Praxis für moderne Zahnmedizin
 praxis@zahnarzt-dr-hartmann.de | Zahnärzte Dr. Adrian Hartmann & Dr. Melanie Hartmann-Redlich
+
+# 2026-10-04 outreach-workflow batch 1
+info@zahnarzt-leipzig-thekla.de | Zahnarztpraxis Thekla Implantologie
+praxis.andrea.went@web.de | Andrea Went Zahnarztpraxis
+info@zahnspot.de | Zahnarztpraxis Zahnspot
+info@dentinis-mv.de | Dentinis-MV MVZ
+praxis.w.krohn@t-online.de | Zahnarztpraxis Krohn
