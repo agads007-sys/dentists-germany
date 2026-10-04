@@ -719,3 +719,9 @@ kontakt@zahnarztpraxis-holter.de | Zahnarztpraxis Dr. Lena Holter
 info@dr-habiger.de | Praxis Dr. Stephan Habiger
 post@zahnarzt-zecha.de | Zahnarztpraxis Stefan Zecha
 post@gesund-im-mund-hof.de | Gemeinschaftspraxis Dr. Georg Schmehling & Shenja Motzke
+# 2026-10-04 requested-run batch 5
+info@zahnarztpraxis-braun-weiden.de | Zahnarztpraxis Dr. Michael Braun
+muehlstrasse@zahnarzt-neumarkt.de | Gemeinschaftspraxis Dr. Reiner Silberhorn & Martin Michalk
+info@zahnaerzte-freystadt.de | Zahnärzte Kennedy & Illner - Neumarkt-Pölling
+mail@zahnarztpraxis-katharinahofmann.de | Zahnarztpraxis Katharina Hofmann
+zahnarzt-marktplatz-sad@gmx.de | Zahnarztpraxis Dr. Zehentreiter
