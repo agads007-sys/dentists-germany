@@ -373,3 +373,10 @@ dr.yakubovich@t-online.de | Zahnarztpraxis Yakubovich & Kollegen
 info-pforzheim@vestradent.com | Zahnmedizinisches Zentrum Pforzheim
 praxis@gerber-zahnarzt.de | Zahnarztpraxis Dr. Gerber
 dr.hans-dieter-goenner@web.de | Zahnzentrum Pforzheim Dr. Hans-Dieter Gönner
+
+# 2026-10-04 second-run batch 4
+info@zahnarzt-rehmer.de | Zahnarztpraxis Dr. Oliver Rehmer
+info@ziz-freiburg.de | Zahnärzte im Zentrum Dres. Herrmann, Bach, Stoll
+info@zahn-kramer.de | Dr. Jaap Kramer Zahnmedizin
+praxis@zahnarzt-jordan.com | Zahnarztpraxis Stefan Jordan
+dr.ritschel@web.de | Praxis Dr. Markus Ritschel
