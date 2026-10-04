@@ -450,3 +450,10 @@ info@zahnarzt-dr-jungbauer.de | Zahn im Zentrum Straubing - Dr. Gert Jungbauer M
 zahnarzt-busl@t-online.de | Zahnarztpraxis Anton Busl
 info@zahnarzt-praxis-straubing.de | Zahnarztpraxis Dr. Günter Häusler & Dr. Evelyn Sieber-Häusler
 info@zae-loibl.de | Zahnärzte Melanie Loibl & Otto Loibl
+
+# 2026-10-04 workflow batch 1
+praxis@zahnarzt-walter-dessau.de | Zahnarztpraxis Walter
+info@zahnaerzte-wilke.de | Zahnärzte Wilke
+info@zahnarzt-dessau-rosslau.de | Zahnarztpraxis Clement
+info@zahnaerzte-udet.de | Zahnärzte Udet
+zahnarztpraxishapprich@t-online.de | Zahnarztpraxis Jörg Sebastian Vollmer-Happrich
