@@ -725,3 +725,10 @@ muehlstrasse@zahnarzt-neumarkt.de | Gemeinschaftspraxis Dr. Reiner Silberhorn & 
 info@zahnaerzte-freystadt.de | Zahnärzte Kennedy & Illner - Neumarkt-Pölling
 mail@zahnarztpraxis-katharinahofmann.de | Zahnarztpraxis Katharina Hofmann
 zahnarzt-marktplatz-sad@gmx.de | Zahnarztpraxis Dr. Zehentreiter
+
+# 2026-10-04 requested-run batch 5
+rezeption@glaenzer.de | Zahnarztpraxis Dr. Glänzer
+info@familienpraxis-eisenach.de | Zahnarztpraxis Katharina Gärtner
+info@zahnarzt-jahn-gotha.de | Zahnarztpraxis Dr. Janette Jahn
+kontakt@zahnarztpraxishabel-gotha.de | Zahnarztpraxis Anne Habel
+info@zahnarzt-peterlein.de | Zahnarztpraxis Peterlein
