@@ -646,3 +646,10 @@ info@zahnarzt-dr-schwall.de | Zahnarztpraxis Dr. med. dent. Ekkehard Schwall
 info@zahnarzt-bierich.de | Zahnarztpraxis Dr. med. dent. Eduard Bierich
 dr-wurz@t-online.de | Praxis für Oralchirurgie Dr. Matthias Wurz
 info@zahnarztpraxis-guengoer.de | Zahnarztpraxis Dr. Sevil Güngör-Haybat
+
+# 2026-10-04 outreach-workflow-4 batch 3
+praxis@zahn-schlaf-medizin.de | Zahnarztpraxis Sascha Voigtländer
+info@hahn-zahnarzt.de | Zahnarztpraxis Thoralf Hahn
+info@dr-hellwig.de | Zahnarztpraxis Dr. Thomas Hellwig
+info@zahnkultur-nb.de | Zahnkultur Neubrandenburg - Chantal Sera
+za.schwermer@t-online.de | Zahnarztpraxis Arno Schwermer
