@@ -463,3 +463,10 @@ information@zahnaerztin-bamberg.de | Zahnarztpraxis Svitlana Schiri
 post@zahnarztpraxis-gruenbeck.de | Grünbeck Michael und Marcus Zahnärzte
 dr.hoppe-zahnarztpraxis@gmx.de | Zahnarztpraxis Dr. Stephanie Hoppe
 info@kaempf-bittner.de | Matthias Bittner Zahnarztpraxis
+
+# 2026-10-04 outreach-workflow batch 2
+praxis@potsdamdent.de | POTSDAMDENT Praxis für ganzheitliche Zahnmedizin
+Zahnarzt.Kleist@gmx.de | Zahnarztpraxis Dr. Karolin Kleist
+info@zahnfitrostock.de | zahnfit Rostock
+roswitha.lisson@t-online.de | Zahnarztpraxis Dr. Roswitha Lißon
+info@zahnarzt-dierkow.de | Zahnärztin Jana Kitzmann
