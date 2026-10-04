@@ -576,3 +576,10 @@ info@zahnarztpraxis-groell.de | Zahnarztpraxis Dr. Ulrike Gröll
 praxis@blaschke-schuelbe.de | Zahnarztpraxis Ute Blaschke & Frank Schülbe
 anmeldung@dr-heinzel.de | Zahnarztpraxis Dr. Robert Heinzel
 praxis@peterseim-kassel.de | Zahnarztpraxis Dr. Uwe Peterseim
+
+# 2026-10-04 workflow-new batch 1
+info@zahnarztpraxisampark.org | Zahnarztpraxis am Park - Franziska Langer
+zahn-nadinevollmer@gmx.de | Praxis für Zahnheilkunde Nadine Vollmer
+info@zahnarztpraxis-vintila.de | Zahnarztpraxis Luisa Vintila
+info@schuetze-zahnarzt.de | Zahnarztpraxis Dr. Eva-Maria Schütze
+info@zahnarzt-fuhrmann.de | Zahnarztpraxis Dr. Frank Fuhrmann & Carsten Fuhrmann
