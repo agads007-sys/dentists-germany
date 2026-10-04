@@ -401,3 +401,10 @@ info@zahnarztpraxis-tsortos-sandu.de | Zahnarztpraxis Ramona Tsortos-Sandu
 praxis@lehmann-von-lenski.de | Zahnarztpraxis Lehmann-von Lenski
 info@die-zahnaerzte-reutlingen.de | Zahnarztpraxis Dr. Daria Bykova
 info@zahnaerzte-rt.de | Zahnarztpraxis Dres. Hempel & Groten
+
+# 2026-10-04 assistant-run batch 1
+zahnarzt@gzp-wuerzburg.de | Ganzheitliche Zahnarztpraxis Würzburg - Dr. Sabine Diedrich
+praxis@zahnarzt-heuchelhof.de | Zahnärzte am Heuchelhof - Dr. Karolin Iring & Dr. Tobias Iring
+praxis@dr-gerhart.de | Zahnarztpraxis Dr. Ralf Gerhart
+praxis@f19-praxisklinik.de | F19 Praxisklinik für Implantologie und Zahnästhetik
+info@dr-dana.de | Praxis Dr. Samad Dana
