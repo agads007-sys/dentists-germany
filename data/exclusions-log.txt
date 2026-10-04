@@ -548,3 +548,10 @@ info@dr-vossmeyer.de | Zahnarztpraxis Dr. Andrea Vossmeyer
 info@drfuerst.de | Praxis Dr. Fürst & Dr. Wollschläger
 willkommen@zahnzentrum-fluke.de | Angstpatienten Zahnarzt Bremen - Zahnzentrum an der Fluke
 kontakt@zahnarztpraxis-wachmannstrasse.de | Zahnarztpraxis Dr. Tanja Hoormann
+
+# 2026-10-04 outreach-workflow-2 batch 5
+mail@dr-engert.de | Zahnarztpraxis Dr. Kai Engert
+praxis.dr.herffs@googlemail.com | Zahnarztpraxis Dres. Herffs
+praxis@geitmann-muegge.de | Zahnarztpraxis Christian Geitmann-Mügge
+empfang@zahnarztpraxis-niemeyer.de | Zahnarztpraxis Lars und Ute Niemeyer - Kompetenzzentrum Wilhelmshaven
+info@jerzy-steinmetz.de | Jerzy Steinmetz Zahnarztpraxis
