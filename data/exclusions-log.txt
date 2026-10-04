@@ -387,3 +387,10 @@ praxis.bauer@dent-allgaeu.de | Dr. Bauer & Kollegen MVZ GmbH - Kempten
 info@dr-froemsdorf.de | Zahnarztpraxis Dr. Frömsdorf
 info@rieger-remensberger.de | Zahnarztpraxis Dr. Thomas Rieger & Dr. Sabine Remensberger
 info@zahnaerztelang.de | Dres. Lang Zahnärzte Stadtmitte Rosenheim
+
+# 2026-10-04 second-run batch 5
+info@praxis-an-der-stadtkirche.de | Zahnarztpraxis an der Stadtkirche Dr. Alena Mersch-Waldhorst
+info@zahnarzt-letsch.de | Zahnarztpraxis Dr. Stephan Letsch
+info@drpfenning.de | Zahnarztpraxis Dr. Julia Pfenning
+info@zahnarztpraxisoffenburg.de | Zahnarztpraxis Dr. Martin Keßler & Dr. Philipp Keßler
+info@drbork.de | Zahnarztpraxis Dr. Thomas Bork
