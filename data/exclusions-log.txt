@@ -583,3 +583,10 @@ zahn-nadinevollmer@gmx.de | Praxis für Zahnheilkunde Nadine Vollmer
 info@zahnarztpraxis-vintila.de | Zahnarztpraxis Luisa Vintila
 info@schuetze-zahnarzt.de | Zahnarztpraxis Dr. Eva-Maria Schütze
 info@zahnarzt-fuhrmann.de | Zahnarztpraxis Dr. Frank Fuhrmann & Carsten Fuhrmann
+
+# 2026-10-04 workflow-new batch 2
+kontakt@praxis-uhlmann.de | Zahnarztpraxis Stefanie Uhlmann
+info@za-haendschke.de | Zahnarztpraxis André Händschke
+zap.kirsten-doelves-jonas@t-online.de | Zahnarztpraxis Kirsten Dölves-Jonas
+kontakt@wurzeleck.de | Wurzeleck Zahnarztpraxis
+info@zahnarztpraxis-kamp.de | Zahnarztpraxis Johannes Kamp
