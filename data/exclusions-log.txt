@@ -667,3 +667,10 @@ info@zahnarzt-gerloff.de | Zahnarztpraxis Gerloff
 info@zahn-altstrelitz.de | Zahnarztpraxis Dörte Riesebeck
 rezeption@scheurell-kfo.de | Kieferorthopädie Dr. Kaja Scheurell
 ZAP.HINZ@t-online.de | Zahnarztpraxis Carsten Hinz
+
+# 2026-10-04 requested-run batch 1
+praxis@zahnarztpraxisshahin.de | Zahnarztpraxis Joseph Shahin
+info@zahnzentrum-kuring.de | Zahnzentrum Kuring
+kontakt@gora-zahnaerzte.de | GORA Zahnärzte Görlitz
+team@zahnarztpraxis-buch.gr | Zahnarztpraxis Dr. Josefine Buch
+dr.detlef-bracke@web.de | Zahnarztpraxis Dr. Detlef Bracke
