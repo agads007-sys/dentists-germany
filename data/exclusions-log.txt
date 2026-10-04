@@ -700,3 +700,9 @@ info@zahnarztpraxis-schoenlein.de | Zahnarztpraxis Jessica Schönlein
 info@zahnarztpraxis-reiche.de | Zahnarztpraxis Sebastian Reiche
 praxis.dr.wippich@t-online.de | Zahnarztpraxis Dr. Lucia Wippich
 praxis@zahn-sperling.de | Zahnarztpraxis Ludwig Sperling
+# 2026-10-04 requested-run batch 3
+praxis@zahn-medizin-giesswein.de | Zahnarztpraxis Giesswein
+praxis@zahnarzt-koenigsreuter.de | Zahnarztpraxis Dr. Kristina Königsreuter
+info@zahnarzt-hof.de | Zahnarztpraxis Gebelein
+info@dr-mueller-majer.de | Gemeinschaftspraxis Dr. Frank Müller & Johannes Majer
+praxis@dr-cerny.de | Zahnarztpraxis Dr. Axel Cerny
