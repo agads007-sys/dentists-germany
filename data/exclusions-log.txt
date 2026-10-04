@@ -618,3 +618,10 @@ info@jendent.de | JenDent - Dr. Heike Heller-Hausmann
 info@zahnarzt-jena-zentrum.de | Zahnarzt Jena Zentrum - Praxis Dr. Oehring & Rothammel
 info@zahnarztpraxispeyer.de | Zahnarztpraxis Falk Peyer
 info@zahnarztjena.info | Zahnarztpraxis Kraft & Trinks
+
+# 2026-10-04 outreach-workflow-4 batch 1
+info@zahndock.de | Zahnarztpraxis Johannes Rühtz
+praxis@zittlau-roschke.de | Zahnarztpraxis Zittlau und Roschke
+ZAP@Franzke.net | Zahnarztpraxis Jacqueline Franzke
+praxis@gunther-simonek.de | Zahnarztpraxis Gunther Simonek
+praxis@dr-schoeps.de | Zahnarztpraxis Beate Schöps
