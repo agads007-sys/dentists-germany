@@ -457,3 +457,9 @@ info@zahnaerzte-wilke.de | Zahnärzte Wilke
 info@zahnarzt-dessau-rosslau.de | Zahnarztpraxis Clement
 info@zahnaerzte-udet.de | Zahnärzte Udet
 zahnarztpraxishapprich@t-online.de | Zahnarztpraxis Jörg Sebastian Vollmer-Happrich
+
+# 2026-10-04 workflow batch 2
+information@zahnaerztin-bamberg.de | Zahnarztpraxis Svitlana Schiri
+post@zahnarztpraxis-gruenbeck.de | Grünbeck Michael und Marcus Zahnärzte
+dr.hoppe-zahnarztpraxis@gmx.de | Zahnarztpraxis Dr. Stephanie Hoppe
+info@kaempf-bittner.de | Matthias Bittner Zahnarztpraxis
