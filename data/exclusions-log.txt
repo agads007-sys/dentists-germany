@@ -625,3 +625,10 @@ praxis@zittlau-roschke.de | Zahnarztpraxis Zittlau und Roschke
 ZAP@Franzke.net | Zahnarztpraxis Jacqueline Franzke
 praxis@gunther-simonek.de | Zahnarztpraxis Gunther Simonek
 praxis@dr-schoeps.de | Zahnarztpraxis Beate Schöps
+
+# 2026-10-04 workflow-late batch 2
+info@schneider-loeffler.de | Zahnärzte Fulda - Dr. Matthias Schneider & Dr. Anne Löffler
+info@drknapp.de | Doctores Knapp & Manske
+info@dr-michael-knapp.de | Praxis Dr. Michael Knapp & Dr. Katharina Kailing
+cmd@doctoresvonlandenberg.de | Zahnarztpraxis Dres. von Landenberg - Koblenz
+info@zahnaerzte-hildesheim.de | Zahnärzte im Vinzentinum
