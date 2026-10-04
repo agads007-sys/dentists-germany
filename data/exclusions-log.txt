@@ -590,3 +590,10 @@ info@za-haendschke.de | Zahnarztpraxis André Händschke
 zap.kirsten-doelves-jonas@t-online.de | Zahnarztpraxis Kirsten Dölves-Jonas
 kontakt@wurzeleck.de | Wurzeleck Zahnarztpraxis
 info@zahnarztpraxis-kamp.de | Zahnarztpraxis Johannes Kamp
+
+# 2026-10-04 workflow-new batch 3
+info@zahnarzt-koenig.com | Zahnarztpraxis Andreas König
+info@mein-zahn-magdeburg.de | Mein Zahn Magdeburg - Zahnarztpraxis Silvia Freihoff
+info@zahnarztpraxis-bellstedt.de | Zahnarztpraxis Carolin Bellstedt
+udo.kuenzl@t-online.de | Zahnarztpraxis Josephine und Udo Künzl
+rezeption-poellnitz@t-online.de | Zahnarztpraxis Claudia Pöllnitz
