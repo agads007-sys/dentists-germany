@@ -706,3 +706,10 @@ praxis@zahnarzt-koenigsreuter.de | Zahnarztpraxis Dr. Kristina Königsreuter
 info@zahnarzt-hof.de | Zahnarztpraxis Gebelein
 info@dr-mueller-majer.de | Gemeinschaftspraxis Dr. Frank Müller & Johannes Majer
 praxis@dr-cerny.de | Zahnarztpraxis Dr. Axel Cerny
+
+# 2026-10-04 requested-run batch 4
+kontakt@zahnarzt-praxis-gera.de | Zahnarztpraxis Lesser & Rudolf
+info@zahnarztpraxis-tina-nobis.de | Zahnarztpraxis Tina Nobis
+praxiskeller@me.com | Zahnarztpraxis Dr. Robert Richard Keller
+info@zahnarztpraxis-stoeckel.de | Zahnarztpraxis Dr. Bernhard Stöckel
+zahnarztpraxis@toralfkoemmling.de | Zahnarztpraxis Toralf Kömmling
