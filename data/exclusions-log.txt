@@ -569,3 +569,10 @@ praxis@zahnarzt-krieger.de | Praxis Dr. Alfred Krieger
 info@praxis-laue.de | Zahnarzt Göttingen Grone - Doreen Laue
 info@cornelia-groene.de | Zahnarztpraxis Cornelia Gröne
 drmfriedrich@t-online.de | Zahnarztpraxis Dr. Martina Friedrich
+
+# 2026-10-04 outreach-workflow-3 batch 3
+praxis@zahnsuchtarzt.de | Zahnarztpraxis Czerny & Kollegen
+info@zahnarztpraxis-groell.de | Zahnarztpraxis Dr. Ulrike Gröll
+praxis@blaschke-schuelbe.de | Zahnarztpraxis Ute Blaschke & Frank Schülbe
+anmeldung@dr-heinzel.de | Zahnarztpraxis Dr. Robert Heinzel
+praxis@peterseim-kassel.de | Zahnarztpraxis Dr. Uwe Peterseim
