@@ -470,3 +470,10 @@ Zahnarzt.Kleist@gmx.de | Zahnarztpraxis Dr. Karolin Kleist
 info@zahnfitrostock.de | zahnfit Rostock
 roswitha.lisson@t-online.de | Zahnarztpraxis Dr. Roswitha Lißon
 info@zahnarzt-dierkow.de | Zahnärztin Jana Kitzmann
+
+# 2026-10-04 fresh-run batch 4
+kontakt@za-rosenheim.de | Zahnarztpraxis Dr. Nina Daubner
+info@zahnmedizin-am-stadtbach.com | Zahnmedizin am Stadtbach - MD Dr. Nicolas Gräber
+info@zahnaerzte-am-riedergarten.de | Zahnärzte am Riedergarten Dres. Müllner & Haas-Müllner
+info@zahnarzt-kempten.de | Zahnarztpraxis Dr. Andreas Bauer
+praxis@zahnarzt-nicolai.de | Zahnarztpraxis in St. Mang - Med. dent. Adriana Nicolai
