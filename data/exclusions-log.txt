@@ -687,3 +687,9 @@ info@warthmann-plauen.de | Zahnarztpraxis Ina Warthmann
 info@zahnarztpraxis-wild.de | Zahnarztpraxis Sarah Wild
 zahnaerztinweber@googlemail.com | Zahnarztpraxis Katrin Weber
 hradschin@zahnweisheiten.de | Praxis Hradschin
+# 2026-10-04 requested-run batch 2
+info@zahnarzt-marburg.de | Zahnarztpraxis Dr. Sebastian Jochum
+info@seiss-zmz.de | SEISS Zahnmedizin Marburg
+info@dr-lara-hansen.de | Zahnarztpraxis Dr. Lara Hansen
+praxis@z-ludwigsplatz.de | Zahnärzte am Ludwigsplatz
+anmeldung@zahnarzt-horas.de | Zahnärzte Fulda Horas
