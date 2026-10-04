@@ -394,3 +394,10 @@ info@zahnarzt-letsch.de | Zahnarztpraxis Dr. Stephan Letsch
 info@drpfenning.de | Zahnarztpraxis Dr. Julia Pfenning
 info@zahnarztpraxisoffenburg.de | Zahnarztpraxis Dr. Martin Keßler & Dr. Philipp Keßler
 info@drbork.de | Zahnarztpraxis Dr. Thomas Bork
+
+# 2026-10-04 new-run batch 4
+praxis@zahnersatz-ingolstadt.de | Die Zahnärztin im Zehenthof Dr. Meike Knott
+info@zahnarztpraxis-tsortos-sandu.de | Zahnarztpraxis Ramona Tsortos-Sandu
+praxis@lehmann-von-lenski.de | Zahnarztpraxis Lehmann-von Lenski
+info@die-zahnaerzte-reutlingen.de | Zahnarztpraxis Dr. Daria Bykova
+info@zahnaerzte-rt.de | Zahnarztpraxis Dres. Hempel & Groten
