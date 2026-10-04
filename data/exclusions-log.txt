@@ -408,3 +408,10 @@ praxis@zahnarzt-heuchelhof.de | Zahnärzte am Heuchelhof - Dr. Karolin Iring & D
 praxis@dr-gerhart.de | Zahnarztpraxis Dr. Ralf Gerhart
 praxis@f19-praxisklinik.de | F19 Praxisklinik für Implantologie und Zahnästhetik
 info@dr-dana.de | Praxis Dr. Samad Dana
+
+# 2026-10-04 assistant-run batch 2
+info@seegartenklinik.de | Die Zahnärzte in der SeegartenKlinik Heidelberg
+mannheim@lieblings-zahnarzt.de | Lieblings-Zahnarzt Mannheim
+sarmas.zahnarztpraxis@gmail.com | Praxis Doctor-medic Evangelos Sarmas
+praxis@zahnarzt-fb.de | Zahnarzt Frankenbach - Vučinić
+info@habios.de | Dr. Michael Hanewinkel - habios Heidelberg
