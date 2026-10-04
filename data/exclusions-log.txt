@@ -611,3 +611,10 @@ infopahner@gmail.com | Zahnarztpraxis Dr. med. dent. Sven Pahner
 info@zahnarztpraxis-kramer.com | Zahnarztpraxis Katja Kramer
 info@zahnarztpraxis-baumann.com | Zahnarztpraxis Petra Baumann
 service@zahnarztpraxis-zwickau.de | ZAS Zahnarztpraxis für Ästhetische Zahnmedizin
+
+# 2026-10-04 workflow-late batch 1
+paudler@zap-p.de | Zahnarztpraxis Paudler
+info@jendent.de | JenDent - Dr. Heike Heller-Hausmann
+info@zahnarzt-jena-zentrum.de | Zahnarzt Jena Zentrum - Praxis Dr. Oehring & Rothammel
+info@zahnarztpraxispeyer.de | Zahnarztpraxis Falk Peyer
+info@zahnarztjena.info | Zahnarztpraxis Kraft & Trinks
