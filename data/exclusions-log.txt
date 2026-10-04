@@ -604,3 +604,10 @@ info@zahnarztpraxis-stein.de | Zahnarztpraxis Dr. Andrea Stein
 info@zahnarztpraxis-gregor.de | Zahnarztpraxis Dr. Claudia Gregor
 kontakt@zahnarztpraxis-poellnitz.de | Zahnarztpraxis Nils Pöllnitz
 info@zahnarztpraxis-dr-eissner.de | Zahnarztpraxis Dr. Beatrice Eißner
+
+# 2026-10-04 workflow-new batch 5
+kontakt@zahnarzt-groh.de | Zahnarztpraxis Dr. Nicole Groh
+infopahner@gmail.com | Zahnarztpraxis Dr. med. dent. Sven Pahner
+info@zahnarztpraxis-kramer.com | Zahnarztpraxis Katja Kramer
+info@zahnarztpraxis-baumann.com | Zahnarztpraxis Petra Baumann
+service@zahnarztpraxis-zwickau.de | ZAS Zahnarztpraxis für Ästhetische Zahnmedizin
