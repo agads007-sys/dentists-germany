@@ -499,3 +499,10 @@ zap-luthardt@gmx.de | Zahnarztpraxis Luthardt
 info@zap-richter.de | Zahnarztpraxis Ulf Richter
 info@praxis-hilpert.de | Praxis Dr. Matthias Hilpert
 info@dr-roever.de | Zahnärztliche Gemeinschaftspraxis Dres. Röver
+
+# 2026-10-04 outreach-workflow batch 5
+info@die-zahnmediziner.de | Die Zahnmediziner Wismar - Dr. Uwe Stranz & Kollegen
+info@wismarer-zahnaerzte.de | Wismarer Zahnärzte - Dorit Berchtold & Arne Modler
+info@zahnarztpraxis-maly.de | Zahnarztpraxis Maly - Dörte Maly
+info@praxis-dettmann.de | Zahnarztpraxis Maren Dettmann
+dres.micheel.zap@web.de | Zahnarztpraxis Dres. Talke und Steffen Micheel
