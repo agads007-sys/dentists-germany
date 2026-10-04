@@ -693,3 +693,10 @@ info@seiss-zmz.de | SEISS Zahnmedizin Marburg
 info@dr-lara-hansen.de | Zahnarztpraxis Dr. Lara Hansen
 info@zahnarzt-dr-hack.de | Zahnarztpraxis Dr. Martin Hack
 anmeldung@zahnarzt-horas.de | Zahnärzte Fulda Horas
+
+# 2026-10-04 requested-run batch 3
+info@xn--bautzens-starke-zhne-rzb.de | Zahnarztpraxis Bautzens starke Zähne
+info@zahnarztpraxis-schoenlein.de | Zahnarztpraxis Jessica Schönlein
+info@zahnarztpraxis-reiche.de | Zahnarztpraxis Sebastian Reiche
+praxis.dr.wippich@t-online.de | Zahnarztpraxis Dr. Lucia Wippich
+praxis@zahn-sperling.de | Zahnarztpraxis Ludwig Sperling
