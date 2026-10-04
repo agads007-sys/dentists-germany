@@ -597,3 +597,10 @@ info@mein-zahn-magdeburg.de | Mein Zahn Magdeburg - Zahnarztpraxis Silvia Freiho
 info@zahnarztpraxis-bellstedt.de | Zahnarztpraxis Carolin Bellstedt
 udo.kuenzl@t-online.de | Zahnarztpraxis Josephine und Udo Künzl
 rezeption-poellnitz@t-online.de | Zahnarztpraxis Claudia Pöllnitz
+
+# 2026-10-04 workflow-new batch 4
+zap-auerswald@arcor.de | Zahnarztpraxis Jürgen Auerswald
+info@zahnarztpraxis-stein.de | Zahnarztpraxis Dr. Andrea Stein
+info@zahnarztpraxis-gregor.de | Zahnarztpraxis Dr. Claudia Gregor
+kontakt@zahnarztpraxis-poellnitz.de | Zahnarztpraxis Nils Pöllnitz
+info@zahnarztpraxis-dr-eissner.de | Zahnarztpraxis Dr. Beatrice Eißner
