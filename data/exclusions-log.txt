@@ -660,3 +660,10 @@ info@zahnarzt-speyer.com | Zahnarztpraxis Dr. Smiljka Martinović und Dr. Damir 
 info@zahnarzt-speyer-nord.de | Zahnarztpraxis Speyer Nord
 praxis@zuiz.de | Praxis Dr. Horst Boland
 info@zahnarztpraxis-hoefer.de | Praxis Ursula Höfer & Waldemar Höfer
+
+# 2026-10-04 outreach-workflow-4 batch 4
+info@zahnarzt-strelitz.de | Zahnarztpraxis Dr. Lutz Wilke
+info@zahnarzt-gerloff.de | Zahnarztpraxis Gerloff
+info@zahn-altstrelitz.de | Zahnarztpraxis Dörte Riesebeck
+rezeption@scheurell-kfo.de | Kieferorthopädie Dr. Kaja Scheurell
+ZAP.HINZ@t-online.de | Zahnarztpraxis Carsten Hinz
