@@ -674,3 +674,9 @@ info@zahnzentrum-kuring.de | Zahnzentrum Kuring
 kontakt@gora-zahnaerzte.de | GORA Zahnärzte Görlitz
 team@zahnarztpraxis-buch.gr | Zahnarztpraxis Dr. Josefine Buch
 dr.detlef-bracke@web.de | Zahnarztpraxis Dr. Detlef Bracke
+# 2026-10-04 requested-run batch 1
+praxis@ZNP-Trier.de | Zahnärzte am Nells Park
+info@meiser-zahnarzt.de | Zahnarztpraxis Khulani und Zaid
+info@dentoss.net | DENTOSS Integrated Services
+praxis@zahnarzt-wiesbaden.eu | Art Dental Studio Zahnarztpraxis Boduryan
+info@xn--zhne-machen-gesichter-51b.de | Zahnarztpraxis Dr. Begüm Karakas-Bilimer & ZA D. Bilimer
