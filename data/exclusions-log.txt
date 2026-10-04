@@ -324,3 +324,10 @@ zahnarzt@zartweiss.de | ZARTWEISS Zahnarztpraxis CARRÉ Fürther Freiheit
 info@zahnarztpraxis-nagengast.de | Zahnarztpraxis Dr. Matthias Nagengast
 info@derheilmann.de | Zahnarztpraxis Dr. Oliver Heilmann
 info@passau-smile.de | Zahnarzt Dr. Markus Zaruba
+
+# 2026-10-04 run batch 4
+info@dres-ritzinger-suttner.de | Zahnärztliche Gemeinschaftspraxis Dr. Ritzinger & Dr. Suttner
+praxis@zahnarzt-passau-neustift.de | Zahnarztpraxis Dr. Susanne Kramer
+info@zahnarztpraxis-passau.de | Zahnarztpraxis Hüsken
+info@linseisen.bayern | Zahnarztpraxis Dr. Linseisen
+info@isarzahn.de | Zahnarztpraxis IsarZahn
