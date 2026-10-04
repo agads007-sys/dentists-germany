@@ -632,3 +632,10 @@ info@drknapp.de | Doctores Knapp & Manske
 info@dr-michael-knapp.de | Praxis Dr. Michael Knapp & Dr. Katharina Kailing
 cmd@doctoresvonlandenberg.de | Zahnarztpraxis Dres. von Landenberg - Koblenz
 info@zahnaerzte-hildesheim.de | Zahnärzte im Vinzentinum
+
+# 2026-10-04 outreach-workflow-4 batch 2
+info@vocks-wenske.de | Praxis für Zahnheilkunde & Oralchirurgie Vocks & Wenske
+info@mey-zahnarzt.de | Zahnarztpraxis Dr. Robert Mey
+zahnarztpraxis-wurzer@t-online.de | Zahnarztpraxis Tim Wurzer
+info@zahnarztpraxis-am-stahlwerk.de | Zahnarztpraxis am Stahlwerk Dr. Eike Teltow
+info@praxis-stuck.de | Zahnarztpraxis Stuck
