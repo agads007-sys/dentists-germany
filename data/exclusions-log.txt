@@ -317,3 +317,10 @@ praxis@ugrinovic.de | Zahnarztpraxis Dr. Ugrinovic & Dr. Sokol
 praxis@zper.de | Zahnarztpraxis Dr. Manuela Fischer & Dr. Peggy Frank
 mail@dr-zwenzner.de | Zahnarztpraxis Dr. Tobias Zwenzner
 info@wendler-doepfner.de | Zahnärztliche Gemeinschaftspraxis Dr. Nina Wendler & Dr. Daniel Döpfner
+
+# 2026-10-04 run batch 3
+kontakt@zahnarzt-mihlan.de | Praxis Dr. Christian Mihlan
+zahnarzt@zartweiss.de | ZARTWEISS Zahnarztpraxis CARRÉ Fürther Freiheit
+info@zahnarztpraxis-nagengast.de | Zahnarztpraxis Dr. Matthias Nagengast
+info@derheilmann.de | Zahnarztpraxis Dr. Oliver Heilmann
+info@passau-smile.de | Zahnarzt Dr. Markus Zaruba
