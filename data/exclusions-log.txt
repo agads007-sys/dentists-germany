@@ -429,3 +429,10 @@ info@schmidt-dr.de | Zahnarztpraxis Dr. Achim Schmidt
 info@zahnarztpraxis-mk.de | Zahnarztpraxis Dr. Marco Kellner
 info@zahnarzt-dr-lange.de | Zahnarztpraxis Dr. Ingo Lange
 info@zahnarztpraxis-fuss.de | Zahnarztpraxis Dr. Sebastian Fuß
+
+# 2026-10-04 fresh-run batch 2
+info@metzner-pollety.de | Dres. Jochen Metzner und Tanja Pollety
+praxis@frank-zahnheilkunde.de | Klaus Peter Frank Zahnheilkunde
+Praxis-drbuck@web.de | Zahnarztpraxis Dr. Henning Buck
+anmeldung@wetzstein.net | Wetzstein & Kollegen Praxis für moderne Zahnmedizin
+praxis@zahnarzt-dr-hartmann.de | Zahnärzte Dr. Adrian Hartmann & Dr. Melanie Hartmann-Redlich
