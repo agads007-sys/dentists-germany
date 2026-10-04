@@ -345,3 +345,10 @@ AOK-Zahnarztpraxis.Ulm@bw.aok.de | AOK-Zahnzentrum Ulm
 info@dr-zank.de | Zahnarztpraxis Dres. Zank
 info@zahnarztpraxis-tsortos-sandu.de | Zahnarztpraxis Ramona Tsortos-Sandu
 praxis@lehmann-von-lenski.de | Gemeinschaftspraxis Lehmann-von Lenski
+
+# 2026-10-04 new-run batch 1
+info@dr-plein.de | Zahnarztpraxis Dr. Plein & Dr. Dudziak
+info@dentalounge-amberg.de | Zahnarztpraxis Dr. Anna Krupa
+info@zahnarzt-amberg-jeitner.de | Zahnarztpraxis Peter Jeitner
+info@zahnarztpraxis-huster.de | Zahnarztpraxis Mark Huster
+info@zahnarzt-dr-kunze.de | Zahnarztpraxis Dr. Michael Kunze & Dr. Moritz Kunze
