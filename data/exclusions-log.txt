@@ -520,3 +520,10 @@ info@zahnarztpraxis-am-plack.de | Zahnarztpraxis am Plack - Dr. Hauke Momsen & U
 info@drstaemmler.de | Zahnarztpraxis Dr. Kai Staemmler
 info@implantatklinikken-flensborg.dk | Zahnarztpraxis Dr. Oliver Gebhardt Flensburg
 info@zahnarzt-engelsby.de | Manthei & Schütz - Zahnarztpraxis in Engelsby
+
+# 2026-10-04 workflow batch 4
+info@dr-heidtkamp.de | Zahnarztpraxis Dr. Felix Heidtkamp
+info@zahnarztpraxis-durkalets.de | Zahnarztpraxis Maximilian Durkalets
+service@clasen-zahnarzt.de | Zahnarztpraxis Sven Clasen
+kontakt@dr-utesch.de | Zahnarztpraxis Dr. Johanna Utesch
+info@willruth.de | Praxisgemeinschaft Dr. Holger & Dr. Stephan Willruth
