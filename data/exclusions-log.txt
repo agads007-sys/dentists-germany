@@ -680,3 +680,10 @@ info@meiser-zahnarzt.de | Zahnarztpraxis Khulani und Zaid
 info@dentoss.net | DENTOSS Integrated Services
 praxis@zahnarzt-wiesbaden.eu | Art Dental Studio Zahnarztpraxis Boduryan
 info@xn--zhne-machen-gesichter-51b.de | Zahnarztpraxis Dr. Begüm Karakas-Bilimer & ZA D. Bilimer
+
+# 2026-10-04 requested-run batch 2
+info@plauen.dentist | Zahnarztpraxis Martin Schaller
+info@warthmann-plauen.de | Zahnarztpraxis Ina Warthmann
+info@zahnarztpraxis-wild.de | Zahnarztpraxis Sarah Wild
+zahnaerztinweber@googlemail.com | Zahnarztpraxis Katrin Weber
+hradschin@zahnweisheiten.de | Praxis Hradschin
