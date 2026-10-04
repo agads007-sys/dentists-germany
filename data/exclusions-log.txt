@@ -331,3 +331,10 @@ praxis@zahnarzt-passau-neustift.de | Zahnarztpraxis Dr. Susanne Kramer
 info@zahnarztpraxis-passau.de | Zahnarztpraxis Hüsken
 info@linseisen.bayern | Zahnarztpraxis Dr. Linseisen
 info@isarzahn.de | Zahnarztpraxis IsarZahn
+
+# 2026-10-04 run batch 5
+info@zahnarzt-eichelsbacher.de | Praxis für Zahnerhaltung Dr. Florian Eichelsbacher
+praxis@zahn-im-fokus.de | Zahn im Fokus - Dr. Maria Ait Lahrach
+za.klaus.patzke@googlemail.com | Zahnarztpraxis Klaus Patzke
+info@zahnplus-schweinfurt.de | Zahnplus Schweinfurt - Muhammad Kassem
+praxis@mundgesund-coburg.de | Zahnarztpraxis Doreen Reimann
