@@ -366,3 +366,10 @@ zahnarztpraxis-schoenthaler@gmx.de | Zahnarztpraxis Dr. Andrea Schönthaler
 info@brunner-harald.de | Zahnarztpraxis Dr. Harald Brunner
 praxis@dr-schmid-zahnarzt.de | Zahnarztpraxis Dr. Dr. Wolfgang Schmid
 info-ansb@meinezahnaerzte.com | Zahnärzte Dr. Katrin Kaut, Dr. Jasmin Göhring & Kollegen - Ansbach
+
+# 2026-10-04 second-run batch 3
+kontakt@schwagierek.de | Praxis für Zahnheilkunde und Oralchirurgie Dr. Robert Schwagierek
+dr.yakubovich@t-online.de | Zahnarztpraxis Yakubovich & Kollegen
+info-pforzheim@vestradent.com | Zahnmedizinisches Zentrum Pforzheim
+praxis@gerber-zahnarzt.de | Zahnarztpraxis Dr. Gerber
+dr.hans-dieter-goenner@web.de | Zahnzentrum Pforzheim Dr. Hans-Dieter Gönner
