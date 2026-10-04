@@ -527,3 +527,10 @@ info@zahnarztpraxis-durkalets.de | Zahnarztpraxis Maximilian Durkalets
 service@clasen-zahnarzt.de | Zahnarztpraxis Sven Clasen
 kontakt@dr-utesch.de | Zahnarztpraxis Dr. Johanna Utesch
 info@willruth.de | Praxisgemeinschaft Dr. Holger & Dr. Stephan Willruth
+
+# 2026-10-04 outreach-workflow-2 batch 3
+praxis@dr-bode.com | Zahnarztpraxis Dr. Magnus Bode
+praxis@dres-harms.de | Zahnarztpraxis Dres. Klaus und Sabine Harms
+info@zahnarzt-wittje.de | Praxis für ganzheitliche Zahnheilkunde Burkhard Wittje
+info@zahnaerzte-haarenufer.de | Zahnärzte am Haarenufer - Dr. Nils Stanko
+info@zahnarztpraxis-prasse.de | Dres. Prasse Zahnarztpraxis
