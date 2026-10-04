@@ -310,3 +310,10 @@ info@praxis-zbs.de | Zahnärzte beim Stobäusplatz
 zahnaerzte@amkoenigshof.de | Zahnärzte am Königshof
 info@dentart-augsburg.de | DENTART Zahnzentrum Augsburg
 info@implantat-klinik.com | Implantatklinik Augsburg
+
+# 2026-10-04 run batch 2
+hallo@ziz-erlangen.de | Zähne im Zentrum Erlangen - Dr. Julia Münch & Georg Münch
+praxis@ugrinovic.de | Zahnarztpraxis Dr. Ugrinovic & Dr. Sokol
+praxis@zper.de | Zahnarztpraxis Dr. Manuela Fischer & Dr. Peggy Frank
+mail@dr-zwenzner.de | Zahnarztpraxis Dr. Tobias Zwenzner
+info@wendler-doepfner.de | Zahnärztliche Gemeinschaftspraxis Dr. Nina Wendler & Dr. Daniel Döpfner
