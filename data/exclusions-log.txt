@@ -478,3 +478,10 @@ info@zahnaerzte-am-riedergarten.de | Zahnärzte am Riedergarten Dres. Müllner &
 info@zahnarzt-kempten.de | Zahnarztpraxis Dr. Andreas Bauer
 praxis@zahnarzt-nicolai.de | Zahnarztpraxis in St. Mang - Med. dent. Adriana Nicolai
 dr.pfoertner-bamberg@freenet.de | Zahnarzt Dr. Wolfgang Pförtner
+
+# 2026-10-04 outreach-workflow batch 3
+info@zahndocflemming.de | Zahnarztpraxis Dipl.-Stom. Gerald Flemming
+info@zahnarztpraxis-bartaune.de | Zahnarztpraxis Ruth Bartaune
+praxis@dres-sieber.de | Zahnarztpraxis Dr. Friederike & Dr. Roland Sieber
+zahnarztstralsund@gmx.de | Zahnarztpraxis Ronny Schmidt
+zahnarzt-frankendamm@gmx.de | Zahnarztpraxis am Frankendamm
