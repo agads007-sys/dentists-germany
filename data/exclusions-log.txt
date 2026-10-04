@@ -555,3 +555,10 @@ praxis.dr.herffs@googlemail.com | Zahnarztpraxis Dres. Herffs
 praxis@geitmann-muegge.de | Zahnarztpraxis Christian Geitmann-Mügge
 empfang@zahnarztpraxis-niemeyer.de | Zahnarztpraxis Lars und Ute Niemeyer - Kompetenzzentrum Wilhelmshaven
 info@jerzy-steinmetz.de | Jerzy Steinmetz Zahnarztpraxis
+
+# 2026-10-04 outreach-workflow-3 batch 1
+service@praxis-adolfstrasse.de | Praxis Adolfstraße Zahnmedizin
+info@zahnpraxis-hoffmann.de | Zahnpraxis Dr. Katharina Hoffmann
+info@zahnarzt-dohn.de | Zahnarztpraxis Dr. Burghard Dohn
+zahn-nt@gmx.de | Zahnarztpraxis Nils Tittel - Lübeck-Kücknitz
+info@ott-travemuende.de | Zahnarztpraxis Dr. Mareike Ott-Brenker
