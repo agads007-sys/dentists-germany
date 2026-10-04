@@ -485,3 +485,10 @@ info@zahnarztpraxis-bartaune.de | Zahnarztpraxis Ruth Bartaune
 praxis@dres-sieber.de | Zahnarztpraxis Dr. Friederike & Dr. Roland Sieber
 zahnarztstralsund@gmx.de | Zahnarztpraxis Ronny Schmidt
 zahnarzt-frankendamm@gmx.de | Zahnarztpraxis am Frankendamm
+
+# 2026-10-04 outreach-workflow batch 4
+info@dr-neesen.de | Zahnarztpraxis Dr. Antje Neesen
+zahnarzt.stark@googlemail.com | Zahnarztpraxis Thomas Stark
+info@dr-albrecht-stralsund.de | Zahnarztpraxis Dr. Torsten Albrecht
+info@zahnarztpraxis-stralsund.de | Zahnarztpraxis Dr. Sabine Kleschewski & Dr. Ruth-Alice Kring
+info@spiekermann-zahnarzt.de | Zahnarztpraxis Dr. Brigitte Spiekermann
