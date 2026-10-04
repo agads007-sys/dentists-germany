@@ -562,3 +562,10 @@ info@zahnpraxis-hoffmann.de | Zahnpraxis Dr. Katharina Hoffmann
 info@zahnarzt-dohn.de | Zahnarztpraxis Dr. Burghard Dohn
 zahn-nt@gmx.de | Zahnarztpraxis Nils Tittel - Lübeck-Kücknitz
 info@ott-travemuende.de | Zahnarztpraxis Dr. Mareike Ott-Brenker
+
+# 2026-10-04 outreach-workflow-3 batch 2
+info@dr-klaba.de | Zahnarztpraxis Dr. Sarah-Alena Klaba
+praxis@zahnarzt-krieger.de | Praxis Dr. Alfred Krieger
+info@praxis-laue.de | Zahnarzt Göttingen Grone - Doreen Laue
+info@cornelia-groene.de | Zahnarztpraxis Cornelia Gröne
+drmfriedrich@t-online.de | Zahnarztpraxis Dr. Martina Friedrich
