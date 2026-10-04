@@ -492,3 +492,10 @@ zahnarzt.stark@googlemail.com | Zahnarztpraxis Thomas Stark
 info@dr-albrecht-stralsund.de | Zahnarztpraxis Dr. Torsten Albrecht
 info@zahnarztpraxis-stralsund.de | Zahnarztpraxis Dr. Sabine Kleschewski & Dr. Ruth-Alice Kring
 info@spiekermann-zahnarzt.de | Zahnarztpraxis Dr. Brigitte Spiekermann
+
+# 2026-10-04 workflow batch 3
+praxis@zahnarzt-dietsch.de | Zahnarztpraxis Hartmut Dietsch
+zap-luthardt@gmx.de | Zahnarztpraxis Luthardt
+info@zap-richter.de | Zahnarztpraxis Ulf Richter
+info@praxis-hilpert.de | Praxis Dr. Matthias Hilpert
+info@dr-roever.de | Zahnärztliche Gemeinschaftspraxis Dres. Röver
