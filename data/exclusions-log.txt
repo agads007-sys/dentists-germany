@@ -801,3 +801,10 @@ kontakt@mundwohl.de | Mundwohl Zahnärzte am Hirschgraben
 info@dr-plomin.de | Zahnarztpraxis Dr. Julia Plomin
 info@zahnarzt-helene-betz.de | Zahnarztpraxis Dr. Helene Betz
 praxis@zahnarzt-ravensburg.com | Zahnarztpraxis Dr. Stella Brückner
+
+# 2026-10-05 prioritized-lower-reviews batch 2
+info@za-heinz.de | Praxis Dr. Joachim Heinz
+Zahnarzt-Rogler@gmx.de | Gemeinschaftspraxis Dr. Rogler
+info@zahnarzt-weisser.de | Zahnarztpraxis Weißer - Anja Weißer
+Zahnarztvillingen@gmail.com | Praxis Dr. Alexander Staatsberger
+info@zahnarzt-in-villingen.de | Zahnarztpraxis by Samadov
