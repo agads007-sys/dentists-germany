@@ -920,3 +920,10 @@ info@zahnaerzte-teupe.de | Zahnarztpraxis Christoph & Gabriele Teupe
 mail@zahnarzt-friedrich.de | Zahnärztliche Fachpraxis Dr. Michael Friedrich
 undine.bochtler@t-online.de | Zahnarztpraxis Dr. Undine Bochtler
 info@zahnheilkunde-detmold.de | Praxis für Zahnheilkunde Dr. Alfonso Rosero-Yépez
+
+# 2026-10-05 prioritized-marketing run batch 5
+praxis@zahnarzt-stampfer.de | Zahnarztpraxis Dr. Peter Stampfer
+praxis@klimesch.de | Zahnarztpraxis Klimesch
+kontakt@zahnaerzte-don.de | Zahnärzte in der Stadtresidenz
+email@zahnarztpraxis-am-fuggerhaus.de | Zahnarztpraxis am Fuggerhaus - Dr. Roland Rieger
+praxis@judith-langner.de | Zahnarztpraxis Judith Langner
