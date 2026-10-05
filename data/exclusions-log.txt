@@ -1231,3 +1231,10 @@ praxis@hessabi.de | Praxis Dr. Sabine Hessabi
 praxis@smilecenter-baden-baden.de | Smilecenter Baden-Baden - Dr. Gunnar Schaaf
 praxis@dr-hutsch.de | Praxis Dr. Olaf Hutsch
 info@praxisvlaia.de | Zahnarztpraxis Doctor medic stom. Raul Louis Vlaia
+
+# 2026-10-05 fresh-priority run batch 4
+zahnaerztin.k.schoenfeldt@outlook.de | Zahnärztin Katja Schönfeldt
+praxis@smiledens.de | smiledens - Zahnarztpraxis am Theater
+info@zahnaerzte-am-alex.de | Zahnärzte am Alex
+info@wurzelmueller.de | Endodontiepraxis Berlin
+dahlem@mvzmedeco.berlin | MVZ Medeco Berlin Dahlem
