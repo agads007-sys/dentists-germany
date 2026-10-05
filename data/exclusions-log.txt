@@ -782,3 +782,8 @@ regensburg@zahnarzt-dr-schaeffer.de | Zahnarztpraxis Dr. Walter Schäffer
 info@zahnaerzte-am-neupfarrplatz.de | Zahnärzte am Neupfarrplatz
 kontakt@zahnaerztin-jobst.de | Zahnarztpraxis Dr. Brigitte Jobst
 dr.scholz@scholz-mainz.de | Zahnarztpraxis Dr. Scholz Mainz
+
+# 2026-10-05 workflow batch 5
+info@zahnarzt-patzke.de | Zahnarztpraxis Dr. Patzke & Kollegen
+info@heinzelmann-zahnarztpraxis.de | Zahnerhaltung im City-Karree - Dr. Hendrik Heinzelmann
+v.schmeling@gmx.de | Zahnarztpraxis Volker Schmeling
