@@ -976,3 +976,10 @@ daten@fromm-zahnheilkunde.de | Fromm Zahnheilkunde
 info@detmold-laechelt.de | Detmold lächelt - Zahnarztpraxis Dr. Romina Bartella
 empfang@zz-do.de | ZahnärzteZentrum im Krüger-Haus Dortmund
 info@nordlohlay.de | Zahnarztpraxis Dr. Thomas Nordloh & Dr. Günther Lay
+
+# 2026-10-05 fresh-prioritized run batch 2
+empfang@praxis-steinfels.de | Gemeinschaftspraxis Dr. Anke Steinfels & Dr. Christian Steinfels
+info@dr-varnholt.de | Zahnarztpraxis Dr. Rüdiger B. Varnholt
+zahnarzt-baumgardt@gmx.de | Zahnarztpraxis Dr. Arthur Baumgardt
+zapraxispolat@gmail.com | Zahnarztpraxis Gülnur Polat
+hallo@zahnarztpraxis-martin-mercak.de | Zahnarztpraxis Martin Mercak
