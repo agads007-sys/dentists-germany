@@ -850,3 +850,10 @@ praxis@praxis-drkrauss.de | Zahnarztpraxis Dr. Jochen Krauss
 info@zahngesundheit-aalen.de | Zahnarztpraxis Simone Nagel
 kontakt@zahnarztpraxis-zharri.de | Zahnarztpraxis Zharri
 dr-klaus-weber@t-online.de | Zahnarztpraxis Dr. Klaus H. Weber
+
+# 2026-10-05 prioritized-marketing run batch 4
+info@zahnarztpraxis-hwang.de | Zahnarztpraxis Hwang
+ih-dent@web.de | Zahnarztpraxis Verena und Ulrich E. Ihlenfeld
+info@schwarz-zahnarzt.de | Zahnarztpraxis Schwarz
+praxisgertmaier@gmail.com | Zahnarztpraxis Dr. Gert Maier
+mail@zahnarztpraxis-dr-oberlaender.de | Zahnarztpraxis Dr. Sabine Oberländer
