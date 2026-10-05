@@ -834,3 +834,5 @@ kontakt@zahnarztpraxis-kirschner.de | Zahnarztpraxis Jane Kirschner
 zahnarzt_glaudan@t-online.de | Praxis Roland Glaudan
 rezeption@dental4kids.de | Dental4Kids Oana Pavel
 praxis@eckert-offenburg.de | Praxis Dr. Hans Michael Eckert
+
+info@zahnheilkunde-steinbach.de | Praxis für Zahnheilkunde Dr. Claudius Steinbach
