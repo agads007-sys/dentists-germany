@@ -955,3 +955,10 @@ kontakt@clinic-dental.de | CLINIC DENTAL Klinik für Implantologie und ästhetis
 info@schulze-becking.de | Zahnärztliche Gemeinschaftspraxis Dr. Dr. Martin Schulze-Becking & Dr. Benedikt Grella
 info@brackweder-zahnaerzte.de | Brackweder Zahnärzte - Gemeinschaftspraxis für Zahnheilkunde
 info@zahnarztpraxis-anders.de | Zahnarztpraxis am Ellerbach Dr. Frank Anders
+
+# 2026-10-05 fresh-prioritized run batch 1
+kontakt@dr-wersig.de | Zahnarztpraxis Dr. Petra Wersig
+praxis@dr-heming.de | Praxis Dr. med. dent. Renate Heming
+willkommen@ccz-muenster.dental | CCZ Münster - Dr. Michael Pack
+praxis@dr-alker.de | Praxis Dr. Nicola Alker
+info@zahnarzt-wolbeck.de | Zahnarztpraxis Dr. Britt Schröder
