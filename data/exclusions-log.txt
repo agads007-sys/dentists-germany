@@ -1140,3 +1140,10 @@ m.deprem-hennen@t-online.de | Zahnarztpraxis Dr. Menevse Deprem-Hennen
 astrid.schoenewald@t-online.de | Zahnarztpraxis Astrid Schönewald
 zdreischel@t-online.de | Praxis Dr. Zdenka Reischel-Kapetanovic
 info@zahnheilkunde-krefeld.de | Praxis für Zahnheilkunde Dr. Marcus Barth
+
+# 2026-10-05 fresh-low-marketing run batch 2
+mhackstein@gmx.de | Zahnarztpraxis Dr. Martina Hackstein
+info@praxis-dr-roesler.de | Zahnarztpraxis Dr. Christian Roesler
+info@drkuntze.de | Zahnarztpraxis Dr. Thomas Kuntze
+zahnarzt.drkuhlmann@t-online.de | Zahnarztpraxis Dr. Gabriel Kuhlmann
+info@zahnarztpraxis-wuest.de | Zahnarztpraxis Dr. Anja Wüst & Dr. Roland Wüst
