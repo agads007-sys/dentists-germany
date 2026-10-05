@@ -1000,3 +1000,10 @@ praxis@dr-klenke.de | Dr. Nicole Klenke-Reeh | Zahnärztin
 info@zahnarztpraxis-ploeger.de | Zahnarztpraxis Dr. med. dent. Mathias Plöger
 info@buschmeier-zahnarzt.de | Zahnarztpraxis Dr. med. dent. Anne Buschmeier
 info@zahnimplantate-paderborn.de | Zahnarztpraxis Dr. Dirk Droege
+
+# 2026-10-05 prioritized-marketing run batch 1
+info@familienzahnaerztin.ruhr | Familienzahnärztin Andrea Becker
+drprzybilla@t-online.de | Zahnärztin Dr. Susanne Przybilla
+info@praxis-dr-bastian.de | Zahnarztpraxis Dr. Cordula Bastian
+praxis.sellhorst@web.de | Zahnarztpraxis Dr. med. dent. Melanie Sellhorst
+dr.michael.vogel@gmx.de | Zahnarztpraxis Dr. Michael Vogel
