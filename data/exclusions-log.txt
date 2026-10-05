@@ -969,3 +969,10 @@ stute.dr.selectione@t-online.de | Zahnarztpraxis Dr. Wolfgang Stute
 info@zahn-seele.com | Zahn & Seele - Praxisgemeinschaft Thanos / Dr. Martina Lücking
 info@zahnarzt-badura.de | Zahnarztpraxis Christian Badura
 guetersloh@zukunftzahn.de | Zahnärzte Kompetenz-Zentrum Gütersloh
+
+# 2026-10-05 prioritized-low-review batch 5
+info@zahnarzt-bielefeld-heepen.de | Zahnarztpraxis Sascha Wiehage - Bielefeld-Heepen
+daten@fromm-zahnheilkunde.de | Fromm Zahnheilkunde
+info@detmold-laechelt.de | Detmold lächelt - Zahnarztpraxis Dr. Romina Bartella
+empfang@zz-do.de | ZahnärzteZentrum im Krüger-Haus Dortmund
+info@nordlohlay.de | Zahnarztpraxis Dr. Thomas Nordloh & Dr. Günther Lay
