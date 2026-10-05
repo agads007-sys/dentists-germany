@@ -761,3 +761,10 @@ praxis@dr-ulrich-kern.de | Praxis Dr. Ulrich Kern
 praxis@zahnaerzte-augustinerplatz.de | Zahnärzte am Augustinerplatz
 info@zahnarztpraxis-in-sinsheim.de | Zahnarztpraxis Dr. Lars Franke
 praxis@dr-hunecke.de | Praxis für Oralchirurgie / Implantologie / Allgemeine Zahnheilkunde Dr. Hunecke
+
+# 2026-10-05 Google-review workflow batch 3
+praxis@zahnarzt-berghofen.de | Zahnarztpraxis Dr. Shirin R. Toekan
+info@zahnarzt-praxisgemeinschaft-essen.de | Zahnarzt Praxisgemeinschaft Essen
+praxis@zahnarztpraxis-saarbruecken.de | Zahnarztpraxis Alt-Saarbrücken Dr. Ines Kraus-Kuleszka
+praxis@dr-leiner.de | Dr. Dirk Leiner - Praxis für ganzheitliche Zahnmedizin
+anmeldung@zahnarztpraxis-aumary.de | Zahnarztpraxis Aumary & Kollegen
