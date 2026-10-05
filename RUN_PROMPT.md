@@ -6,6 +6,10 @@ Run the Google-review outreach workflow using the GitHub repository `agads007-sy
 
 Create exactly **25 new, high-quality Gmail drafts** for **dentists / dental clinics located in Germany only**. Each clinic must be located in an actual German **Stadt**. Small cities / **Kleinstädte** are valid; villages, hamlets, isolated rural places, and rural municipalities without genuine city/town character are not. If the city/town location cannot be verified confidently, skip the prospect.
 
+Within the eligible **2–25 review** range, prioritize prospects with the **lowest verified current Google/Google Maps review counts first**.
+
+As a secondary priority, favor eligible clinics that have **verified signs they are actively marketing themselves or trying to attract patients** (for example active promotional campaigns, advertising, active social-media marketing, SEO/landing-page activity, or other clearly observable current marketing). Treat this only as a prioritization signal, not an eligibility requirement, and never guess or invent marketing activity.
+
 Work in **batches of 5 successful drafts** until you reach **25 total successful drafts**. Do not research 25 prospects upfront and do not build a large candidate backlog.
 
 For each batch:
