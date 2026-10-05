@@ -871,3 +871,10 @@ dr.pauschinger@t-online.de | Praxis Dr. Vera Pauschinger
 praxis@zahnaerztinnen-sha.de | Zahnärztliche Gemeinschaftspraxis Dr. Lütkemeier & Pietzykatis
 zahnarztpraxis.szini@gmx.de | Praxis Dr. Andreas Szini
 info@mkg-sha.de | MKG Dr. Dr. Romsdorfer & Kollegen Schwäbisch Hall
+
+# 2026-10-05 prioritized-marketing run batch 5
+info@zahnaerzte-sindelfingen.de | Zahnarztpraxis Dr. Rentschler & Dr. Zimmermann
+info@boeblingendental.com | Böblingen Dental
+info@dentiq-praxis.de | Zahnarztpraxis DENTiQ - MDDr. Yulia Smitka
+praxis@goldammer-zahngesundheit.de | Praxis für Zahngesundheit Dr. Christoph Goldammer
+info@zahnarztpraxis-boeblingen.de | Zahnärzte im Medicum - Dr. Iris van Husen & Dr. Steffen Thau
