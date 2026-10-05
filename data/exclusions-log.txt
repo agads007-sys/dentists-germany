@@ -822,3 +822,10 @@ zahnarztpraxis.ehrat@t-online.de | Zahnarztpraxis Julia Ehrat
 info@zahnarzt-herter.de | Zahnarztpraxis Dr. Matthias U. Herter
 info@tollezaehne.de | Zahnarztpraxis Dr. Dirk Späth
 kontakt@dfz-bodensee.de | dfz® Doktor Fricke Zahnmedizin
+
+# 2026-10-05 prioritized-lower-reviews batch 5
+info@zahngesundheit-lahr.de | Zahnarztpraxis Dr. Julia Rinderspacher-Holland
+zahnarztpraxis-lahr@t-online.de | Praxis Jochen Dahlinger
+lahr@kuk-zahnarzt.de | K & K Zahnärzte Lahr
+sigrid.doll.praxis.mijatovic@gmail.com | Zahnarztpraxis Mijatovic
+kontakt@zahnarztpraxis-kirschner.de | Zahnarztpraxis Jane Kirschner
