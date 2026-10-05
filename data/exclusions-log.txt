@@ -775,3 +775,10 @@ info@drpache.de | Zahnarzt Dr. Theodor Pache
 praxis@drarminmeier.de | Zahnarztpraxis Dr. Armin Meier
 info@zahnarzt-eichelsbacher.de | Praxis für Zahnerhaltung - Dr. Florian Eichelsbacher
 praxis@zahn-seite.de | Zahnarztpraxis Dirk Zipprich
+
+# 2026-10-05 Google-review workflow batch 4
+info@zahnarzt-antony.de | Antony Zahnheilkunde
+regensburg@zahnarzt-dr-schaeffer.de | Zahnarztpraxis Dr. Walter Schäffer
+info@zahnaerzte-am-neupfarrplatz.de | Zahnärzte am Neupfarrplatz
+kontakt@zahnaerztin-jobst.de | Zahnarztpraxis Dr. Brigitte Jobst
+dr.scholz@scholz-mainz.de | Zahnarztpraxis Dr. Scholz Mainz
