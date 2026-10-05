@@ -1040,3 +1040,10 @@ praxis-muelheim@dento-plus.de | Zahnarztpraxis Dentoplus Mülheim
 info@kaschynski-zahnarzt.de | Andreas Kaschynski Zahnarzt
 info@zahnbehandlungsangst.com | Zahnklinik Bochum - BAG Dr. Gloger / Dr. Späth / Dr. Siering / Dr. Brodowski
 info@zahnarzt-duempten.de | Zahnarztpraxis Ioannis Tsiompanis
+
+# 2026-10-05 germany outreach batch 4
+info@krampe-zahnarzt.de | Medizinisches Versorgungszentrum Am Hellweg GmbH – Dr. Joachim Krampe
+info@kfo-werl.de | Dr. med. dent. Sabine Dietze-Sauer – Praxis für Kieferorthopädie
+verwaltung@schlotmann-zahnarzt.de | Zahnärztliche Gemeinschaftspraxis Dr. Schlotmann und Partner
+info@z-point-unna.de | z-point Zahnarzt-Zentrum Menden – Dr. Prünte und Partner
+praxis@maja-weber.de | Zahnarztpraxis Dr. Maja Sophie Weber
