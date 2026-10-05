@@ -899,3 +899,10 @@ dres.bargatzki@t-online.de | Praxisklinik Dr. Arndt Bargatzki
 zabuesselberg@t-online.de | Zahnarztpraxis Johannes Büsselberg
 info@detmold-laechelt.de | Detmold lächelt - Zahnarztpraxis Dr. Romina Bartella
 info@nordlohlay.de | Gemeinschaftspraxis Dr. Thomas Nordloh & Dr. Günther Lay
+
+# 2026-10-05 prioritized-low-review batch 2
+info@zahnarzt-hn-ost.de | Zahnarztpraxis Dr. Peter Lintzen & Kollegen - Götz Maurer
+helene_leonhard@web.de | Zahnarztpraxis Helene Leonhard
+praxis@zahnarzt-prescher-heilbronn.de | Praxis Dr. Nico-Andri Prescher
+info@waldhier.de | Zahnarztpraxis am Wartberg - Dr. Jochen Waldhier
+info@zahnarztpraxiskraemer.de | Gemeinschaftspraxis Dr. Bernd und Volker Krämer
