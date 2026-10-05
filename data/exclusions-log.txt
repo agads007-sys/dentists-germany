@@ -836,3 +836,10 @@ rezeption@dental4kids.de | Dental4Kids Oana Pavel
 praxis@eckert-offenburg.de | Praxis Dr. Hans Michael Eckert
 
 info@zahnheilkunde-steinbach.de | Praxis für Zahnheilkunde Dr. Claudius Steinbach
+
+# 2026-10-05 prioritized-marketing run batch 2
+info@schewe-dental.de | Zahnarztpraxis Dr. Philipp Schewe M.Sc. & Kollegen
+info@zahnarztpraxis-haegele.de | Zahnarztpraxis Dr. Ulrike Hägele
+info@dr-vollmer-zahnarzt.de | Zahnarzt Dr. Klaus Vollmer
+praxis@dr-markus-graf.de | Zahnarztpraxis Dr. Markus Graf
+post@zam-gp.de | Zahnärzte am Marktplatz
