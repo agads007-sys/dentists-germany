@@ -1133,3 +1133,10 @@ info@zahnarztpraxis-am-koelner-tor.de | Zahnarztpraxis am Kölner Tor Dr. Christ
 info@zahnarztpraxis-siegbogen.de | Zahnarztpraxis am Siegbogen Dr. Johanna Baumgarten
 info@praxis-straatman.de | Gemeinschaftspraxis Dres. Helge und Wolfgang Straatman
 info@zahnarztnickel.de | Zahnarztpraxis Irena Nickel
+
+# 2026-10-05 fresh-low-marketing run batch 1
+info@zahnarztpraxis-wulff.de | Zahnarztpraxis Wulff - Simon Wulff und Philipp Wulff
+m.deprem-hennen@t-online.de | Zahnarztpraxis Dr. Menevse Deprem-Hennen
+astrid.schoenewald@t-online.de | Zahnarztpraxis Astrid Schönewald
+zdreischel@t-online.de | Praxis Dr. Zdenka Reischel-Kapetanovic
+info@zahnheilkunde-krefeld.de | Praxis für Zahnheilkunde Dr. Marcus Barth
