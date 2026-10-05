@@ -750,3 +750,9 @@ info@praxis-vonstetten.de | Zahnärztliche Praxis von Stetten
 praxis@dr-claudy.de | Praxis Dr. Ulrich Claudy
 praxis@zahnarzt-roedenbeck.de | Praxis Susi Roedenbeck
 mail@zahnarzt-w-herrmann.de | Zahnarztpraxis Dr. Walter Herrmann
+
+# 2026-10-05 workflow batch 2
+info@wendler-doepfner.de | Zahnarztpraxis Dr. Wendler - Dr. Döpfner
+mail@dr-zwenzner.de | Zahnarztpraxis Dr. Zwenzner
+praxis@faber-uebel.de | Zahnärztliche Gemeinschaftspraxis ZÄ Faber & Dr. Uebel
+praxis@dr-ulrich-kern.de | Praxis Dr. Ulrich Kern
