@@ -1252,3 +1252,10 @@ praxis@drschreiber.eu | Zahnarztpraxis Dr. Luminita Schreiber
 kontakt@zahnarztpraxis-juric-gaggenau.de | Praxis Dr. Danijela Juric-Kacunic
 zahnaerzte.am.marktplatz@t-online.de | Zahnärzte am Marktplatz - Dr. Gernot Heinze & Rami Simon
 zahnarzt-ghz@web.de | Zahnarztpraxis Harald Britzius
+
+# 2026-10-05 fresh-priority run batch 5
+info@zaehne-ok.de | Zahnarztpraxis Katherine Wetzel
+zahnarztpraxis-heise@web.de | Zahnarztpraxis Annegret Heise
+zahnaerztin.uspenska@gmail.com | Zahnarzt Uspenska
+praxis@semmelweis8.de | Zahnarztpraxis Krentz-Wenschuh & Dr. Rita Neumeyer
+praxis@medece.de | MEDECE Medical Dental Center
