@@ -1070,3 +1070,10 @@ info@praxis-luedeke.de | Zahnarztpraxis Dr. Anne Lüdeke
 info@drloos-celle.de | Zahnarztpraxis Dr. Kerstin Loos
 gieseckedonald@gmail.com | Zahnarztpraxis Dr. Donald Giesecke
 Pamela_Schnober@web.de | Zahnarztpraxis Pamela Schnober
+
+# 2026-10-05 fresh-prioritized batch 1
+kontakt@zahnarztservice-heidelberg.de | Praxis Dr. Bodo Eckhardt
+info@drschulmeyer.de | Zahnarztpraxis Dr. Heike Schulmeyer
+termin@heidelberg-zahnarzt.de | Zahnarztpraxis Dr. Marcel Tacke
+praxis@drlerach.de | Zahnarztpraxis Dr. Beate Lerach
+info@zahnarzt-franzsander.de | Zahnarztpraxis Michael Franzsander
