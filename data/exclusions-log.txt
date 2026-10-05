@@ -1245,3 +1245,10 @@ info@isarzahn.de | Zahnarztpraxis IsarZahn
 info@zahnarzt-praxis-straubing.de | Zahnarztpraxis Dr. Günter Häusler & Dr. Evelyn Sieber-Häusler
 praxis@dr-rippel.de | Zahnarztpraxis Dr. Ralf Rippel
 zahnarzt-christoph-detterbeck@t-online.de | Zahnarztpraxis Christoph Detterbeck
+
+# 2026-10-05 latest-low-review-marketing batch 5
+info@zahnarztpraxis-dr-metzner.de | Zahnarztpraxis Dr. Harald Metzner
+praxis@drschreiber.eu | Zahnarztpraxis Dr. Luminita Schreiber
+kontakt@zahnarztpraxis-juric-gaggenau.de | Praxis Dr. Danijela Juric-Kacunic
+zahnaerzte.am.marktplatz@t-online.de | Zahnärzte am Marktplatz - Dr. Gernot Heinze & Rami Simon
+zahnarzt-ghz@web.de | Zahnarztpraxis Harald Britzius
