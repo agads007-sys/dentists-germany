@@ -739,3 +739,7 @@ info@zahnarzt-ottensen-altona.de | Zahnarztpraxis Dr. Nicole Beerberg
 info@zahnarzt-landau-solln.de | Zahnarztpraxis Christian Landau
 info@zahnarztpraxis-reuterweg.de | Zahnarztpraxis am Reuterweg
 info@zahnarztmohr.de | Zahnarztpraxis Mohr
+
+# 2026-10-05 workflow batch 1
+dr.nothaft@web.de | Zahnarztpraxis Dres. Marion und Maximilian Nothaft
+info@passau-smile.de | Zahnarztpraxis Dr. Markus Zaruba
