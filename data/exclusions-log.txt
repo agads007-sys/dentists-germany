@@ -941,3 +941,10 @@ praxis@drthormann.de | Zahnarztpraxis Dr. Jörn Thormann
 verwaltung@zahnarzt-herford.com | Gemeinschaftspraxis Dr. Hampe & Kollegen* Herford
 info@zahnarztpraxisgt.de | Zahnarztpraxis Dr. Daniela Kempin und Herr Jan Beckschäfer
 praxis@zahnarztpraxis-caliebe.de | Zahnarztpraxis Dr. Heike Caliebe
+
+# 2026-10-05 city-low-reviews-marketing batch 5
+info@bunse-zahnmedizin.de | Zahnarztpraxis Anke Bunse
+info@dr-mau.de | Dr. med. dent. Ingrid Rausch-Mau
+kontakt@zahn-zentrum-verl.de | Zahnarztpraxis Jörg Abramovski
+praxis@zahnarzt-frie.de | Gemeinschaftspraxis Dr. med. dent. Godehard und Ute Frie
+info@zahnarzt32049.de | Zahnarztpraxis Uwe Schäffer
