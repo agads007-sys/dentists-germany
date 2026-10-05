@@ -913,3 +913,10 @@ info@zahnaerztin-hermann.de | Zahnarztpraxis Stephanie Hermann
 info@zahnarzt-noerdlingen.de | Zahnärztliche Gemeinschaftspraxis Dr. Schwetz & Dr. Hobelsberger
 info@zahnarztpraxis-meyer-schlosser.de | Zahnärztliche Gemeinschaftspraxis Dr. C. Meyer & Dr. M. Schlosser
 praxis@drludwig.de | Zahnarztpraxis Dr. Florian Ludwig
+
+# 2026-10-05 city-low-reviews-marketing batch 2
+ulf-berkenkamp@t-online.de | Zahnarztpraxis Dr. Ulf Berkenkamp
+info@zahnaerzte-teupe.de | Zahnarztpraxis Christoph & Gabriele Teupe
+mail@zahnarzt-friedrich.de | Zahnärztliche Fachpraxis Dr. Michael Friedrich
+undine.bochtler@t-online.de | Zahnarztpraxis Dr. Undine Bochtler
+info@zahnheilkunde-detmold.de | Praxis für Zahnheilkunde Dr. Alfonso Rosero-Yépez
