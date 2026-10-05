@@ -1210,3 +1210,10 @@ info@uwefrings.de | Zahnarztpraxis Uwe Frings Geilenkirchen
 info@deutz-bouchouchi.de | Gemeinschaftspraxis Dr. Heike Deutz & Dr. Nassim Bouchouchi
 smile@dr-gustav.de | Zahnarztpraxis Aachen Süd Dr. Marc Gustav & Dr. Melanie Hoffmann
 praxis@vondenbenken.de | Zahnarztpraxis Gabriele von den Benken
+
+# 2026-10-05 latest-low-review-marketing batch 3
+tagesklinik-rastatt@gmx.de | Zahnärztliche Tagesklinik am Stadtpark
+kontakt-ra@abc-dent.de | ABCDent MVZ GmbH Rastatt
+dr.monika_russ@yahoo.de | Praxis Monika Ruß & Tamara Linden
+info@dr-metz.de | Praxis Dr. Christof Metz
+achim.gonser@yahoo.de | Praxis Achim Gonser
