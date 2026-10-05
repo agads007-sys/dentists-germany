@@ -743,3 +743,10 @@ info@zahnarztmohr.de | Zahnarztpraxis Mohr
 # 2026-10-05 workflow batch 1
 dr.nothaft@web.de | Zahnarztpraxis Dres. Marion und Maximilian Nothaft
 info@passau-smile.de | Zahnarztpraxis Dr. Markus Zaruba
+
+# 2026-10-05 Google-review workflow batch 2
+praxis@dr-gann.de | Zahnarztpraxis Dr. Raimond Gann
+info@praxis-vonstetten.de | Zahnärztliche Praxis von Stetten
+praxis@dr-claudy.de | Praxis Dr. Ulrich Claudy
+praxis@zahnarzt-roedenbeck.de | Praxis Susi Roedenbeck
+mail@zahnarzt-w-herrmann.de | Zahnarztpraxis Dr. Walter Herrmann
