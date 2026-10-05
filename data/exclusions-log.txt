@@ -1062,3 +1062,7 @@ info@praxis-dr-bastian.de | Zahnarztpraxis Dr. Cordula Bastian
 praxis@dr-junge.info | Zahnarztpraxis Dr. Lars M. Junge
 dr.michael.vogel@gmx.de | Zahnarztpraxis Dr. Michael Vogel
 info@kieferorthopaeden-iserlohn.de | Smile E+K – Praxis für Kieferorthopädie Dr. Henrik Elten & Dr. Kharroubi
+
+# 2026-10-05 fresh-low-reviews-marketing batch 2
+praxis@abdel-nabi.de | Zahnarztpraxis Daniel Abdel Nabi
+info@praxis-luedeke.de | Zahnarztpraxis Dr. Anne Lüdeke
