@@ -1203,3 +1203,10 @@ info@gross-klein-fein.de | groß.klein.fein Zahnarztpraxis Dr. David Kruzolek & 
 praxis@zahnarzt-hochfeld.de | Zahnarztpraxis Dr. Simona Richter
 praxis@zahnarzt-holdt.de | Zahnarztpraxis Christian Holdt
 praxis@ugrinovic.de | Zahnarztpraxis Dr. Ugrinovic & Dr. Sokol
+
+# 2026-10-05 fresh-priority run batch 3
+info@zahnarzt-krings.de | Zahnarztpraxis Dr. Krings - Aachen-Oberforstbach
+info@uwefrings.de | Zahnarztpraxis Uwe Frings Geilenkirchen
+info@deutz-bouchouchi.de | Gemeinschaftspraxis Dr. Heike Deutz & Dr. Nassim Bouchouchi
+smile@dr-gustav.de | Zahnarztpraxis Aachen Süd Dr. Marc Gustav & Dr. Melanie Hoffmann
+praxis@vondenbenken.de | Zahnarztpraxis Gabriele von den Benken
