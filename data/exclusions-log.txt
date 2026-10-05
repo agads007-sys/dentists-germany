@@ -1021,3 +1021,10 @@ dr.frankemoelle@t-online.de | Zahnarztpraxis Artur Frankenmölle
 praxis@drbeckmann.net | Dr. Beckmann - Zahnärzte - Partnerschaft für Zahnmedizin
 mail@zahnarzt-dr-witt.de | Zahnarztpraxis Dr. Martin Witt
 dr-lorenz@t-online.de | Zahnarztpraxis Dr. med. dent. Steffen Lorenz
+
+# 2026-10-05 germany outreach batch 3
+praxis-weigert@web.de | Zahnarztpraxis Irena Weigert
+dr-haude@t-online.de | Zahnarztpraxis Dr. Uwe & Niclas Haude
+info@dr-clemens-arnsberg.de | Zahnarztpraxis Dr. Bernward Clemens
+info@dietrich-zahnarzt.de | Zahnarztpraxis Dr. Michael Dietrich & Carolin Dietrich-Henne
+info@zahnarzt-menke.de | Zahnarztpraxis Clemens Menke
