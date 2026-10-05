@@ -1053,3 +1053,5 @@ info@dental-iq.de | Dental-IQ-Biohealth
 praxis@zahnarzt-goettingen.com | Zahnarztpraxis Dr. Marlie Pirkl-Nolte
 info@zahnarztpraxis-rudyk.de | Zahnarztpraxis Elena Rudyk
 mail@zaehneimzentrum.de | Zähne im Zentrum - Standort Kreuzviertel
+
+info@zahnarzt-scheele.de | Zahnarztpraxis Dr. Rainard Scheele
