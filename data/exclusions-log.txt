@@ -892,3 +892,10 @@ zahnarztpraxis-sha@t-online.de | Zahnärztliche Gemeinschaftspraxis Dr. Mörchen
 anmeldung@zahnaerzte-am-klosterbuckel.de | Praxis für ganzheitliche Zahnmedizin Hanns Martin Zimmermann
 info@zahnarztpraxis-rehberg.de | Zahnarztpraxis Daniel J. H. Rehberg
 mail@schuler.dental | Zahnarztpraxis Constantin T. Schuler
+
+# 2026-10-05 city-low-reviews-marketing batch 1
+info@zahnarzt-reichelt.de | Zahnarztpraxis Dr. Hans-Jürgen Reichelt
+dres.bargatzki@t-online.de | Praxisklinik Dr. Arndt Bargatzki
+zabuesselberg@t-online.de | Zahnarztpraxis Johannes Büsselberg
+info@detmold-laechelt.de | Detmold lächelt - Zahnarztpraxis Dr. Romina Bartella
+info@nordlohlay.de | Gemeinschaftspraxis Dr. Thomas Nordloh & Dr. Günther Lay
