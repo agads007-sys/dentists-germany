@@ -1147,3 +1147,10 @@ info@praxis-dr-roesler.de | Zahnarztpraxis Dr. Christian Roesler
 info@drkuntze.de | Zahnarztpraxis Dr. Thomas Kuntze
 zahnarzt.drkuhlmann@t-online.de | Zahnarztpraxis Dr. Gabriel Kuhlmann
 info@zahnarztpraxis-wuest.de | Zahnarztpraxis Dr. Anja Wüst & Dr. Roland Wüst
+
+# 2026-10-05 fresh-low-marketing run batch 3
+info@zahnessthetik.de | Zahnessthetik - Dr. Andrea Küsters & Monika Arnold M.Sc.
+praxis@dr-holten.de | Zahnarztpraxis Dr. Bernd Holten
+info@zahnarztpraxis-terhalle.de | Zahnarztpraxis Benjamin Terhalle
+rezeption@dr-kranz.de | Zahnarztpraxis Dr. Stephan Kranz
+praxis@zahnarzt-hamacher.de | Zahnarztpraxis Yannick Hamacher
