@@ -857,3 +857,10 @@ ih-dent@web.de | Zahnarztpraxis Verena und Ulrich E. Ihlenfeld
 info@schwarz-zahnarzt.de | Zahnarztpraxis Schwarz
 praxisgertmaier@gmail.com | Zahnarztpraxis Dr. Gert Maier
 mail@zahnarztpraxis-dr-oberlaender.de | Zahnarztpraxis Dr. Sabine Oberländer
+
+# 2026-10-05 prioritized-marketing run batch 3
+praxis@zahnaerzte-im-wiz.de | Zahnärzte im WIZ - Dr. Jürgen Reier
+dr.klemen@zahnprofi-le.de | Zahnarztpraxis Dr. Jörg Klemen
+info@zahnarzt-roemer.de | Zahnarztpraxis Dr. Marc Römer
+info@petrovic-aalen.de | Zahnarztpraxis Petrovic - Dr. Aleksandar Petrovic
+info@prophylaxezahnarzt.de | Dirk Häcker & Katharina Dietz-Epple Praxis für Zahnheilkunde und Prophylaxe
