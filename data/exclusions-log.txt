@@ -1033,3 +1033,10 @@ info@zahnarzt-menke.de | Zahnarztpraxis Clemens Menke
 info@tapella-sonneborn.de | Zahnarztpraxis im Zentrum Bonn - Zahnärzte Sonneborn & Tapella
 info@dental-soul.de | MVZ Dental Soul Bonn - Burkhard Wist
 info@dr-wilk.de | Zahnarztpraxis Dr. med. dent. Bernd Wilk
+
+# 2026-10-05 prioritized-marketing run batch 2
+info@zahnarztpraxis-in-witten.de | Dr. Przybylek + Kollegen Zahnarztpraxis Witten
+praxis-muelheim@dento-plus.de | Zahnarztpraxis Dentoplus Mülheim
+info@kaschynski-zahnarzt.de | Andreas Kaschynski Zahnarzt
+info@zahnbehandlungsangst.com | Zahnklinik Bochum - BAG Dr. Gloger / Dr. Späth / Dr. Siering / Dr. Brodowski
+info@zahnarzt-duempten.de | Zahnarztpraxis Ioannis Tsiompanis
