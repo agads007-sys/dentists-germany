@@ -843,3 +843,10 @@ info@zahnarztpraxis-haegele.de | Zahnarztpraxis Dr. Ulrike Hägele
 info@dr-vollmer-zahnarzt.de | Zahnarzt Dr. Klaus Vollmer
 praxis@dr-markus-graf.de | Zahnarztpraxis Dr. Markus Graf
 post@zam-gp.de | Zahnärzte am Marktplatz
+
+# 2026-10-05 prioritized-marketing run batch 3
+zahnarztpraxis@andrefelgenhauer.de | Zahnarztpraxis Andre Felgenhauer
+praxis@praxis-drkrauss.de | Zahnarztpraxis Dr. Jochen Krauss
+info@zahngesundheit-aalen.de | Zahnarztpraxis Simone Nagel
+kontakt@zahnarztpraxis-zharri.de | Zahnarztpraxis Zharri
+dr-klaus-weber@t-online.de | Zahnarztpraxis Dr. Klaus H. Weber
