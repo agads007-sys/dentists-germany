@@ -906,3 +906,10 @@ helene_leonhard@web.de | Zahnarztpraxis Helene Leonhard
 praxis@zahnarzt-prescher-heilbronn.de | Praxis Dr. Nico-Andri Prescher
 info@waldhier.de | Zahnarztpraxis am Wartberg - Dr. Jochen Waldhier
 info@zahnarztpraxiskraemer.de | Gemeinschaftspraxis Dr. Bernd und Volker Krämer
+
+# 2026-10-05 prioritized-marketing run batch 4
+praxis@zahnarzt-boeckh.de | Zahnarztpraxis Dr. Claus-Martin Böckh
+info@zahnaerztin-hermann.de | Zahnarztpraxis Stephanie Hermann
+info@zahnarzt-noerdlingen.de | Zahnärztliche Gemeinschaftspraxis Dr. Schwetz & Dr. Hobelsberger
+info@zahnarztpraxis-meyer-schlosser.de | Zahnärztliche Gemeinschaftspraxis Dr. C. Meyer & Dr. M. Schlosser
+praxis@drludwig.de | Zahnarztpraxis Dr. Florian Ludwig
