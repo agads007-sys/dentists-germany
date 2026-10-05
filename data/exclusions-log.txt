@@ -787,3 +787,10 @@ dr.scholz@scholz-mainz.de | Zahnarztpraxis Dr. Scholz Mainz
 info@zahnarzt-patzke.de | Zahnarztpraxis Dr. Patzke & Kollegen
 info@heinzelmann-zahnarztpraxis.de | Zahnerhaltung im City-Karree - Dr. Hendrik Heinzelmann
 v.schmeling@gmx.de | Zahnarztpraxis Volker Schmeling
+
+# 2026-10-05 Google-review workflow batch 5
+info@zahnarzt-zugravu.de | Zahnarztpraxis Zugravu
+zauberzahn.wuerzburg@googlemail.com | Zahnarztpraxis Zauberzahn Würzburg
+praxis@musterzahn.de | Zahnarztpraxis Tamara Muster - Musterzahn Würzburg
+wue@pohl-jahreis.de | Dr. Jörg Pohl & Dr. Tiffany Jahreis Zahnärztliche Gemeinschaftspraxis Würzburg
+info@dr-klement.de | Zahnarztpraxis Dr. med. dent. Daniel Klement
