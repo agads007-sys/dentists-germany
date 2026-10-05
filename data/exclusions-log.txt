@@ -934,3 +934,10 @@ zahnarztpraxis-rista@web.de | Praxis für Zahnheilkunde Gheorghe Rista - Bad Sal
 info@zahnarzt-schneiker.de | Zahnarztpraxis Joachim Schneiker
 praxis.rieke@gmx.de | Zahnarztpraxis Dr. Jörn Rieke
 praxis@michl-lemgo.de | Zahnärztliche Praxis Dr. Reinhard Michl
+
+# 2026-10-05 city-low-reviews-marketing batch 4
+info@mein-zahnarzt.de | Gemeinschaftspraxis Dr. Ingo Brandt + Andrea Löwe
+praxis@drthormann.de | Zahnarztpraxis Dr. Jörn Thormann
+verwaltung@zahnarzt-herford.com | Gemeinschaftspraxis Dr. Hampe & Kollegen* Herford
+info@zahnarztpraxisgt.de | Zahnarztpraxis Dr. Daniela Kempin und Herr Jan Beckschäfer
+praxis@zahnarztpraxis-caliebe.de | Zahnarztpraxis Dr. Heike Caliebe
