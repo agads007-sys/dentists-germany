@@ -948,7 +948,6 @@ info@dr-mau.de | Dr. med. dent. Ingrid Rausch-Mau
 kontakt@zahn-zentrum-verl.de | Zahnarztpraxis Jörg Abramovski
 praxis@zahnarzt-frie.de | Gemeinschaftspraxis Dr. med. dent. Godehard und Ute Frie
 info@zahnarzt32049.de | Zahnarztpraxis Uwe Schäffer
-
 # 2026-10-05 prioritized-low-review batch 3
 info@zahnarztpraxis-biermann.de | Zahnarztpraxis Dr. Michael und Heike Biermann
 kontakt@clinic-dental.de | CLINIC DENTAL Klinik für Implantologie und ästhetische Zahnheilkunde Bielefeld
@@ -990,3 +989,9 @@ info@zeuzem.de | Zahnarztpraxis Simon Gonzalez
 anmeldung-praxis@wyrodent.de | Zahnarztpraxis Lukas Wyrobek
 info@dr-heike-frahm.de | Zahnarztpraxis Dr. Heike Frahm
 praxis@zahnwaldt.info | Zahnarztpraxis Christian Grünewaldt
+# 2026-10-05 germany outreach batch 1
+info@dr-kroencke.de | Praxis für moderne Zahnheilkunde und Implantologie Dr. Peter Kröncke
+info@kamp25.de | Zahnarztpraxis Kamp 25 – Dr. med. dent. Christian Koch M.Sc.
+praxis@jerecinski.de | Zahnarztpraxis am Lichtenturm – Dr. medic Christian Jerecinski MSc.
+mail@zahnarzt-hamm.de | Zahnärzte Altmann · Müller – Dr. Rolf Altmann
+praxis@dr-klenke.de | Dr. Nicole Klenke-Reeh | Zahnärztin
