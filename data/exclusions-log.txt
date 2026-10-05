@@ -1028,3 +1028,8 @@ dr-haude@t-online.de | Zahnarztpraxis Dr. Uwe & Niclas Haude
 info@dr-clemens-arnsberg.de | Zahnarztpraxis Dr. Bernward Clemens
 info@dietrich-zahnarzt.de | Zahnarztpraxis Dr. Michael Dietrich & Carolin Dietrich-Henne
 info@zahnarzt-menke.de | Zahnarztpraxis Clemens Menke
+
+# 2026-10-05 prioritized-low-review batch 5
+info@tapella-sonneborn.de | Zahnarztpraxis im Zentrum Bonn - Zahnärzte Sonneborn & Tapella
+info@dental-soul.de | MVZ Dental Soul Bonn - Burkhard Wist
+info@dr-wilk.de | Zahnarztpraxis Dr. med. dent. Bernd Wilk
