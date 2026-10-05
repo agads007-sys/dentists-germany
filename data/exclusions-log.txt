@@ -1154,3 +1154,10 @@ praxis@dr-holten.de | Zahnarztpraxis Dr. Bernd Holten
 info@zahnarztpraxis-terhalle.de | Zahnarztpraxis Benjamin Terhalle
 rezeption@dr-kranz.de | Zahnarztpraxis Dr. Stephan Kranz
 praxis@zahnarzt-hamacher.de | Zahnarztpraxis Yannick Hamacher
+
+# 2026-10-05 fresh-low-marketing run batch 4
+info@dentalpraxis-am-rhein.de | Dental Praxis am Rhein - Dr. Isabella Goniwiecha
+info@zahnarzt-birgel.de | Zahnarztpraxis Dr. Matthias Birgel
+praxis@dr-von-kalkstein.de | Zahnarztpraxis Dr. Armin F. von Kalkstein
+buchhaltung@zap-thomas-schmidt.de | Zahnarztpraxis Thomas Schmidt
+info@zahnarzt-lank-latum.de | Zahnarztpraxis Frank Heiderich
