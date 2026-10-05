@@ -995,3 +995,8 @@ info@kamp25.de | Zahnarztpraxis Kamp 25 – Dr. med. dent. Christian Koch M.Sc.
 praxis@jerecinski.de | Zahnarztpraxis am Lichtenturm – Dr. medic Christian Jerecinski MSc.
 mail@zahnarzt-hamm.de | Zahnärzte Altmann · Müller – Dr. Rolf Altmann
 praxis@dr-klenke.de | Dr. Nicole Klenke-Reeh | Zahnärztin
+
+# 2026-10-05 prioritized-low-review batch 3
+info@zahnarztpraxis-ploeger.de | Zahnarztpraxis Dr. med. dent. Mathias Plöger
+info@buschmeier-zahnarzt.de | Zahnarztpraxis Dr. med. dent. Anne Buschmeier
+info@zahnimplantate-paderborn.de | Zahnarztpraxis Dr. Dirk Droege
