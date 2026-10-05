@@ -829,3 +829,9 @@ zahnarztpraxis-lahr@t-online.de | Praxis Jochen Dahlinger
 lahr@kuk-zahnarzt.de | K & K Zahnärzte Lahr
 sigrid.doll.praxis.mijatovic@gmail.com | Zahnarztpraxis Mijatovic
 kontakt@zahnarztpraxis-kirschner.de | Zahnarztpraxis Jane Kirschner
+
+# 2026-10-05 prioritized-marketing run batch 1
+zahnarzt_glaudan@t-online.de | Praxis Roland Glaudan
+kontakt@schwagierek.de | Praxis Dr. Robert Schwagierek
+rezeption@dental4kids.de | Dental4Kids Oana Pavel
+praxis@eckert-offenburg.de | Praxis Dr. Hans Michael Eckert
