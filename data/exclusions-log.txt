@@ -815,3 +815,10 @@ info@zahnfit.com | Praxis Dr. Christine Beyer & Jörg Potthoff
 info@schoene-zaehne-tuebingen.de | Zahnarztpraxis Schöne Zähne - Dres. Hermle, Schnur
 dr.braendle@zahnarzt-tuebingen.org | Zahnarztpraxis Dr. Brändle
 verwaltung@ademihaid.de | Zahnzentrum Tübingen Süd - Dr. Ademi & Dr. Haid
+
+# 2026-10-05 prioritized-lower-reviews batch 4
+Praxis@DrTreichel.de | Zahnarztpraxis Dr. Andreas Treichel
+zahnarztpraxis.ehrat@t-online.de | Zahnarztpraxis Julia Ehrat
+info@zahnarzt-herter.de | Zahnarztpraxis Dr. Matthias U. Herter
+info@tollezaehne.de | Zahnarztpraxis Dr. Dirk Späth
+kontakt@dfz-bodensee.de | dfz® Doktor Fricke Zahnmedizin
