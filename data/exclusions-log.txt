@@ -983,3 +983,10 @@ info@dr-varnholt.de | Zahnarztpraxis Dr. Rüdiger B. Varnholt
 zahnarzt-baumgardt@gmx.de | Zahnarztpraxis Dr. Arthur Baumgardt
 zapraxispolat@gmail.com | Zahnarztpraxis Gülnur Polat
 hallo@zahnarztpraxis-martin-mercak.de | Zahnarztpraxis Martin Mercak
+
+# 2026-10-05 fresh-prioritized run batch 3
+zahnarztpraxis.redondo@gmx.de | Zahnarztpraxis Simon Redondo
+info@zeuzem.de | Zahnarztpraxis Simon Gonzalez
+anmeldung-praxis@wyrodent.de | Zahnarztpraxis Lukas Wyrobek
+info@dr-heike-frahm.de | Zahnarztpraxis Dr. Heike Frahm
+praxis@zahnwaldt.info | Zahnarztpraxis Christian Grünewaldt
