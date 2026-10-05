@@ -885,3 +885,10 @@ info@zahnarztpraxis-weyen.de | Zahnarztpraxis Dr. Gerko Weyen
 info@za-schumacher.de | Zahnarztpraxis Jörg Schumacher
 mail@za-hn.com | Zahnarztpraxis am Landratsamt
 praxis@wagner-zahnaerztin.de | Zahnarztpraxis Friederike Wagner
+
+# 2026-10-05 prioritized-marketing run batch 3
+Zahnarztpraxis.breckner@t-online.de | Zahnarztpraxis Breckner
+zahnarztpraxis-sha@t-online.de | Zahnärztliche Gemeinschaftspraxis Dr. Mörchen-Trinkle, Dr. Trinkle & Dr. Biggel
+anmeldung@zahnaerzte-am-klosterbuckel.de | Praxis für ganzheitliche Zahnmedizin Hanns Martin Zimmermann
+info@zahnarztpraxis-rehberg.de | Zahnarztpraxis Daniel J. H. Rehberg
+mail@schuler.dental | Zahnarztpraxis Constantin T. Schuler
