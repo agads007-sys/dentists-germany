@@ -948,3 +948,10 @@ info@dr-mau.de | Dr. med. dent. Ingrid Rausch-Mau
 kontakt@zahn-zentrum-verl.de | Zahnarztpraxis Jörg Abramovski
 praxis@zahnarzt-frie.de | Gemeinschaftspraxis Dr. med. dent. Godehard und Ute Frie
 info@zahnarzt32049.de | Zahnarztpraxis Uwe Schäffer
+
+# 2026-10-05 prioritized-low-review batch 3
+info@zahnarztpraxis-biermann.de | Zahnarztpraxis Dr. Michael und Heike Biermann
+kontakt@clinic-dental.de | CLINIC DENTAL Klinik für Implantologie und ästhetische Zahnheilkunde Bielefeld
+info@schulze-becking.de | Zahnärztliche Gemeinschaftspraxis Dr. Dr. Martin Schulze-Becking & Dr. Benedikt Grella
+info@brackweder-zahnaerzte.de | Brackweder Zahnärzte - Gemeinschaftspraxis für Zahnheilkunde
+info@zahnarztpraxis-anders.de | Zahnarztpraxis am Ellerbach Dr. Frank Anders
