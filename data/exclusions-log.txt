@@ -878,3 +878,10 @@ info@boeblingendental.com | Böblingen Dental
 info@dentiq-praxis.de | Zahnarztpraxis DENTiQ - MDDr. Yulia Smitka
 praxis@goldammer-zahngesundheit.de | Praxis für Zahngesundheit Dr. Christoph Goldammer
 info@zahnarztpraxis-boeblingen.de | Zahnärzte im Medicum - Dr. Iris van Husen & Dr. Steffen Thau
+
+# 2026-10-05 prioritized-low-review batch 1
+info@zahn-fakir.de | Zahnarztpraxis Fakir
+info@zahnarztpraxis-weyen.de | Zahnarztpraxis Dr. Gerko Weyen
+info@za-schumacher.de | Zahnarztpraxis Jörg Schumacher
+mail@za-hn.com | Zahnarztpraxis am Landratsamt
+praxis@wagner-zahnaerztin.de | Zahnarztpraxis Friederike Wagner
