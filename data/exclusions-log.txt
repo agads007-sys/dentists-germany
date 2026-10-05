@@ -1077,3 +1077,10 @@ info@drschulmeyer.de | Zahnarztpraxis Dr. Heike Schulmeyer
 termin@heidelberg-zahnarzt.de | Zahnarztpraxis Dr. Marcel Tacke
 praxis@drlerach.de | Zahnarztpraxis Dr. Beate Lerach
 info@zahnarzt-franzsander.de | Zahnarztpraxis Michael Franzsander
+
+# 2026-10-05 fresh-prioritized batch 2
+praxis@zahnarzt-reiss.de | Praxis Dr. Wilhelm Reiß
+info@zahnarzt-baden-baden.com | Zahnarztpraxis Dr. Hervé Lepoix & Dr. Jasmine Dewaguet
+praxis-dr-ruppertschroeder@gmx.de | Zahnarztpraxis Dr. Ruppert-Schröder
+info@dr-heilinger.de | Heilinger Dr. Zahnarztpraxis
+kontakt@zahnarzt-goldammer.de | Zahnarztpraxis Dr. Goldammer
