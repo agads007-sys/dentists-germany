@@ -1126,3 +1126,10 @@ praxisteam.drschustek@gmx.de | Zahnarztpraxis für bioÄsthetische Zahnmedizin, 
 praxis.mueller.doc@t-online.de | Zahnarztpraxis Dr. med. dent. Erich Müller
 info@zahnaerztin-darmstadt.de | Zahnarztpraxis Tanja Dietrich
 zahnarztpraxis-hof@gmx.de | Familien-Zahnarztpraxis Dr. Michael Hof und Dorothee Hof
+
+# 2026-10-05 germany new run batch 4
+praxishneu@t-online.de | Zahnarztpraxis Hergard Neu
+info@zahnarztpraxis-am-koelner-tor.de | Zahnarztpraxis am Kölner Tor Dr. Christoph Marek
+info@zahnarztpraxis-siegbogen.de | Zahnarztpraxis am Siegbogen Dr. Johanna Baumgarten
+info@praxis-straatman.de | Gemeinschaftspraxis Dres. Helge und Wolfgang Straatman
+info@zahnarztnickel.de | Zahnarztpraxis Irena Nickel
