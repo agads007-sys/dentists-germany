@@ -1224,3 +1224,10 @@ praxis@za-braumandl.de | Zahnarztpraxis Anne-Cathrin Braumandl
 info@zahnarzt-fuerst.de | Zahnarztpraxis Dr. Eva-Maria Fürst
 praxis@zahnarzt-passau-neustift.de | Zahnarztpraxis Dr. Susanne Kramer
 info@dres-ritzinger-suttner.de | Zahnärztliche Gemeinschaftspraxis Dr. Ritzinger & Dr. Suttner
+
+# 2026-10-05 latest-low-review-marketing batch 4
+info@praxisklinik-baden.de | Praxisklinik Baden-Baden - Dr. Dr. Bibiana Kotrikova
+praxis@hessabi.de | Praxis Dr. Sabine Hessabi
+praxis@smilecenter-baden-baden.de | Smilecenter Baden-Baden - Dr. Gunnar Schaaf
+praxis@dr-hutsch.de | Praxis Dr. Olaf Hutsch
+info@praxisvlaia.de | Zahnarztpraxis Doctor medic stom. Raul Louis Vlaia
