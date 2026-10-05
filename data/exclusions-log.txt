@@ -1014,3 +1014,10 @@ kontakt@drfiege.de | Dr. med. dent. Andreas Fiege
 praxis@zahngesundheit-schroeder.de | Zahnarztpraxis Katharina Schröder
 info@zahnplusimplantat.de | Zahn plus Implantat – Dr. Albert Franke
 termin@praxis-aydin-brilon.de | Zahnarztpraxis Orhan Aydin
+
+# 2026-10-05 prioritized-low-review batch 4
+info@zahnaerzte-bruederstr.de | Praxiszentrum Brüderstraße
+dr.frankemoelle@t-online.de | Zahnarztpraxis Artur Frankenmölle
+praxis@drbeckmann.net | Dr. Beckmann - Zahnärzte - Partnerschaft für Zahnmedizin
+mail@zahnarzt-dr-witt.de | Zahnarztpraxis Dr. Martin Witt
+dr-lorenz@t-online.de | Zahnarztpraxis Dr. med. dent. Steffen Lorenz
