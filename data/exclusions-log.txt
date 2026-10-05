@@ -732,3 +732,10 @@ info@familienpraxis-eisenach.de | Zahnarztpraxis Katharina Gärtner
 info@zahnarzt-jahn-gotha.de | Zahnarztpraxis Dr. Janette Jahn
 kontakt@zahnarztpraxishabel-gotha.de | Zahnarztpraxis Anne Habel
 info@zahnarzt-peterlein.de | Zahnarztpraxis Peterlein
+
+# 2026-10-05 Google-review workflow batch 1
+beratung@narkose-zahnarzt.berlin | Narkose-Zahnarzt Berlin
+info@zahnarzt-ottensen-altona.de | Zahnarztpraxis Dr. Nicole Beerberg
+info@zahnarzt-landau-solln.de | Zahnarztpraxis Christian Landau
+info@zahnarztpraxis-reuterweg.de | Zahnarztpraxis am Reuterweg
+info@zahnarztmohr.de | Zahnarztpraxis Mohr
