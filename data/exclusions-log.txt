@@ -1091,3 +1091,10 @@ smile@praxis-grotensohn.de | Zahnarztpraxis Martin Grotensohn
 info@fachzahnaerztin.de | Praxis Dr. med. dent. Anna Müller – Fachzahnärztin für Oralchirurgie
 kontakt@zahnarzt-altena.de | Zahnarztpraxis Dr. Elmar Erpelding
 dr.ratzke@t-online.de | Zahnarztpraxis Dr. Thorsten Ratzke
+
+# 2026-10-05 fresh-prioritized batch 3
+jansen-zahnarzt@gmx.de | Praxis Dr. Dirk Jansen
+info@zahnarzt-dr-horn.de | Zahnarztpraxis Dr. Volker Horn
+zahn@praxiskoenner.de | praxiskönner - Ursula Könner
+info@mein-zahnarzt-konstanz.de | Zahnarztpraxis Dr. Carola Kerner
+info@zahnarzt-mainaustrasse.de | Zahnarztpraxis Mainaustraße - Andreas Chatziioannidis
