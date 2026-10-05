@@ -962,3 +962,10 @@ praxis@dr-heming.de | Praxis Dr. med. dent. Renate Heming
 willkommen@ccz-muenster.dental | CCZ Münster - Dr. Michael Pack
 praxis@dr-alker.de | Praxis Dr. Nicola Alker
 info@zahnarzt-wolbeck.de | Zahnarztpraxis Dr. Britt Schröder
+
+# 2026-10-05 prioritized-low-review batch 4
+mail@praxis-nienstedt.de | Zahnarztpraxis Frank Nienstedt
+stute.dr.selectione@t-online.de | Zahnarztpraxis Dr. Wolfgang Stute
+info@zahn-seele.com | Zahn & Seele - Praxisgemeinschaft Thanos / Dr. Martina Lücking
+info@zahnarzt-badura.de | Zahnarztpraxis Christian Badura
+guetersloh@zukunftzahn.de | Zahnärzte Kompetenz-Zentrum Gütersloh
