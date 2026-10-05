@@ -768,3 +768,10 @@ info@zahnarzt-praxisgemeinschaft-essen.de | Zahnarzt Praxisgemeinschaft Essen
 praxis@zahnarztpraxis-saarbruecken.de | Zahnarztpraxis Alt-Saarbrücken Dr. Ines Kraus-Kuleszka
 praxis@dr-leiner.de | Dr. Dirk Leiner - Praxis für ganzheitliche Zahnmedizin
 anmeldung@zahnarztpraxis-aumary.de | Zahnarztpraxis Aumary & Kollegen
+
+# 2026-10-05 workflow batch 4
+info@zahnarztpraxis-heumann.de | Zahnarztpraxis Heumann
+info@drpache.de | Zahnarzt Dr. Theodor Pache
+praxis@drarminmeier.de | Zahnarztpraxis Dr. Armin Meier
+info@zahnarzt-eichelsbacher.de | Praxis für Zahnerhaltung - Dr. Florian Eichelsbacher
+praxis@zahn-seite.de | Zahnarztpraxis Dirk Zipprich
