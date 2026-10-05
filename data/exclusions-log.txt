@@ -794,3 +794,10 @@ zauberzahn.wuerzburg@googlemail.com | Zahnarztpraxis Zauberzahn Würzburg
 praxis@musterzahn.de | Zahnarztpraxis Tamara Muster - Musterzahn Würzburg
 wue@pohl-jahreis.de | Dr. Jörg Pohl & Dr. Tiffany Jahreis Zahnärztliche Gemeinschaftspraxis Würzburg
 info@dr-klement.de | Zahnarztpraxis Dr. med. dent. Daniel Klement
+
+# 2026-10-05 prioritized-lower-reviews batch 1
+info@zahnarzt-loerrach.de | Zahnarztpraxis am Senser Platz - Garik Khachatryan & Dr. Niculae Oprea
+kontakt@mundwohl.de | Mundwohl Zahnärzte am Hirschgraben
+info@dr-plomin.de | Zahnarztpraxis Dr. Julia Plomin
+info@zahnarzt-helene-betz.de | Zahnarztpraxis Dr. Helene Betz
+praxis@zahnarzt-ravensburg.com | Zahnarztpraxis Dr. Stella Brückner
