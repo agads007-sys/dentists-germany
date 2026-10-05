@@ -1217,3 +1217,10 @@ kontakt-ra@abc-dent.de | ABCDent MVZ GmbH Rastatt
 dr.monika_russ@yahoo.de | Praxis Monika Ruß & Tamara Linden
 info@dr-metz.de | Praxis Dr. Christof Metz
 achim.gonser@yahoo.de | Praxis Achim Gonser
+
+# 2026-10-05 Google-review outreach run batch 3
+zahnaerzte@amkoenigshof.de | Zahnärzte am Königshof
+praxis@za-braumandl.de | Zahnarztpraxis Anne-Cathrin Braumandl
+info@zahnarzt-fuerst.de | Zahnarztpraxis Dr. Eva-Maria Fürst
+praxis@zahnarzt-passau-neustift.de | Zahnarztpraxis Dr. Susanne Kramer
+info@dres-ritzinger-suttner.de | Zahnärztliche Gemeinschaftspraxis Dr. Ritzinger & Dr. Suttner
