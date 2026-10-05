@@ -756,3 +756,8 @@ info@wendler-doepfner.de | Zahnarztpraxis Dr. Wendler - Dr. Döpfner
 mail@dr-zwenzner.de | Zahnarztpraxis Dr. Zwenzner
 praxis@faber-uebel.de | Zahnärztliche Gemeinschaftspraxis ZÄ Faber & Dr. Uebel
 praxis@dr-ulrich-kern.de | Praxis Dr. Ulrich Kern
+
+# 2026-10-05 workflow batch 3
+praxis@zahnaerzte-augustinerplatz.de | Zahnärzte am Augustinerplatz
+info@zahnarztpraxis-in-sinsheim.de | Zahnarztpraxis Dr. Lars Franke
+praxis@dr-hunecke.de | Praxis für Oralchirurgie / Implantologie / Allgemeine Zahnheilkunde Dr. Hunecke
