@@ -1047,3 +1047,9 @@ info@kfo-werl.de | Dr. med. dent. Sabine Dietze-Sauer – Praxis für Kieferorth
 verwaltung@schlotmann-zahnarzt.de | Zahnärztliche Gemeinschaftspraxis Dr. Schlotmann und Partner
 info@z-point-unna.de | z-point Zahnarzt-Zentrum Menden – Dr. Prünte und Partner
 praxis@maja-weber.de | Zahnarztpraxis Dr. Maja Sophie Weber
+
+# 2026-10-05 fresh-low-reviews-marketing batch 1
+info@dental-iq.de | Dental-IQ-Biohealth
+praxis@zahnarzt-goettingen.com | Zahnarztpraxis Dr. Marlie Pirkl-Nolte
+info@zahnarztpraxis-rudyk.de | Zahnarztpraxis Elena Rudyk
+mail@zaehneimzentrum.de | Zähne im Zentrum - Standort Kreuzviertel
