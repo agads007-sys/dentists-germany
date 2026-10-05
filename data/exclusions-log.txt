@@ -1105,3 +1105,8 @@ mike-bahrstadt@t-online.de | Zahnarztpraxis Mike Bahrstadt
 info@zahnarztpraxis-filip.de | Gemeinschaftspraxis Dr. Anca Filip und Cesar Filip
 dr.henner_krafft@t-online.de | Zahnarztpraxis Dr. Henner Krafft
 praxis@za-meinerzhagen.de | Zahnarztpraxis Dr. Andreas Hartel
+
+# 2026-10-05 fresh-low-review-marketing batch 1
+info@zahnarzt-hensel.de | Schöne Zähne Rhein Neckar - Ludwigshafen
+info@praxisklinik-am-zkm.de | Praxisklinik am ZKM
+zahnarztpraxis-port@t-online.de | Zahnarztpraxis Regina Port
