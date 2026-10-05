@@ -864,3 +864,10 @@ dr.klemen@zahnprofi-le.de | Zahnarztpraxis Dr. Jörg Klemen
 info@zahnarzt-roemer.de | Zahnarztpraxis Dr. Marc Römer
 info@petrovic-aalen.de | Zahnarztpraxis Petrovic - Dr. Aleksandar Petrovic
 info@prophylaxezahnarzt.de | Dirk Häcker & Katharina Dietz-Epple Praxis für Zahnheilkunde und Prophylaxe
+
+# 2026-10-05 prioritized-marketing run batch 4
+zahnarztpraxis-michael-tiedt@t-online.de | Zahnarztpraxis Michael Tiedt
+dr.pauschinger@t-online.de | Praxis Dr. Vera Pauschinger
+praxis@zahnaerztinnen-sha.de | Zahnärztliche Gemeinschaftspraxis Dr. Lütkemeier & Pietzykatis
+zahnarztpraxis.szini@gmx.de | Praxis Dr. Andreas Szini
+info@mkg-sha.de | MKG Dr. Dr. Romsdorfer & Kollegen Schwäbisch Hall
