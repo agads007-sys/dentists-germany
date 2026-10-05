@@ -1098,3 +1098,10 @@ info@zahnarzt-dr-horn.de | Zahnarztpraxis Dr. Volker Horn
 zahn@praxiskoenner.de | praxiskönner - Ursula Könner
 info@mein-zahnarzt-konstanz.de | Zahnarztpraxis Dr. Carola Kerner
 info@zahnarzt-mainaustrasse.de | Zahnarztpraxis Mainaustraße - Andreas Chatziioannidis
+
+# 2026-10-05 germany new run batch 2
+info@zahnheilkunde-goebel.de | Zahnarztpraxis Franziska Goebel
+mike-bahrstadt@t-online.de | Zahnarztpraxis Mike Bahrstadt
+info@zahnarztpraxis-filip.de | Gemeinschaftspraxis Dr. Anca Filip und Cesar Filip
+dr.henner_krafft@t-online.de | Zahnarztpraxis Dr. Henner Krafft
+praxis@za-meinerzhagen.de | Zahnarztpraxis Dr. Andreas Hartel
