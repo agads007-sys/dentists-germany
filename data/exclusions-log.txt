@@ -1168,3 +1168,10 @@ freiburg-haslach@denta-plus.info | DentaPlus Freiburg Haslach
 drhelgeandree@yahoo.com | Praxis Helge-Jakob Andree
 kontakt@zahnarztpraxis-dr-schaeper.de | Zahnarztpraxis Dr. Nathalia Schäper
 praxis@doelleundfrank.de | Dölle & Frank Zahnärztinnen
+
+# 2026-10-05 latest-low-review-marketing batch 1
+praxis@praxis-bauder.de | Praxis Dr. Bert Bauder
+praxis@dr-marienburg.de | Praxis Dr. Katrin Marienburg
+praxis-mannheim@dein-dental.de | Dr. med. dent. Nathalie Hix M.Sc. (LUX Zahnärzte)
+zahnarztpraxis@dr-unterer.de | Praxis Dr. Nicole Unterer
+info@zahnarztpraxis-basyurt.de | Zahnarztpraxis R. Basyurt
