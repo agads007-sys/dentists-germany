@@ -1161,3 +1161,10 @@ info@zahnarzt-birgel.de | Zahnarztpraxis Dr. Matthias Birgel
 praxis@dr-von-kalkstein.de | Zahnarztpraxis Dr. Armin F. von Kalkstein
 buchhaltung@zap-thomas-schmidt.de | Zahnarztpraxis Thomas Schmidt
 info@zahnarzt-lank-latum.de | Zahnarztpraxis Frank Heiderich
+
+# 2026-10-05 fresh-priority run batch 1
+praxis-b@dr-hussein.de | Zahnarztpraxis Dr. Amr Hussein - Badenweilerstraße
+freiburg-haslach@denta-plus.info | DentaPlus Freiburg Haslach
+drhelgeandree@yahoo.com | Praxis Helge-Jakob Andree
+kontakt@zahnarztpraxis-dr-schaeper.de | Zahnarztpraxis Dr. Nathalia Schäper
+praxis@doelleundfrank.de | Dölle & Frank Zahnärztinnen
