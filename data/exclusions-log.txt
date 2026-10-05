@@ -1182,3 +1182,10 @@ info@dr-claus.de | Zahnarztpraxis Dr. Carsten Claus & Dr. Violeta Claus
 info@zahnarzt-politz.de | Zahnarztpraxis Till Politz
 info@zahnarzt-dr-lange.de | Zahnarztpraxis Dr. Ingo Lange
 praxis@zahnarzt-heuchelhof.de | Zahnärzte am Heuchelhof
+
+# 2026-10-05 fresh-priority run batch 2
+info@zahnarztduerenbirkesdorf.de | Zahnarztpraxis Pala Ahmad
+Praxis@Fachzahnarzt-Implantologie.de | Zahnarztpraxis Dr. H. Schneider MSc. MoM. - Linnich
+info@berlin-zahnaerzte.com | Zahnarztpraxis Dr. Aleksej Bezeluk und Partner - Friedrichshain
+info@zahnarztheinsberg.de | Zahnarztpraxis Dr. medic Stom. Mona Marconi
+zahnarzt-mirbach@outlook.de | Zahnarztpraxis Wolfgang Mirbach
