@@ -927,3 +927,10 @@ praxis@klimesch.de | Zahnarztpraxis Klimesch
 kontakt@zahnaerzte-don.de | Zahnärzte in der Stadtresidenz
 email@zahnarztpraxis-am-fuggerhaus.de | Zahnarztpraxis am Fuggerhaus - Dr. Roland Rieger
 praxis@judith-langner.de | Zahnarztpraxis Judith Langner
+
+# 2026-10-05 city-low-reviews-marketing batch 3
+info@stadtlaecheln.de | Zahnarztpraxis Stadtlächeln
+zahnarztpraxis-rista@web.de | Praxis für Zahnheilkunde Gheorghe Rista - Bad Salzuflen
+info@zahnarzt-schneiker.de | Zahnarztpraxis Joachim Schneiker
+praxis.rieke@gmx.de | Zahnarztpraxis Dr. Jörn Rieke
+praxis@michl-lemgo.de | Zahnärztliche Praxis Dr. Reinhard Michl
