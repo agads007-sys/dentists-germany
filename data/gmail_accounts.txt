@@ -14,4 +14,4 @@ gmail8 | michaeldb2025@gmail.com | GMAIL8_APP_PASSWORD
 gmail9 | michaeldkb2025@gmail.com | GMAIL9_APP_PASSWORD
 gmail10 | michaelbdk2021@gmail.com | GMAIL10_APP_PASSWORD
 
-# Germany Google-review outreach rule: when multiple Gmail accounts are available, spread new drafts across all accounts rather than concentrating them in one account. Drafts only; never send automatically.
+# France Google-review outreach rule: when multiple Gmail accounts are available, spread new drafts across all accounts rather than concentrating them in one account. Drafts only; never send automatically.
