@@ -1,180 +1,182 @@
-# Nachricht
+# Message
 
-## NICHT VERHANDELBAR: GLEICHE BOTSCHAFT, NATÜRLICHES DEUTSCH
+## NON NÉGOCIABLE : MÊME MESSAGE, FRANÇAIS NATUREL
 
-Jeder Entwurf muss dieselbe Kernbotschaft vermitteln.
+Chaque brouillon doit transmettre exactement le même message de fond.
 
-Die E-Mails sollen klingen, als hätte ein Deutscher sie selbst geschrieben: direkt, locker, klar und selbstbewusst. Keine wörtlich aus dem Dänischen übertragenen Formulierungen, kein Agentursprech und kein künstlich perfektes Marketingdeutsch.
+Les e-mails doivent donner l'impression d'avoir été écrits directement par un Français : ton direct, simple, naturel, clair et sûr de lui. Pas de traduction littérale depuis le danois ou l'allemand, pas de jargon d'agence et pas de français marketing artificiellement parfait.
 
-„Variation“ bedeutet: dieselbe Aussage natürlich anders formulieren. Nicht nur einzelne Wörter austauschen und auch keinen neuen Pitch erfinden.
+« Variation » signifie : exprimer naturellement la même idée de plusieurs façons. Il ne s'agit pas simplement de remplacer quelques mots, ni d'inventer un nouveau pitch.
 
-## Kernbotschaft jedes Entwurfs
+## Message central de chaque brouillon
 
-1. Michael ist bei Google / bei der Suche nach Zahnärzten auf die Praxis gestoßen.
-2. Nenne die VERIFIZIERTE aktuelle Anzahl der Google-/Google-Maps-Bewertungen der Praxis.
-3. Stelle klar, dass die Praxis im Vergleich zu anderen Zahnärzten/Praxen in der Umgebung bei der Anzahl der Bewertungen noch deutlich Luft nach oben hat. Behaupte keine konkreten Wettbewerberzahlen, wenn diese nicht verifiziert wurden.
-4. Erkläre direkt, warum das relevant ist: Menschen vergleichen Zahnarztpraxen auf Google, und eine deutlich höhere Anzahl glaubwürdiger Bewertungen beeinflusst den Gesamteindruck und kann bei der Entscheidung zwischen mehreren Praxen eine Rolle spielen.
-5. Erwähne natürlich, dass Bewertungen nicht nur auf potenzielle Patienten wirken: Google selbst nennt Anzahl und Qualität von Bewertungen als Faktoren, die die lokale Sichtbarkeit mit beeinflussen können. Formuliere das niemals als Garantie oder als Behauptung, die Praxis mit den meisten Bewertungen werde automatisch am höchsten gerankt.
-6. „Deshalb schreibe ich Ihnen“ oder eine natürliche Formulierung mit genau derselben Funktion.
-7. Erkläre das Produkt: Nach einem Patientenbesuch gibt die Praxis die Telefonnummer des Patienten ein. Der Patient erhält eine SMS mit einem direkten Link zum Google-Profil / Bewertungsbereich der Praxis und kann dort direkt eine Bewertung abgeben.
-8. Erkläre, dass der Aufwand für die Praxis minimal ist, konsequente Nutzung aber über die Zeit einen deutlich sichtbaren Unterschied beim Google-Auftritt machen kann.
-9. Michael richtet alles ein und kümmert sich darum.
-10. Der Preis ist exakt **39,99 € pro Monat**.
-11. Keine Bindung / keine langfristige Vertragsbindung.
-12. Die Überzeugung muss sehr stark sein. Michael schreibt nicht, weil er „mal schauen“ will, ob es vielleicht etwas bringt. Er ist überzeugt, dass ein systematischer Aufbau von mehr echten Google-Bewertungen für eine Praxis mit nur 2–25 Bewertungen einen deutlichen Unterschied machen kann. Formuliere deshalb klar und sicher, z. B. „Ich bin überzeugt, dass das für Ihre Praxis einen deutlichen Unterschied machen wird“ oder „Das ist genau die Art von Sache, die Ihren Google-Auftritt spürbar stärker machen kann.“ Vermeide nur konkrete Garantien über Rangpositionen, Umsatz oder eine bestimmte Zahl neuer Patienten.
-13. Beende mit einer kurzen, lockeren CTA-Frage, ob sie es kurz sehen möchten / ob Michael ihnen zeigen soll, wie es funktioniert.
-14. Signiere ausschließlich:
+1. Michael est tombé sur le cabinet sur Google / en recherchant des dentistes.
+2. Mentionner le nombre ACTUEL ET VÉRIFIÉ d'avis Google / Google Maps du cabinet.
+3. Dire clairement que, par rapport à d'autres dentistes/cabinets du secteur, le cabinet a encore une marge importante sur le nombre d'avis. Ne jamais citer de chiffres précis concernant des concurrents s'ils n'ont pas été vérifiés.
+4. Expliquer directement pourquoi c'est important : les patients comparent les cabinets dentaires sur Google, et un nombre nettement plus élevé d'avis crédibles influence l'impression générale et peut peser dans le choix entre plusieurs cabinets.
+5. Mentionner naturellement que les avis n'influencent pas seulement les patients potentiels : Google indique lui-même que le nombre d'avis et les notes peuvent faire partie des facteurs qui influencent la visibilité locale. Ne jamais formuler cela comme une garantie, ni prétendre que le cabinet ayant le plus d'avis sera automatiquement classé premier.
+6. « C'est pour ça que je vous écris » ou une formulation naturelle ayant exactement la même fonction.
+7. Expliquer le produit : après le rendez-vous d'un patient, le cabinet saisit simplement son numéro de téléphone. Le patient reçoit un SMS avec un lien direct vers la fiche Google / la zone d'avis du cabinet et peut y laisser immédiatement un avis.
+8. Expliquer que l'effort demandé au cabinet est minimal, mais qu'une utilisation régulière peut, avec le temps, faire une différence très visible sur sa présence Google.
+9. Michael met tout en place et s'en occupe.
+10. Le prix est exactement de **39,99 € par mois**.
+11. Sans engagement / sans contrat longue durée.
+12. La conviction doit être très forte. Michael n'écrit pas pour « voir si ça marche peut-être ». Il est convaincu qu'un système régulier permettant d'obtenir davantage de vrais avis Google peut faire une différence nette pour un cabinet qui n'a actuellement que 2 à 25 avis. Formuler cela de façon claire et assurée, par exemple : « Je suis convaincu que cela peut faire une vraie différence pour votre cabinet » ou « C'est exactement le type de chose qui peut renforcer sensiblement votre présence sur Google. » Éviter uniquement les garanties concrètes sur le classement, le chiffre d'affaires ou un nombre précis de nouveaux patients.
+13. Terminer par une question CTA courte et détendue demandant s'ils veulent voir rapidement comment cela fonctionne / si Michael doit leur montrer.
+14. Signer exclusivement :
 
-Viele Grüße
+Bien à vous
 Michael Berg
 
-Keinen dänischen Firmennamen unter die Signatur setzen.
+Ne pas ajouter de nom d'entreprise danoise sous la signature.
 
-Jeder Entwurf muss ALLE Kernpunkte enthalten. Ein Entwurf, der einen wichtigen Punkt weglässt, nur um anders zu klingen, ist falsch.
+Chaque brouillon doit contenir TOUS les points centraux. Un brouillon qui supprime un point important uniquement pour paraître différent est incorrect.
 
-## Master-Referenz
+## Référence principale
 
-Hallo,
+Bonjour,
 
-ich bin gerade auf Google auf Ihre Praxis gestoßen und habe gesehen, dass Sie aktuell [X] Bewertungen haben.
+je viens de tomber sur votre cabinet sur Google et j'ai vu que vous avez actuellement [X] avis.
 
-Ich habe mir im Vergleich auch ein paar andere Zahnarztpraxen in Ihrer Umgebung angesehen. Ganz direkt: Bei den Google-Bewertungen ist bei Ihnen noch ziemlich viel Potenzial.
+J'ai aussi regardé quelques autres cabinets dentaires dans votre secteur. Très franchement : sur le nombre d'avis Google, vous avez encore une vraie marge de progression.
 
-Das ist relevant, weil viele Leute, die einen neuen Zahnarzt suchen, die Praxen erst einmal auf Google vergleichen. Wenn eine Praxis deutlich mehr Bewertungen aufgebaut hat als eine andere, macht das beim ersten Eindruck einen Unterschied und kann die Entscheidung mit beeinflussen.
+C'est important parce que beaucoup de personnes qui cherchent un nouveau dentiste commencent par comparer les cabinets sur Google. Quand un cabinet a construit nettement plus d'avis qu'un autre, cela change la première impression et peut peser dans la décision.
 
-Dazu kommt, dass Bewertungen auch für die lokale Sichtbarkeit auf Google eine Rolle spielen können. Google nennt die Anzahl und Bewertung von Rezensionen selbst als einen der Faktoren für lokale Suchergebnisse.
+Les avis peuvent aussi jouer sur la visibilité locale sur Google. Google indique lui-même que le nombre d'avis et les notes font partie des éléments qui peuvent influencer les résultats locaux.
 
-Deshalb schreibe ich Ihnen.
+C'est pour ça que je vous écris.
 
-Ich habe ein sehr simples System dafür gebaut. Nach einem Termin geben Sie nur die Telefonnummer des Patienten ein. Der Patient bekommt direkt eine SMS mit einem Link zu Ihrem Google-Profil und kann dort sofort eine Bewertung abgeben.
+J'ai créé un système très simple pour ça. Après un rendez-vous, vous saisissez simplement le numéro de téléphone du patient. Il reçoit directement un SMS avec un lien vers votre fiche Google et peut laisser son avis tout de suite.
 
-Für Sie ist das kaum Aufwand. Wenn Sie das konsequent mit Ihren Patienten nutzen, bin ich überzeugt, dass es über die Zeit einen deutlichen Unterschied dafür machen wird, wie Ihre Praxis auf Google dasteht.
+Pour vous, l'effort est minime. Si vous l'utilisez régulièrement avec vos patients, je suis convaincu qu'avec le temps cela fera une vraie différence dans la manière dont votre cabinet se présente sur Google.
 
-Ich richte alles ein und kümmere mich darum. Das Ganze kostet 39,99 € im Monat und es gibt keine langfristige Bindung.
+Je mets tout en place et je m'occupe du reste. Le service coûte 39,99 € par mois, sans engagement longue durée.
 
-Ich bin wirklich überzeugt, dass das für Ihre Praxis sehr gut passt.
+Je suis vraiment convaincu que c'est particulièrement adapté à votre cabinet.
 
-Soll ich Ihnen kurz zeigen, wie es funktioniert?
+Je vous montre rapidement comment ça fonctionne ?
 
-Viele Grüße
+Bien à vous
 Michael Berg
 
-## Beispiele für natürliche Variation
+## Exemples de variations naturelles
 
-Ein Entwurf kann beginnen:
+Un brouillon peut commencer par :
 
-„Ich bin gerade bei Google auf Ihre Praxis gestoßen. Dabei ist mir aufgefallen, dass Sie aktuell [X] Bewertungen haben.“
+« Je viens de tomber sur votre cabinet sur Google. J'ai remarqué que vous avez actuellement [X] avis. »
 
-Ein anderer:
+Un autre :
 
-„Ich habe mir eben Zahnarztpraxen in Ihrer Gegend auf Google angesehen und bin dabei auf Sie gestoßen. Ihr Profil steht momentan bei [X] Bewertungen.“
+« Je regardais des cabinets dentaires dans votre secteur sur Google et je suis arrivé sur votre fiche. Elle compte actuellement [X] avis. »
 
-Ein weiterer:
+Un autre encore :
 
-„Beim Vergleich von Zahnarztpraxen in Ihrer Umgebung bin ich auf Ihr Google-Profil gekommen. Sie haben dort aktuell [X] Bewertungen.“
+« En comparant des dentistes dans votre secteur, je suis tombé sur votre profil Google. Vous avez aujourd'hui [X] avis. »
 
-Das sind unterschiedliche Formulierungen derselben Aussage.
+Ce sont des formulations différentes du même message.
 
-Für den Vergleichs- und Problemabsatz können z. B. folgende Varianten verwendet werden:
+Pour le paragraphe de comparaison et le problème, on peut par exemple utiliser :
 
-„Ich habe mir daneben auch andere Praxen in der Gegend angesehen. Ganz ehrlich: Bei Ihnen ist bei der Zahl der Bewertungen noch ordentlich Luft nach oben. Gerade weil Patienten auf Google vergleichen, fällt so ein Unterschied schnell auf.“
+« J'ai regardé aussi quelques autres cabinets autour de vous. Très franchement, il y a encore une belle marge sur le nombre d'avis. Et comme les patients comparent directement les profils Google, ce genre d'écart se voit vite. »
 
-oder:
+ou :
 
-„Im direkten Vergleich mit anderen Praxen in Ihrer Umgebung sieht man ziemlich schnell, dass Sie bei den Bewertungen noch einiges aufholen können. Und genau darauf achten viele Leute, wenn sie über Google einen neuen Zahnarzt suchen.“
+« Quand on compare votre fiche à celles d'autres cabinets du secteur, on voit rapidement qu'il reste du terrain à gagner sur les avis. Or c'est précisément un point que beaucoup de personnes regardent lorsqu'elles cherchent un nouveau dentiste sur Google. »
 
-oder:
+ou :
 
-„Wenn man Ihr Profil neben andere Praxen aus der Gegend hält, ist bei der Bewertungszahl noch viel Potenzial. Für jemanden, der gerade einen neuen Zahnarzt sucht und mehrere Google-Profile nebeneinander anschaut, spielt das durchaus eine Rolle.“
+« Si l'on met votre profil à côté d'autres cabinets du coin, le potentiel est encore important sur le nombre d'avis. Pour quelqu'un qui hésite entre plusieurs dentistes et compare leurs fiches Google, cela peut compter. »
 
-Für den Sichtbarkeits-Punkt:
+Pour le point sur la visibilité :
 
-„Mehr gute Bewertungen können außerdem auch bei der lokalen Sichtbarkeit auf Google helfen.“
+« Davantage de bons avis peut également aider la visibilité locale sur Google. »
 
-oder:
+ou :
 
-„Bewertungen sind nicht nur für Patienten wichtig. Anzahl und Bewertung fließen laut Google auch in die lokale Sichtbarkeit ein.“
+« Les avis ne comptent pas seulement pour les patients. Google indique aussi que le nombre d'avis et les notes peuvent entrer en jeu dans la visibilité locale. »
 
-oder:
+ou :
 
-„Das Ganze betrifft nicht nur den ersten Eindruck. Mehr positive Bewertungen können auch dazu beitragen, dass eine Praxis lokal auf Google stärker sichtbar wird.“
+« Cela ne concerne pas seulement la première impression. Un profil qui accumule régulièrement des avis positifs peut aussi devenir plus solide dans les résultats locaux de Google. »
 
-Nie behaupten:
-- „Wer die meisten Bewertungen hat, steht automatisch ganz oben.“
-- „Damit kommen Sie garantiert auf Platz 1.“
-- „Sie werden dadurch sicher X neue Patienten bekommen.“
+Ne jamais affirmer :
+- « Celui qui a le plus d'avis est automatiquement premier. »
+- « Avec ça, vous serez garanti numéro 1. »
+- « Vous aurez forcément X nouveaux patients grâce à ça. »
 
-## Variationsanforderungen innerhalb eines Batches
+## Exigences de variation au sein d'un lot
 
-Erstelle keinen Batch, in dem die E-Mails fast identisch sind.
+Ne crée pas un lot dans lequel les e-mails sont presque identiques.
 
-Über einen Batch hinweg:
-- Formuliere den Einstieg deutlich unterschiedlich.
-- Formuliere den Vergleich mit anderen Praxen unterschiedlich.
-- Formuliere das Problem niedriger Bewertungszahlen unterschiedlich.
-- Formuliere die Wirkung auf potenzielle Patienten unterschiedlich.
-- Formuliere den Punkt zur lokalen Google-Sichtbarkeit unterschiedlich.
-- Formuliere die Erklärung des SMS-Systems unterschiedlich.
-- Formuliere „kaum Aufwand / deutlicher Unterschied über Zeit“ unterschiedlich.
-- Formuliere Einrichtung, Preis und fehlende Bindung unterschiedlich.
-- Variiere den abschließenden Überzeugungssatz.
-- Variiere die CTA.
-- Signiere immer mit „Michael Berg“.
+Sur l'ensemble d'un lot :
+- Varier nettement l'introduction.
+- Varier la comparaison avec les autres cabinets.
+- Varier la formulation du problème lié au faible nombre d'avis.
+- Varier l'explication de l'effet sur les patients potentiels.
+- Varier le point sur la visibilité locale Google.
+- Varier l'explication du système SMS.
+- Varier la formulation « très peu d'effort / différence visible avec le temps ».
+- Varier la formulation de la mise en place, du prix et de l'absence d'engagement.
+- Varier la phrase finale de conviction.
+- Varier le CTA.
+- Toujours signer « Michael Berg ».
 
-Die Variation soll aus natürlicher Sprache kommen, nicht aus erfundenen Praxisdetails.
+La variation doit venir du langage naturel, pas de détails inventés sur le cabinet.
 
-## Wichtige Regel zu Zahlen
+## Règle importante concernant les chiffres
 
-[X] MUSS die verifizierte aktuelle Anzahl der Google-/Google-Maps-Bewertungen der Praxis sein.
+[X] DOIT être le nombre actuel et vérifié d'avis Google / Google Maps du cabinet.
 
-Verwende keine erfundenen oder geschätzten Bewertungszahlen.
+Ne jamais inventer ni estimer le nombre d'avis.
 
-Verwende nur Praxen mit **2 bis 25 Google-/Google-Maps-Bewertungen einschließlich beider Grenzen**. Praxen mit 0–1 oder 26+ Bewertungen sind nicht geeignet.
+Utiliser uniquement des cabinets avec **2 à 25 avis Google / Google Maps inclusivement**. Les cabinets avec 0–1 avis ou 26 avis et plus ne sont pas éligibles.
 
-Wenn konkrete Zahlen von Wettbewerbern genannt werden, müssen diese ebenfalls aktuell verifiziert sein. Sonst nur allgemein formulieren, dass andere Praxen in der Umgebung mehr Bewertungen haben.
+Si des chiffres précis concernant des concurrents sont mentionnés, ils doivent également être vérifiés et actuels. Sinon, dire seulement de façon générale que d'autres cabinets du secteur ont davantage d'avis.
 
 ## Ton
 
-Schreibe wie ein echter deutscher Absender, der die Sache am Telefon genauso sagen würde.
+Écrire comme un vrai expéditeur français qui dirait la même chose au téléphone.
 
-Direkt. Locker. Selbstbewusst. Klar. Sehr hohe Überzeugung. Der Text soll klingen, als ob Michael das Problem klar sieht, die Lösung kennt und genau deshalb schreibt. Nicht vorsichtig, nicht defensiv und nicht „vielleicht hilft es“.
+Direct. Naturel. Sûr de lui. Clair. Très forte conviction. Le texte doit donner l'impression que Michael voit clairement le problème, connaît la solution et écrit précisément pour cette raison. Pas hésitant, pas défensif, pas de « peut-être que cela pourrait aider ».
 
-Gut:
-- „Ganz ehrlich: Da ist bei Ihnen noch ziemlich viel Potenzial.“
-- „Ich bin überzeugt, dass das für Ihre Praxis einen deutlichen Unterschied machen wird.“
-- „Für Sie ist das kaum Aufwand.“
-- „Deshalb schreibe ich Ihnen.“
-- „Soll ich Ihnen kurz zeigen, wie es funktioniert?“
+Bon :
+- « Très franchement : il y a encore une vraie marge de progression. »
+- « Je suis convaincu que cela peut faire une vraie différence pour votre cabinet. »
+- « Pour vous, l'effort est minime. »
+- « C'est pour ça que je vous écris. »
+- « Je vous montre rapidement comment ça fonctionne ? »
 
-Vermeiden:
-- steifes Geschäftsdeutsch
-- künstliche Werbesprache
-- übertriebene Höflichkeitsfloskeln
-- wortwörtliche Übersetzungen aus dem Dänischen
-- konkrete Garantien über Rankings, Umsatz oder eine bestimmte Zahl neuer Patienten
-- unnötig aggressive oder beleidigende Aussagen über die aktuelle Situation der Praxis
+À éviter :
+- le français administratif ou trop formel
+- le langage publicitaire artificiel
+- les formules de politesse excessives
+- les traductions littérales depuis le danois ou l'allemand
+- les garanties concrètes sur le classement, le chiffre d'affaires ou un nombre précis de nouveaux patients
+- les formulations inutilement agressives ou insultantes sur la situation actuelle du cabinet
 
-## Personalisierung
+## Personnalisation
 
-Die verifizierte Google-Bewertungszahl ist die primäre Personalisierung.
+Le nombre vérifié d'avis Google est la personnalisation principale.
 
-Eine zweite verifizierte praxisbezogene Information ist optional und darf nur verwendet werden, wenn sie natürlich passt und den Pitch nicht verändert.
+Une deuxième information vérifiée et spécifique au cabinet est facultative et ne doit être utilisée que si elle s'intègre naturellement sans modifier le pitch.
 
-Niemals Details erfinden.
+Ne jamais inventer de détails.
 
-## Operative Regeln
+## Règles opérationnelles
 
-- NUR ENTWÜRFE. NIEMALS AUTOMATISCH SENDEN.
-- Diese Kampagne ist ausschließlich für Zahnärzte / Zahnarztpraxen mit Standort in Deutschland.
-- Die Praxisadresse muss in einer tatsächlichen deutschen **Stadt** liegen. Kleine Städte / Kleinstädte sind ausdrücklich erlaubt. Dörfer, Weiler, sehr ländliche Orte und isolierte ländliche Gemeinden ohne Stadtcharakter sind ausgeschlossen. Wenn der Stadtstatus bzw. der urbane Standort nicht zuverlässig verifiziert werden kann, die Praxis überspringen.
-- Nutze eine passende, offiziell veröffentlichte Kontakt-E-Mail der Praxis.
-- Verifiziere vor dem Entwurf die aktuelle Google-/Google-Maps-Bewertungszahl.
-- Verwende nur Praxen mit **2 bis 25 Google-/Google-Maps-Bewertungen einschließlich beider Grenzen**.
-- Bewertungszahlen niemals schätzen.
-- Zu Beginn jedes Runs `data/excluded_emails.txt`, `data/excluded_facilities.txt` und `data/exclusions-log.txt` genau einmal laden und zu einer gemeinsamen Arbeits-Deduplizierungsliste zusammenführen.
-- Diese Ausschlüsse gehören ausschließlich zur Deutschland-Kampagne. Keine Ausschlusslisten aus `agads007-sys/dentists`, `agads007-sys/outreach-barebones` oder einer anderen Kampagne verwenden.
-- Niemals eine bereits gelistete E-Mail-Adresse oder Praxis erneut verwenden.
-- Sobald ein neuer Prospect ausgewählt wurde, sowohl Praxisname als auch E-Mail-Adresse sofort zur In-Memory-Deduplizierungsliste des laufenden Runs hinzufügen.
-- Nach erfolgreich erstellten neuen Entwürfen ausschließlich die tatsächlich erfolgreich erstellten Praxis-E-Mails und Praxisnamen an `data/exclusions-log.txt` anhängen.
-- Neue Entwürfe über alle in `data/gmail_accounts.txt` verfügbaren Gmail-Konten verteilen; niemals Prospects duplizieren, nur um Konten zu füllen.
-- Wenn eine geeignete Praxis nicht zuverlässig verifiziert werden kann, überspringen statt raten.
+- BROUILLONS UNIQUEMENT. NE JAMAIS ENVOYER AUTOMATIQUEMENT.
+- Cette campagne concerne exclusivement les dentistes / cabinets dentaires situés en France.
+- L'adresse du cabinet doit se trouver dans une véritable **ville** française. Les petites villes sont expressément autorisées. Les villages, hameaux, lieux isolés, communes véritablement rurales sans caractère de ville/bourg et implantations rurales diffuses sont exclus. Si le caractère urbain/de ville du lieu ne peut pas être vérifié avec suffisamment de confiance, passer le cabinet.
+- Utiliser une adresse e-mail de contact appropriée et officiellement publiée par le cabinet.
+- Vérifier avant chaque brouillon le nombre actuel d'avis Google / Google Maps.
+- Utiliser uniquement des cabinets avec **2 à 25 avis Google / Google Maps inclusivement**.
+- Ne jamais estimer le nombre d'avis.
+- Parmi les prospects éligibles, prioriser d'abord ceux ayant le **plus faible nombre vérifié d'avis**.
+- En priorité secondaire, favoriser les cabinets pour lesquels il existe des **signes vérifiés de marketing actif ou d'acquisition de patients** : publicité, campagnes promotionnelles, réseaux sociaux actifs à visée marketing, SEO/pages d'atterrissage ou autre activité marketing actuelle clairement observable. Ce signal sert uniquement à prioriser, jamais à déterminer l'éligibilité. Ne jamais inventer une activité marketing.
+- Au début de chaque run, charger exactement une fois `data/excluded_emails.txt`, `data/excluded_facilities.txt` et `data/exclusions-log.txt`, puis les fusionner dans une liste de déduplication de travail commune.
+- Ces exclusions appartiennent exclusivement à la campagne France. Ne pas utiliser les listes d'exclusion de `agads007-sys/dentists`, `agads007-sys/outreach-barebones` ou de toute autre campagne.
+- Ne jamais réutiliser une adresse e-mail ou un cabinet déjà listé.
+- Dès qu'un nouveau prospect est sélectionné, ajouter immédiatement le nom du cabinet et son adresse e-mail à la liste de déduplication en mémoire du run en cours.
+- Après la création réussie de nouveaux brouillons, ajouter à `data/exclusions-log.txt` uniquement les adresses e-mail et noms de cabinets correspondant aux brouillons réellement créés avec succès.
+- Répartir les nouveaux brouillons entre tous les comptes Gmail disponibles dans `data/gmail_accounts.txt` ; ne jamais dupliquer un prospect simplement pour remplir les comptes.
+- Si l'éligibilité d'un cabinet ne peut pas être vérifiée de manière fiable, le passer plutôt que deviner.
