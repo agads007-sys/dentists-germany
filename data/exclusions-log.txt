@@ -1,3 +1,8 @@
 # France dentist Google-review outreach exclusion log
 # Append only clinic emails and facility names for Gmail drafts that were actually created successfully.
 # Campaign initialized clean for France on 2026-10-06.
+cabinetdentaire.prudentos@gmail.com | Cabinet dentaire Gambetta (SELARL Dr Prudentos)
+c.quarre@cabinet-dentaire-clemenceau.fr | Cabinet dentaire Clemenceau
+contactmhdcabinetdentaire@gmail.com | Mhd Cabinet Dentaire
+endo.grenoble@gmail.com | Cabinet des Lumières
+info@dentmichel.com | Cabinet Dentaire Saint Michel
