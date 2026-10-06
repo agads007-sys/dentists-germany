@@ -17,7 +17,7 @@ Eligible prospects must meet ALL of these conditions:
 
 Within the eligible **2–25 review** range, prioritize prospects with the **lowest verified current Google/Google Maps review counts first**.
 
-As a secondary priority, favor eligible clinics that have **verified signs they are actively marketing themselves or trying to attract patients** (for example active promotional campaigns, advertising, active social-media marketing, SEO/landing-page activity, or other clearly observable current marketing). Treat this only as a prioritization signal, not an eligibility requirement, and never guess or invent marketing activity.
+As a secondary priority, favor eligible clinics that have **verified signs they are actively marketing themselves or trying to attract patients**. Examples include active promotional campaigns, advertising, active social-media marketing, SEO or landing-page activity, or other clearly observable current marketing. Treat this only as a prioritization signal, not an eligibility requirement, and never guess or invent marketing activity.
 
 Work in **batches of 5 successful drafts** until you reach **25 total successful drafts**. Do not research 25 prospects upfront and do not build a large candidate backlog.
 
@@ -42,7 +42,11 @@ Load the three exclusion files once and combine them into the working deduplicat
 
 As soon as a new prospect is selected, add both its clinic name and email address to the in-memory working deduplication list so it cannot be selected again in a later batch.
 
-Follow all messaging, verification, eligibility, Gmail-account distribution, and logging rules in `MESSAGE.md`. Preserve the complete France-specific campaign message, natural French wording, strong conviction, the current **39,99 € per month** pricing and signature, while genuinely varying the language across drafts. Keep the system description simple and frictionless as specified in `MESSAGE.md`.
+Follow all messaging, verification, eligibility, Gmail-account distribution, and logging rules in `MESSAGE.md`.
+
+For every draft, preserve the exact campaign skeleton in this order. Observation of the clinic on Google. Verified low review count. Comparison with other nearby clinics. Explanation of why reviews matter to patients. Explanation that reviews can also affect local Google visibility. Natural transition into why Michael is writing. Very simple SMS product explanation. Minimal effort for the clinic. Strong conviction that consistent use can make a large difference over time. Michael handles setup. Exact price of **39,99 € per month**. No long-term commitment. Short natural CTA. Signature from Michael Berg.
+
+Write the actual emails in natural conversational French, not translated German. They should sound like something a French person would genuinely send. Use ordinary paragraphs and simple punctuation. Do not use dashes or colons as stylistic devices in the email copy. Avoid semicolons, headings, list-like phrasing, agency language, and artificial sales copy.
 
 After each successful batch, append the newly drafted clinic email addresses and facility names to `data/exclusions-log.txt`. Record only drafts that were actually created successfully.
 
