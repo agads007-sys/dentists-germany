@@ -1,10 +1,19 @@
-# Germany outreach run prompt
+# France outreach run prompt
 
 Run the Google-review outreach workflow using the GitHub repository `agads007-sys/dentists-germany`.
 
 **DRAFTS ONLY. NEVER SEND EMAILS.**
 
-Create exactly **25 new, high-quality Gmail drafts** for **dentists / dental clinics located in Germany only**. Each clinic must be located in an actual German **Stadt**. Small cities / **Kleinstädte** are valid; villages, hamlets, isolated rural places, and rural municipalities without genuine city/town character are not. If the city/town location cannot be verified confidently, skip the prospect.
+Create exactly **25 new, high-quality Gmail drafts** for **dentists / dental clinics located in France only**.
+
+Eligible prospects must meet ALL of these conditions:
+
+- Dentist / dental clinic only.
+- Physically located in France.
+- Located in an actual French city/town (`ville`). Small towns are allowed. Villages, hamlets, isolated rural locations, and genuinely rural communes without city/town character are not eligible. If the location cannot be verified confidently as a city/town rather than a rural settlement, skip it.
+- Verified current Google/Google Maps review count of **2 through 25 inclusive**. Clinics with 0–1 or 26+ reviews are ineligible.
+- An appropriate officially published contact email must be available.
+- Never guess the review count, city/town eligibility, contact details, or marketing activity.
 
 Within the eligible **2–25 review** range, prioritize prospects with the **lowest verified current Google/Google Maps review counts first**.
 
@@ -13,7 +22,8 @@ As a secondary priority, favor eligible clinics that have **verified signs they 
 Work in **batches of 5 successful drafts** until you reach **25 total successful drafts**. Do not research 25 prospects upfront and do not build a large candidate backlog.
 
 For each batch:
-1. Research only enough candidates to find 5 valid German prospects, then deduplicate them against the campaign exclusions and the in-memory list for this run.
+
+1. Research only enough candidates to find 5 valid French prospects, then deduplicate them against the campaign exclusions and the in-memory list for this run.
 2. Create the 5 Gmail drafts.
 3. Update `data/exclusions-log.txt` for those successful drafts only.
 4. Continue with the next batch using the same in-memory deduplication list plus all clinics and email addresses selected during the run.
@@ -21,17 +31,18 @@ For each batch:
 If you cannot realistically verify 5 suitable prospects in a batch without excessive searching, create the valid drafts you can verify, update the exclusion log for those successful drafts, and stop the entire run. Do not search indefinitely.
 
 At the beginning of the run, read once:
+
 - `MESSAGE.md`
 - `data/excluded_emails.txt`
 - `data/excluded_facilities.txt`
 - `data/exclusions-log.txt`
 - `data/gmail_accounts.txt`
 
-Load the three exclusion files once and combine them into the working deduplication list for the whole run. These exclusions belong only to the Germany campaign. Do NOT use exclusion lists from `agads007-sys/dentists`, `agads007-sys/outreach-barebones`, or any other repository.
+Load the three exclusion files once and combine them into the working deduplication list for the whole run. These exclusions belong only to the France campaign. Do NOT use exclusion lists from `agads007-sys/dentists`, `agads007-sys/outreach-barebones`, or any other repository.
 
 As soon as a new prospect is selected, add both its clinic name and email address to the in-memory working deduplication list so it cannot be selected again in a later batch.
 
-Follow all messaging, verification, eligibility, Gmail-account distribution, and logging rules in `MESSAGE.md`. Only create drafts for dental clinics physically located in an eligible German city/town with a verified current Google/Google Maps review count of **2 through 25 inclusive** and an appropriate officially published contact email. Clinics with 0–1 or 26+ reviews are ineligible. Never guess review counts. Preserve the full campaign message while genuinely varying the wording across drafts.
+Follow all messaging, verification, eligibility, Gmail-account distribution, and logging rules in `MESSAGE.md`. Preserve the complete France-specific campaign message, natural French wording, strong conviction, the current **39,99 € per month** pricing and signature, while genuinely varying the language across drafts. Keep the system description simple and frictionless as specified in `MESSAGE.md`.
 
 After each successful batch, append the newly drafted clinic email addresses and facility names to `data/exclusions-log.txt`. Record only drafts that were actually created successfully.
 
