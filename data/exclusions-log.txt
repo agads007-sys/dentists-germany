@@ -145,3 +145,8 @@ secretariat.docteurmuller@gmail.com | Cabinet du Dr Christine Muller
 ortho.hachem@gmail.com | Cabinet d'Orthodontie du Dr Isabelle Hachem
 dentistesybry@gmail.com | Dr Laurent Cohen-Salmon (Cabinet dentaire Château Ybry)
 selarlortho13001@gmail.com | Cabinet du Dr Sarah Elkouby-Amsellem
+cabinet.tbm@gmail.com | Cabinet Dentaire TBM (Dr Thibault Maire)
+dentiste.lr@gmail.com | Cabinet dentaire de Lafond (Dr Camille Patriarche)
+cabinetpe.64@gmail.com | Cabinet dentaire des Drs Etchandy, Gouedard et Pelourde
+cab.thiongly@gmail.com | Cabinet dentaire du Dr Nelly Thiong-Ly
+secretariat@orthodontiste17.fr | Cabinet d'orthodontie des Drs Emmanuel Lafont et Angéline Jiquel
