@@ -15,10 +15,6 @@ Eligible prospects must meet ALL of these conditions:
 - An appropriate officially published contact email must be available.
 - Never guess the review count, city/town eligibility, contact details, or marketing activity.
 
-Within the eligible **2–25 review** range, prioritize prospects with the **lowest verified current Google/Google Maps review counts first**.
-
-As a secondary priority, favor eligible clinics that have **verified signs they are actively marketing themselves or trying to attract patients**. Examples include active promotional campaigns, advertising, active social-media marketing, SEO or landing-page activity, or other clearly observable current marketing. Treat this only as a prioritization signal, not an eligibility requirement, and never guess or invent marketing activity.
-
 Work in **batches of 5 successful drafts** until you reach **25 total successful drafts**. Do not research 25 prospects upfront and do not build a large candidate backlog.
 
 For each batch:
@@ -28,7 +24,7 @@ For each batch:
 3. Update `data/exclusions-log.txt` for those successful drafts only.
 4. Continue with the next batch using the same in-memory deduplication list plus all clinics and email addresses selected during the run.
 
-If you cannot realistically verify 5 suitable prospects in a batch without excessive searching, create the valid drafts you can verify, update the exclusion log for those successful drafts, and stop the entire run. Do not search indefinitely.
+If you cannot create the valid drafts you can verify, update the exclusion log for those successful drafts, and stop the entire run. Do not search indefinitely.
 
 At the beginning of the run, read once:
 
