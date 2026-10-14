@@ -40,13 +40,13 @@ As soon as a new prospect is selected, add both its clinic name and email addres
 
 Follow all messaging, verification, eligibility, Gmail-account distribution, and logging rules in `MESSAGE.md`.
 
-For every draft, preserve the exact campaign skeleton in this order. Genuine discovery of the clinic in the area. Verified review count if available, otherwise a confident but general opportunity to develop reviews. Real nearby comparison only if actually checked, otherwise an explanation of why patients compare clinics. Explanation of why reviews matter to patients. Explanation that reviews can also affect local Google visibility. Natural transition into why Michael is writing. Very simple SMS product explanation. Minimal effort for the clinic. Strong conviction that consistent use can make a difference over time. Michael handles setup. Exact price of **39,99 euros per month**, without a currency symbol in draft copy. No long-term commitment. Short natural CTA. Signature from Michael Berg.
+For every draft, preserve the exact campaign skeleton in this order. Genuine discovery of the clinic in the area. Verified review count if available, otherwise a confident but general opportunity to develop reviews. Real nearby comparison only if actually checked, otherwise an explanation of why patients compare clinics. Explanation of why reviews matter to patients. Explanation that reviews can also affect local Google visibility. Natural transition into why Michael is writing. Very simple SMS product explanation. Minimal effort for the clinic. Strong conviction that consistent use can make a difference over time. Michael handles setup. Exact price of **39.99 per month**, without any currency word or symbol in draft copy. No long-term commitment. Short natural CTA. Signature from Michael Berg.
 
 Write the actual emails in natural conversational French, not translated German. They should sound like something a French person would genuinely send. Use ordinary paragraphs and simple punctuation. Do not use dashes or colons as stylistic devices in the email copy. Avoid semicolons, headings, list-like phrasing, agency language, and artificial sales copy.
 
 **SUBJECT RULE: Never write « avis Google », « Google reviews », « Google-Bewertungen » or equivalents about Google reviews in the email subject.** Use short neutral subjects such as « Une petite idée pour votre cabinet » or « Concernant votre cabinet ».
 
-**PRICE RULE: Never put a euro/currency symbol into the subject or body.** Write « 39,99 euros par mois » in French.
+**PRICE RULE: Never put any currency word or symbol into the subject or body.** Write « 39.99 par mois » in French.
 
 Use the same warm, confident sales tone whether review data is verified or not. If the Google listing or count is not verified, use the secondary message in MESSAGE.md, without pretending to have inspected the listing, counted its reviews, or compared competitors.
 
