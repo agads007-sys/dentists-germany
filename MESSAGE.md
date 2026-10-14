@@ -20,7 +20,7 @@ Le message doit toujours suivre cette logique.
 10. Il insiste sur le fait que cela demande presque aucun effort au cabinet.
 11. Il dit avec conviction qu'une utilisation régulière peut faire une vraie différence avec le temps.
 12. Michael met tout en place et s'occupe du reste.
-13. Le prix est exactement **39,99 euros par mois**.
+13. Le prix est exactement **39.99 par mois**.
 14. Il n'y a pas d'engagement longue durée.
 15. Il termine avec une courte question naturelle pour proposer de montrer comment cela fonctionne.
 16. Il signe uniquement avec Michael Berg.
@@ -87,7 +87,7 @@ Chaque brouillon garde les mêmes étapes et le même ton assuré, qu'un profil 
 10. Il insiste sur le très faible effort demandé au cabinet.
 11. Il dit avec conviction qu'une utilisation régulière peut faire une vraie différence avec le temps, sans promettre un résultat chiffré.
 12. Michael s'occupe de la mise en place et du reste.
-13. Le prix reste exactement **39,99 euros par mois**, écrit en toutes lettres pour l'unité monétaire. Ne jamais utiliser le symbole monétaire dans les objets ou le corps des e-mails.
+13. Le prix reste exactement **39.99 par mois**, sans indication de devise. Ne jamais utiliser de symbole ni de mot de devise dans les objets ou le corps des e-mails.
 14. Il n'y a pas d'engagement longue durée.
 15. Il conclut par une question naturelle et brève.
 16. Il signe exactement « Bien à vous » puis « Michael Berg ».
@@ -128,7 +128,7 @@ J'ai mis en place un système très simple pour aider les cabinets à recueillir
 
 De votre côté, ça ne demande quasiment rien. Je suis convaincu qu'en l'utilisant régulièrement, ça peut vraiment faire une différence avec le temps.
 
-Je mets tout en place et je m'occupe du reste. C'est 39,99 euros par mois, sans engagement.
+Je mets tout en place et je m'occupe du reste. C'est 39.99 par mois, sans engagement.
 
 Je vous montre rapidement comment ça marche ?
 
@@ -153,7 +153,7 @@ J'ai mis en place un système très simple pour aider les cabinets à recueillir
 
 De votre côté, ça ne demande quasiment rien. Je suis convaincu qu'en l'utilisant régulièrement, ça peut vraiment faire une différence avec le temps.
 
-Je m'occupe de toute la mise en place et du reste. C'est 39,99 euros par mois, sans engagement.
+Je m'occupe de toute la mise en place et du reste. C'est 39.99 par mois, sans engagement.
 
 Je vous montre rapidement comment ça marche ?
 
