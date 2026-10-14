@@ -11,9 +11,9 @@ Eligible prospects must meet ALL of these conditions:
 - Dentist / dental clinic only.
 - Physically located in France.
 - Located in an actual French city/town (`ville`). Small towns are allowed. Villages, hamlets, isolated rural locations, and genuinely rural communes without city/town character are not eligible. If the location cannot be verified confidently as a city/town rather than a rural settlement, skip it.
-- Verified current Google/Google Maps review count of **2 through 25 inclusive**. Clinics with 0–1 or 26+ reviews are ineligible.
+- Prefer verified Google/Google Maps review counts for genuine personalization, but a missing verified count does not disqualify an otherwise suitable clinic. Never invent a count or claim a comparison that was not made.
 - An appropriate officially published contact email must be available.
-- Never guess the review count, city/town eligibility, contact details, or marketing activity.
+- Never guess the review count, local comparisons, city/town eligibility, contact details, or marketing activity. If the Google profile/count cannot be verified, use the no-count version in MESSAGE.md.
 
 Work in **batches of 5 successful drafts** until you reach **25 total successful drafts**. Do not research 25 prospects upfront and do not build a large candidate backlog.
 
@@ -40,9 +40,15 @@ As soon as a new prospect is selected, add both its clinic name and email addres
 
 Follow all messaging, verification, eligibility, Gmail-account distribution, and logging rules in `MESSAGE.md`.
 
-For every draft, preserve the exact campaign skeleton in this order. Observation of the clinic on Google. Verified low review count. Comparison with other nearby clinics. Explanation of why reviews matter to patients. Explanation that reviews can also affect local Google visibility. Natural transition into why Michael is writing. Very simple SMS product explanation. Minimal effort for the clinic. Strong conviction that consistent use can make a large difference over time. Michael handles setup. Exact price of **39,99 € per month**. No long-term commitment. Short natural CTA. Signature from Michael Berg.
+For every draft, preserve the exact campaign skeleton in this order. Genuine discovery of the clinic in the area. Verified review count if available, otherwise a confident but general opportunity to develop reviews. Real nearby comparison only if actually checked, otherwise an explanation of why patients compare clinics. Explanation of why reviews matter to patients. Explanation that reviews can also affect local Google visibility. Natural transition into why Michael is writing. Very simple SMS product explanation. Minimal effort for the clinic. Strong conviction that consistent use can make a difference over time. Michael handles setup. Exact price of **39,99 euros per month**, without a currency symbol in draft copy. No long-term commitment. Short natural CTA. Signature from Michael Berg.
 
 Write the actual emails in natural conversational French, not translated German. They should sound like something a French person would genuinely send. Use ordinary paragraphs and simple punctuation. Do not use dashes or colons as stylistic devices in the email copy. Avoid semicolons, headings, list-like phrasing, agency language, and artificial sales copy.
+
+**SUBJECT RULE: Never write « avis Google », « Google reviews », « Google-Bewertungen » or equivalents about Google reviews in the email subject.** Use short neutral subjects such as « Une petite idée pour votre cabinet » or « Concernant votre cabinet ».
+
+**PRICE RULE: Never put a euro/currency symbol into the subject or body.** Write « 39,99 euros par mois » in French.
+
+Use the same warm, confident sales tone whether review data is verified or not. If the Google listing or count is not verified, use the secondary message in MESSAGE.md, without pretending to have inspected the listing, counted its reviews, or compared competitors.
 
 After each successful batch, append the newly drafted clinic email addresses and facility names to `data/exclusions-log.txt`. Record only drafts that were actually created successfully.
 
