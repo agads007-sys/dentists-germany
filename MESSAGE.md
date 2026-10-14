@@ -8,9 +8,9 @@ Le but n'est pas de traduire le message allemand mot à mot. Le but est de conse
 
 Le message doit toujours suivre cette logique.
 
-1. Michael est tombé sur le cabinet sur Google ou en regardant des dentistes dans le secteur.
-2. Il mentionne le nombre actuel et vérifié d'avis Google ou Google Maps.
-3. Il explique qu'il a regardé d'autres cabinets autour et que le cabinet a encore nettement moins d'avis ou une vraie marge de progression.
+1. Michael explique simplement comment il est tombé sur le cabinet en recherchant des dentistes dans le secteur. Il ne prétend pas avoir vu une fiche Google qu'il n'a pas trouvée.
+2. S'il connaît le nombre actuel et vérifié d'avis, il le mentionne. Sinon, il parle naturellement du potentiel des avis sans nombre inventé.
+3. Il présente l'opportunité de développer les avis. Il ne prétend avoir comparé les cabinets voisins que si cette comparaison a vraiment été faite.
 4. Il explique pourquoi cela compte pour les patients qui comparent plusieurs dentistes sur Google.
 5. Il explique aussi que les avis peuvent jouer sur la visibilité locale sur Google.
 6. Il dit naturellement que c'est précisément pour cette raison qu'il écrit.
@@ -20,7 +20,7 @@ Le message doit toujours suivre cette logique.
 10. Il insiste sur le fait que cela demande presque aucun effort au cabinet.
 11. Il dit avec conviction qu'une utilisation régulière peut faire une vraie différence avec le temps.
 12. Michael met tout en place et s'occupe du reste.
-13. Le prix est exactement **39,99 € par mois**.
+13. Le prix est exactement **39,99 euros par mois**.
 14. Il n'y a pas d'engagement longue durée.
 15. Il termine avec une courte question naturelle pour proposer de montrer comment cela fonctionne.
 16. Il signe uniquement avec Michael Berg.
@@ -43,7 +43,7 @@ Ne pas écrire comme une traduction de l'allemand.
 
 Ne pas écrire comme un texte généré pour être "parfait".
 
-Le message doit donner l'impression que Michael a vu quelque chose de précis, comprend pourquoi cela compte et propose une solution très simple.
+Le message doit partir d'une observation réellement établie, même modeste, montrer pourquoi les avis comptent et proposer une solution très simple. Ne jamais inventer une visite de fiche Google, un comptage d'avis ou une comparaison locale.
 
 La conviction doit être forte, mais le ton ne doit jamais devenir agressif.
 
@@ -73,81 +73,94 @@ est à éviter.
 
 ## Message central obligatoire
 
-Chaque brouillon doit contenir tous les éléments suivants.
+Chaque brouillon garde les mêmes étapes et le même ton assuré, qu'un profil Google ait été trouvé ou non.
 
-Michael est tombé sur le cabinet sur Google.
+1. Michael explique qu'il a repéré le cabinet en recherchant des dentistes dans la ville ou le secteur. Le fait d'avoir trouvé la fiche Google ne peut être affirmé que si c'est vrai.
+2. Si le nombre d'avis Google est actuel et vérifié, il peut donner ce nombre exact. Sinon, il dit simplement qu'il voit une marge de progression possible pour développer les avis du cabinet, sans en déduire que le cabinet en a peu.
+3. S'il a réellement comparé des cabinets voisins, il peut faire une comparaison honnête. Sinon, il explique de façon générale que les patients comparent plusieurs cabinets et que les avis peuvent faire la différence. Ne jamais écrire « j'ai comparé », « vos voisins ont davantage d'avis » ou « vous avez peu d'avis » sans l'avoir constaté.
+4. Il explique pourquoi le nombre et la qualité des avis comptent dans la première impression des patients.
+5. Il explique que les avis et notes peuvent aussi participer à la visibilité locale sur Google, sans promettre un classement.
+6. Il dit naturellement « C'est pour ça que je vous écris » ou équivalent.
+7. Il présente le système SMS de manière très simple.
+8. Après un rendez-vous, le cabinet saisit le numéro du patient, avec les autorisations appropriées.
+9. Le patient reçoit un SMS avec un lien direct vers la fiche Google du cabinet, si celle-ci existe et a été correctement identifiée, et peut choisir de laisser un avis honnête.
+10. Il insiste sur le très faible effort demandé au cabinet.
+11. Il dit avec conviction qu'une utilisation régulière peut faire une vraie différence avec le temps, sans promettre un résultat chiffré.
+12. Michael s'occupe de la mise en place et du reste.
+13. Le prix reste exactement **39,99 euros par mois**, écrit en toutes lettres pour l'unité monétaire. Ne jamais utiliser le symbole monétaire dans les objets ou le corps des e-mails.
+14. Il n'y a pas d'engagement longue durée.
+15. Il conclut par une question naturelle et brève.
+16. Il signe exactement « Bien à vous » puis « Michael Berg ».
 
-Il mentionne le nombre ACTUEL ET VÉRIFIÉ d'avis du cabinet.
+Pas de faux détails personnels. Pas de fausses recherches. Les deux variantes doivent avoir la même ossature, la même longueur approximative et la même conviction.
 
-Il dit qu'il a aussi regardé d'autres dentistes ou cabinets du secteur et qu'il y a encore beaucoup de potentiel sur le nombre d'avis.
+## Objets des e-mails
 
-Il ne donne jamais de chiffres précis sur les concurrents s'ils n'ont pas été vérifiés.
+Ne jamais mettre « avis Google », « Google reviews », « Google-Bewertungen » ou une formule équivalente explicitement centrée sur les avis Google dans l'objet.
 
-Il explique pourquoi cela compte. Les personnes qui cherchent un dentiste regardent souvent plusieurs fiches Google avant de choisir. Un cabinet avec davantage d'avis crédibles peut donner une impression plus rassurante et plus établie, et cela peut peser dans le choix.
+Ne pas inclure le prix ou un symbole monétaire dans l'objet.
 
-Il explique aussi que les avis ne servent pas uniquement à rassurer les patients. Google indique que le nombre d'avis et les notes peuvent aussi faire partie des facteurs qui influencent la visibilité locale.
+Préférer des objets discrets, humains et courts, par exemple :
 
-Il ne promet jamais une position précise sur Google.
+- « Une petite idée pour votre cabinet »
+- « Concernant votre cabinet »
+- « Petite question pour votre cabinet »
 
-Il ne promet jamais un nombre précis de nouveaux patients.
+Le corps peut naturellement parler d'avis Google lorsque c'est pertinent.
 
-Il ne promet jamais une augmentation précise de chiffre d'affaires.
+## Référence principale : fiche et données vérifiées
 
-Il dit ensuite naturellement que c'est pour cette raison qu'il écrit.
+À utiliser uniquement lorsqu'une fiche du bon cabinet a été identifiée, que le nombre d'avis est actuel et vérifié, et qu'une éventuelle comparaison avec d'autres cabinets a réellement été faite.
 
-Il présente ensuite le produit.
-
-Après un rendez-vous, le cabinet entre simplement le numéro de téléphone du patient.
-
-Le patient reçoit un SMS avec un lien direct vers la fiche Google du cabinet et peut laisser son avis immédiatement.
-
-Pour le cabinet, cela demande très peu de temps et presque aucun effort.
-
-Michael met tout en place et s'occupe du reste.
-
-Le prix est exactement **39,99 € par mois**.
-
-Il n'y a pas d'engagement longue durée.
-
-Michael doit montrer une forte conviction. Il ne doit pas écrire comme s'il voulait simplement tester une idée. Il doit clairement montrer qu'il pense qu'un cabinet avec seulement 2 à 25 avis peut beaucoup renforcer sa présence sur Google en demandant plus systématiquement des avis à de vrais patients.
-
-Le CTA doit être court et naturel.
-
-La signature doit être exactement
-
-Bien à vous
-Michael Berg
-
-Ne rien ajouter sous la signature.
-
-## Référence principale
-
-Cette référence sert à montrer l'ossature, le rythme et le niveau de naturel attendus. Les brouillons doivent varier naturellement tout en gardant exactement cette logique.
+Objet : Une petite idée pour votre cabinet
 
 Bonjour,
 
-Je suis tombé sur votre cabinet en regardant des dentistes sur Google et j'ai vu que vous avez actuellement [X] avis.
+Je suis tombé sur votre cabinet en regardant les dentistes à [ville] sur Google. J'ai vu que votre fiche compte actuellement [X] avis.
 
-J'ai aussi regardé quelques autres cabinets autour de vous. Beaucoup ont davantage d'avis et, franchement, ça compte.
+J'ai aussi regardé quelques autres cabinets dans le coin et certains en ont davantage. Franchement, je pense qu'il y a une vraie marge de progression pour le vôtre.
 
-Quand quelqu'un cherche un nouveau dentiste, il compare souvent plusieurs fiches Google avant de choisir. Un cabinet qui a beaucoup plus d'avis inspire généralement davantage confiance au premier coup d'œil et ça peut clairement peser dans la décision.
-
-Et il n'y a pas que l'impression donnée aux patients. Google explique aussi que le nombre d'avis et les notes peuvent jouer dans la visibilité locale.
+Quand quelqu'un cherche un nouveau dentiste, il compare souvent plusieurs fiches avant de choisir. Les avis jouent beaucoup dans la première impression, et ils peuvent aussi compter dans la visibilité locale sur Google.
 
 C'est pour ça que je vous écris.
 
-J'ai mis en place un système très simple pour aider les cabinets à obtenir plus d'avis de vrais patients. Après un rendez-vous, vous entrez simplement le numéro du patient. Il reçoit un SMS avec un lien direct vers votre fiche Google et peut laisser son avis tout de suite.
+J'ai mis en place un système très simple pour aider les cabinets à recueillir davantage d'avis de vrais patients. Après un rendez-vous, vous entrez simplement le numéro du patient, avec son accord. Il reçoit un SMS avec un lien direct vers votre fiche Google et peut laisser son avis tout de suite s'il le souhaite.
 
-De votre côté, ça ne demande quasiment rien. Si vous le faites régulièrement, je suis convaincu que ça peut faire une vraie différence sur votre présence Google avec le temps.
+De votre côté, ça ne demande quasiment rien. Je suis convaincu qu'en l'utilisant régulièrement, ça peut vraiment faire une différence avec le temps.
 
-Je mets tout en place et je m'occupe du reste. C'est 39,99 € par mois, sans engagement.
-
-Je pense vraiment que ça peut très bien fonctionner pour votre cabinet.
+Je mets tout en place et je m'occupe du reste. C'est 39,99 euros par mois, sans engagement.
 
 Je vous montre rapidement comment ça marche ?
 
 Bien à vous
 Michael Berg
+
+## Référence secondaire : fiche ou nombre d'avis non vérifié
+
+Même ton, même logique, même conviction. Pas de ton administratif, de brochure ou d'introduction froide. Si le cabinet a réellement été identifié dans une ville mais que sa fiche ou son nombre d'avis ne sont pas vérifiés, utiliser une version de ce type.
+
+Objet : Une petite idée pour votre cabinet
+
+Bonjour,
+
+Je suis tombé sur votre cabinet en regardant les dentistes à [ville]. Franchement, je pense qu'il y a une vraie marge pour développer les avis de votre cabinet sur Google.
+
+Quand quelqu'un cherche un nouveau dentiste, il regarde souvent plusieurs cabinets autour de lui avant de choisir. Et les avis comptent beaucoup dans la première impression. Ils peuvent aussi jouer sur la visibilité locale sur Google.
+
+C'est pour ça que je vous écris.
+
+J'ai mis en place un système très simple pour aider les cabinets à recueillir davantage d'avis de vrais patients. Après un rendez-vous, vous entrez simplement le numéro du patient, avec son accord. Il reçoit un SMS avec un lien vers la fiche Google du cabinet et peut laisser son avis s'il le souhaite.
+
+De votre côté, ça ne demande quasiment rien. Je suis convaincu qu'en l'utilisant régulièrement, ça peut vraiment faire une différence avec le temps.
+
+Je m'occupe de toute la mise en place et du reste. C'est 39,99 euros par mois, sans engagement.
+
+Je vous montre rapidement comment ça marche ?
+
+Bien à vous
+Michael Berg
+
+Si la fiche Google du cabinet n'a pas été trouvée, ne pas affirmer qu'elle existe déjà ni que son nombre d'avis est faible. Le message décrit le fonctionnement possible du service, pas un audit prétendument réalisé.
 
 ## Variations naturelles
 
@@ -155,15 +168,17 @@ L'introduction peut varier.
 
 « Je regardais des dentistes dans votre secteur sur Google et je suis tombé sur votre cabinet. Vous avez actuellement [X] avis. »
 
-« Je viens de voir votre cabinet sur Google. J'ai remarqué que votre fiche compte aujourd'hui [X] avis. »
+« Je viens de voir votre cabinet sur Google. J'ai remarqué que votre fiche compte aujourd'hui [X] avis. » (uniquement si la fiche et le nombre sont vérifiés)
 
-« En regardant les cabinets dentaires autour de chez vous sur Google, je suis arrivé sur votre fiche. Vous avez actuellement [X] avis. »
+« En regardant les cabinets dentaires autour de chez vous sur Google, je suis arrivé sur votre fiche. Vous avez actuellement [X] avis. » (uniquement si la fiche et le nombre sont vérifiés)
 
-Le passage sur le problème peut varier.
+Si la fiche n'est pas vérifiée : « Je suis tombé sur votre cabinet en regardant les dentistes à [ville]. Franchement, je pense qu'il y a une vraie marge pour développer vos avis sur Google. »
 
-« J'ai aussi regardé quelques autres cabinets autour de vous. Plusieurs ont déjà accumulé beaucoup plus d'avis et c'est quelque chose que les patients voient tout de suite. »
+Le passage sur le problème peut varier. Toute mention d'une comparaison réellement effectuée suppose que cette comparaison a bien eu lieu.
 
-« En regardant d'autres cabinets dans le secteur, on voit vite qu'il y a encore beaucoup de potentiel sur votre nombre d'avis. Et pour quelqu'un qui compare plusieurs dentistes sur Google, ça compte. »
+« J'ai aussi regardé quelques autres cabinets autour de vous. Plusieurs ont déjà accumulé beaucoup plus d'avis et c'est quelque chose que les patients voient tout de suite. » (uniquement si cela a été vérifié)
+
+« Il y a souvent une vraie différence entre deux cabinets dans la manière dont leurs avis ressortent sur Google. Et pour quelqu'un qui compare plusieurs dentistes, ça compte. »
 
 « Votre fiche peut clairement être renforcée sur ce point. Les patients regardent souvent les avis avant même d'aller plus loin. »
 
@@ -231,37 +246,25 @@ Ne jamais créer de variation en inventant des détails sur le cabinet.
 
 ## Règle concernant les avis
 
-[X] doit toujours être le nombre actuel et vérifié d'avis Google ou Google Maps du cabinet.
+Quand le nombre actuel d'avis Google ou Google Maps peut être vérifié, l'utiliser précisément pour personnaliser le message. Un nombre non vérifié ne doit jamais apparaître dans le brouillon.
 
-Ne jamais inventer le nombre.
+Ne jamais inventer, estimer, recycler un ancien chiffre comme s'il était actuel ou annoncer une comparaison qui n'a pas été faite.
 
-Ne jamais l'estimer.
+**L'absence de nombre d'avis vérifié n'exclut plus automatiquement un cabinet.** Utiliser la référence secondaire, en restant aussi naturel et sûr de soi que dans la référence principale.
 
-Ne jamais utiliser un chiffre provenant d'une source ancienne si le nombre actuel n'a pas été vérifié.
+Ne pas affirmer qu'un cabinet a « peu d'avis », « moins d'avis que ses voisins » ou une mauvaise visibilité sans données fiables. Préférer une idée simple comme « je pense qu'il y a une vraie marge pour développer les avis de votre cabinet ».
 
-Utiliser uniquement des cabinets avec **2 à 25 avis inclusivement**.
+Les anciens seuils de 2 à 25 avis servent éventuellement à prioriser les fiches vérifiées, mais ne sont plus une condition obligatoire d'éligibilité. Un cabinet avec davantage d'avis peut aussi être prospecté avec un argument adapté.
 
-Les cabinets avec 0 ou 1 avis ne sont pas éligibles.
-
-Les cabinets avec 26 avis ou plus ne sont pas éligibles.
-
-Si un chiffre précis concernant un concurrent est mentionné, il doit lui aussi être actuel et vérifié. Sinon, rester général.
+Les avis sollicités doivent être authentiques et volontaires, sans filtre demandant seulement aux patients satisfaits de laisser un avis.
 
 ## Priorisation des prospects
 
-Parmi les cabinets éligibles, prioriser d'abord ceux ayant le plus faible nombre vérifié d'avis.
+Prioriser les cabinets privés et les personnes identifiées comme titulaires de cabinet ou associés, puis éliminer les doublons de cabinet et d'adresse e-mail. Exclure les contacts institutionnels (universités, établissements sans cabinet privé) et les praticiens dont le rôle connu est seulement collaborateur, salarié ou remplaçant lorsqu'un décideur du même cabinet est disponible.
 
-Un cabinet à 3 avis doit normalement être préféré à un cabinet à 18 avis si les deux sont autrement éligibles.
+Entre plusieurs cabinets autrement pertinents, un faible nombre d'avis **vérifié** peut servir de critère de priorité, mais ce n'est pas un filtre obligatoire. Ne pas abandonner une piste uniquement parce que son profil ou son nombre d'avis n'a pas été établi.
 
-En priorité secondaire, favoriser les cabinets pour lesquels il existe des signes vérifiés qu'ils cherchent activement à attirer des patients ou qu'ils font déjà du marketing.
-
-Les signaux possibles comprennent une activité régulière sur les réseaux sociaux, des campagnes promotionnelles visibles, des pages SEO ou des pages locales conçues pour attirer des patients, de la publicité ou d'autres efforts marketing clairement observables.
-
-Ce critère sert uniquement à prioriser.
-
-Ce n'est pas une condition d'éligibilité.
-
-Ne jamais inventer une activité marketing.
+En priorité secondaire, favoriser les cabinets avec des signes réels de développement ou de marketing. Ne jamais inventer ces signaux.
 
 ## Règles opérationnelles
 
@@ -273,9 +276,9 @@ L'adresse du cabinet doit se trouver dans une véritable ville française. Les p
 
 Utiliser une adresse e-mail de contact appropriée et officiellement publiée par le cabinet.
 
-Vérifier avant chaque brouillon le nombre actuel d'avis Google ou Google Maps.
+Essayer de vérifier la fiche Google et son nombre actuel d'avis. Si ce n'est pas possible, choisir la référence secondaire sans mentionner de chiffre, sans affirmer qu'une comparaison a eu lieu et sans bloquer automatiquement ce cabinet.
 
-Utiliser uniquement des cabinets avec 2 à 25 avis inclusivement.
+Ne pas inventer un profil Google, des observations ou un nombre d'avis. Vérifier au minimum qu'il s'agit bien d'un cabinet dentaire privé à la bonne adresse et d'un interlocuteur pertinent.
 
 Au début de chaque run, charger exactement une fois `data/excluded_emails.txt`, `data/excluded_facilities.txt` et `data/exclusions-log.txt`.
 
@@ -293,4 +296,4 @@ Répartir les nouveaux brouillons entre les comptes disponibles dans `data/gmail
 
 Ne jamais dupliquer un prospect pour remplir un compte.
 
-Si un détail important ne peut pas être vérifié, passer le prospect plutôt que deviner.
+Si l'identité, l'activité dentaire, le contact ou le caractère privé du cabinet ne peuvent pas être établis, passer le prospect plutôt que deviner. L'absence de nombre d'avis vérifié, à elle seule, n'est pas un motif d'exclusion.
