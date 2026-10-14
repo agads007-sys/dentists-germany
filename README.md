@@ -18,7 +18,7 @@ Use current verified Google/Google Maps review counts for personalized drafts wh
 
 When counts are verified, lower review counts may be a prioritization signal but are not a mandatory filter. Favor private dental clinic owners/partners; deduplicate clinics and contact emails, and exclude institution-only addresses and known non-owner roles when a clinic decision-maker is available. As a secondary signal, favor clinics with verified evidence that they are actively marketing themselves or trying to acquire patients. Marketing activity is a prioritization signal only, never an eligibility requirement, and must never be guessed.
 
-Email subjects must not mention « avis Google », « Google reviews » or equivalent phrases. In the body, write the price as **39,99 euros par mois**, never with a currency symbol. Keep the same sales skeleton for the verified-count and no-count versions.
+Email subjects must not mention « avis Google », « Google reviews » or equivalent phrases. In the body, write the price as **39.99 par mois**, never with any currency word or symbol. Keep the same sales skeleton for the verified-count and no-count versions.
 
 When multiple connected Gmail accounts are available, spread genuinely new drafts across the accounts in `data/gmail_accounts.txt`. Never duplicate prospects merely to fill accounts.
 
