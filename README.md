@@ -1,27 +1,36 @@
-# DAB — Outreach Workspace
+# DAB — Mixed-Industry Outreach Workspace
 
-**Brand:** DAB
+**Brand:** DAB. This workspace is for finding qualified local businesses and preparing Gmail **drafts**, not automatically sending them.
 
-This is a fresh, reusable workspace for researching local businesses and preparing concise, personalized outreach **drafts**. It is not tied to a particular industry, language, or country.
+## What a run means
+A request like **"DAB, make 5 outreach drafts for England"** is fully specified. **No industry is required.** The researcher should actively discover suitable prospects across multiple relevant industries; the user can optionally limit the country, region, industry, audience or price.
+
+A request like **"DAB, make 30 drafts for physiotherapists in Ireland"** is also valid. An industry explicitly chosen by the user overrides mixed-industry discovery.
+
+A new batch may contain garages, detailers, tyre businesses, physiotherapy, podiatry, veterinary practices, chiropractic practices, or other relevant local businesses. These are examples, not a fixed allowlist. Avoid assuming every business in one sector is a suitable prospect.
+
+## How to select prospects
+1. Search several different local-service sectors in the chosen area; switch sectors when leads have poor fit or only shared inboxes.
+2. Prioritize active independent businesses with regular customer interactions and a plausible gap in Google review collection, based on evidence rather than arbitrary low-review thresholds.
+3. Find and verify a **named owner, partner, director, or relevant manager** and that person's direct, publicly available professional email. A directory listing or business website can help establish identity, but **never guess the email pattern**.
+4. Reject all generic/shared-role addresses such as `info@`, `contact@`, `admin@`, `reception@`, `office@`, `service@`, and comparable aliases. A generic email isn't proof of spam filtering; rejecting it is a deliberate target-quality rule.
+5. Verify at least one genuinely relevant business fact and any claimed review count or competitor comparison.
+6. Deduplicate businesses and recipients within the run and respect known prior opt-outs/previous contact history. No historical exclusion lists are bundled with this clean workspace.
+7. Create a Gmail draft **only if** a business qualifies. Do not invent prospects or relax the named-direct-email requirement to meet a number.
+
+For **mixed-industry batches of 5**, seek at least **three different industries**, when enough suitable contacts exist. For larger mixed-industry batches, try **four or more industries** with a meaningful initial sample in each; do not concentrate the entire run in the first easy sector. This is a diversity target, never a reason to fabricate a lead or ignore known opt-outs.
+
+## Writing approach
+Read `MESSAGE.md`: 75–115 words normally, short honest subjects, no scolding about poor reviews, one real observation, a clear SMS explanation, and one conversational question. **Meaningful variation across drafts** is required, not synonym spinning. Use brand **DAB** in the signature. No invented performance guarantees or price/trial unless explicitly authorized.
+
+## Execution
+Read `RUN_PROMPT.md` and `MESSAGE.md`. Save **drafts only** to the connected Gmail account(s) explicitly available for the task; never silently send, schedule or contact anyone. Provide a report by industry, drafts confirmed, missing named-direct addresses, and verification issues.
+
+Sending is a separate future decision. For a new market, use a small pilot and examine actual bounces, qualified replies, paid signups and retention rather than assuming nonresponses are spam.
 
 ## Files
-- `MESSAGE.md`: writing standards and message examples.
-- `RUN_PROMPT.md`: ready-to-copy request for any number of researched Gmail drafts.
+- `README.md` — market-agnostic operating rules
+- `MESSAGE.md` — email design and variations
+- `RUN_PROMPT.md` — ready-to-copy command for any requested number
 
-## Operating principles
-1. Target businesses with a demonstrable reason to care about receiving more **genuine** Google reviews.
-2. Prefer a verified **named owner, partner, director, or relevant manager** and a published direct business email. Do not draft to generic shared inboxes.
-3. Verify identities, contact addresses, and any local review facts. Never invent a name, email, review count, or competitor comparison.
-4. Write brief, natural, specific emails without criticism, repetitive marketing language, or unsupported claims.
-5. Drafts only, never send without an explicit separate request and an appropriate consent/legal basis.
-6. Avoid duplicate businesses in the same run and honor any known opt-outs. Check accessible mailbox/consent records before outreach.
-7. Record learning from each pilot: message acceptance/bounces (when observable), replies, positive replies, paid sign-ups, and retention. Lack of a reply does not prove spam filtering.
-
-No historical prospect lists or exclusion-list files are part of this workspace. Never interpret the absence of a list as permission to contact someone who has opted out. Do not import lists from unrelated campaigns.
-
-## Quick start
-Copy the request in `RUN_PROMPT.md` and substitute the desired count, country/region, and industry, e.g.:
-
-> DAB: Prepare 30 Gmail drafts for independent car garages in regional England. Prioritize named owner/manager contacts with publicly listed direct business email addresses. Draft only; no sending. Omit price in the first message.
-
-When a new market is being tested, evaluate a small initial pilot before actually sending a larger campaign. Keep the prospect research, draft preparation, and sending phases separate.
+**Old campaign prospect lists and exclusion logs were intentionally not carried into this rebuild.** Do not infer that past contacts or opt-outs are safe to recontact merely because those files are absent.
