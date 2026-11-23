@@ -1,3 +1,0 @@
-# France dentist Google-review outreach exclusion emails
-# Clean campaign state initialized for France on 2026-10-06.
-# Add only France-campaign email exclusions here when intentionally seeding permanent exclusions.
