@@ -1,0 +1,22 @@
+# DAB Gmail drafting account map (ten verified connected accounts)
+# Verified by connected Gmail profile lookup on 2026-11-23.
+# This file contains ONLY email addresses; no passwords, app passwords or secrets.
+# Account access can change. Verify live connectivity before each draft run.
+# Use only these ten Gmail accounts unless the user explicitly changes the list.
+# A separate connected account bergdk2026@gmail.com is NOT part of this list.
+#
+# gmail1 through gmail10 are stable labels for draft distribution, not authentication secrets.
+gmail1 | michaeldk2026@gmail.com
+gmail2 | michaeldk.contact@gmail.com
+gmail3 | michaeldk900@gmail.com
+gmail4 | elizabethberg2021@gmail.com
+gmail5 | michael2026dk@gmail.com
+gmail6 | michaelbdk2026@gmail.com
+gmail7 | michaelbdk2025@gmail.com
+gmail8 | michaeldb2025@gmail.com
+gmail9 | michaeldkb2025@gmail.com
+gmail10 | michaelbdk2021@gmail.com
+
+# For runs of 10 or more, distribute new drafts as evenly as practical across
+# ten live connected accounts. For runs under 10, use a subset of these accounts.
+# Do not duplicate recipients merely to fill every account. Draft only; NEVER send.
