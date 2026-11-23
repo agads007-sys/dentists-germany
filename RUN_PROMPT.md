@@ -4,7 +4,7 @@ Copy this, changing only the count and location. No industry needs to be specifi
 
 > **Find [5] suitable independent businesses across multiple industries in [England], and create [5] personalized Gmail drafts.**
 >
-> Read the live GitHub files `agads007-sys/dentists-germany/README.md` and `MESSAGE.md` before starting.
+> Read the live GitHub files `agads007-sys/dentists-germany/README.md`, `MESSAGE.md`, and `data/gmail_accounts.txt` before starting. Use the ten accounts listed in the account map. For 10 or more drafts, spread them evenly among available listed accounts; for fewer, select a subset. Never use an unlisted account without explicit permission.
 >
 > **Industries:** Select dynamically; don't default to garages. Include several service categories. If a category has no suitable direct contacts, switch. Aim for 3 industries in a 5-draft mixed run where quality allows. Follow my explicit industry restrictions if I provide any.
 >
