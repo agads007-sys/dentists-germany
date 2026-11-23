@@ -30,8 +30,11 @@ This repository controls **research and Gmail draft creation** for the Google re
 - Read `MESSAGE.md` for current copy rules and examples. Validate every drafted message with `validate_draft.py` where code execution is available **before** saving it to Gmail; all other requirements still need human/agent source verification.
 - **Drafts only. Never send or schedule emails** unless the user explicitly requests a separate sending action and it is appropriate.
 
+## Ten Gmail accounts for drafts
+The canonical mapping is [`data/gmail_accounts.txt`](data/gmail_accounts.txt). These ten accounts were verified through their connected Gmail profiles on 2026-11-23. **Read the map at the beginning of every run and confirm live access.** For 10 or more drafts, distribute drafts as evenly as practical across available accounts on that list; for smaller requests, use a subset. Never use a connected account outside the list without explicit authorization. No passwords or app passwords belong in this repository.
+
 ## Required operating sequence
-1. Read `README.md`, `MESSAGE.md`, and `RUN_PROMPT.md` on every fresh run.
+1. Read `README.md`, `MESSAGE.md`, `RUN_PROMPT.md` and `data/gmail_accounts.txt` on every fresh run.
 2. Research leads and verify named direct contacts and observation sources.
 3. Write each email using the business-specific facts.
 4. Check all copy gates: no DAB in subject/body; signature only; named/direct email; no generic inbox; accurate service; 75–115 words where practicable; meaningful variation; no made-up data.
