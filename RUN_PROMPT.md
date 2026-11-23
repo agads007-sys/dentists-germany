@@ -1,34 +1,38 @@
-# DAB — Copy-and-Paste Outreach Command
+# DAB — Reusable Command and Enforcement
 
-## Default: fluid, mixed-industry campaign
-Copy this as-is, changing only the number and geography:
+Copy this, changing only the count and location. No industry needs to be specified.
 
-> **DAB, find [5] suitable independent businesses in [England] and create [5] personalized Gmail outreach drafts.**
+> **Find [5] suitable independent businesses across multiple industries in [England], and create [5] personalized Gmail drafts.**
 >
-> **Do not limit yourself to garages or any fixed industry.** Pick appropriate sectors dynamically, such as automotive services, independent clinics, veterinary practices, and other local service providers. Prioritize observable need for genuine Google reviews. For 5 drafts, aim for **at least three different industries** where qualified contacts exist; for bigger runs, explore at least four industries before concentrating on one. If an industry has no qualified contacts, switch sectors without asking me.
+> Read the live GitHub files `agads007-sys/dentists-germany/README.md` and `MESSAGE.md` before starting.
 >
-> Follow `agads007-sys/dentists-germany` `README.md` and `MESSAGE.md`.
+> **Industries:** Select dynamically; don't default to garages. Include several service categories. If a category has no suitable direct contacts, switch. Aim for 3 industries in a 5-draft mixed run where quality allows. Follow my explicit industry restrictions if I provide any.
 >
-> **Hard contact rule:** Use only a publicly verified **named owner/manager/decision-maker's direct professional email**. Skip `info@`, `contact@`, `office@`, `admin@`, `reception@`, `hello@`, `service@`, `support@`, `mail@`, `praxis@`, and any equivalent shared role mailbox. Never guess email formats, persons or review counts; never substitute a generic address to fill the quota.
+> **Contacts:** Target only verified named decision-makers with their publicly listed, directly attributable professional email addresses. Do not use `info@`, `contact@`, `office@`, `hello@`, `reception@`, `admin@`, `service@`, `support@`, `praxis@`, or similar shared-role aliases. Never guess a name or email format. Verify a real business observation, and respect known opt-outs and prior contact records.
 >
-> **Each draft:** short (normally 75–115 words), locally natural, one truly verified specific observation, simple explanation of DAB's consent-based customer SMS review invitation process, one low-pressure CTA. Use **meaningfully varied wording and angles** tailored to each verified business and sector—not five rephrasings of the same stock email. No criticism of low reviews, lengthy SEO pitch, invented result or competitor claims, unapproved trial, or price unless I explicitly supply one. Sign Michael / DAB.
+> **Email:** Roughly 75–115 words, short honest subject, locally natural language, genuinely relevant and varied for each business, simple SMS review-invitation explanation and one easy CTA. Do not criticize low review counts, invent facts or rankings, or mention unapproved prices or trials.
 >
-> Check available opt-out and prior-contact records, deduplicate, and use only verified contacts. Save actual Gmail **drafts** to an explicitly available/selected connected account. **DO NOT SEND ANY EMAILS.** Do not fabricate recipients or claim drafts were created if account access is unavailable.
+> **MANDATORY BRAND GATE:** **Never write "I run DAB" or mention "DAB" in the email subject or body.** Describe the offer as **"I run a simple service..."** or a varied natural equivalent. The **only occurrence of "DAB"** must be the last line of the signature, directly beneath **Michael**:
 >
-> **Report:** Name each business and industry, named contact and verified direct email, supporting verification source, draft subject, Gmail draft creation result, number of candidates skipped for generic addresses, and any shortfall. If you can't find [5] qualifying prospects, create fewer genuine drafts and explain why.
+> ```text
+> Michael
+> DAB
+> ```
+>
+> **Validation:** Check each prospect and each email **individually** against every rule before creating its draft. If possible, run the repository's `validate_draft.py` as a mechanical preflight. It checks branding, signature, generic email aliases, and word count, but source verification and meaningful variation require research/judgment. **Do not create a draft that fails any mandatory check.**
+>
+> **Action:** Save actual **Gmail drafts only** using an explicitly available/selected connected account. Never send or schedule; do not create made-up contacts to fill the quota.
+>
+> **Report:** Give the company, industry, verified named contact, direct professional email, source evidence, subject, confirmed draft ID/result, rejections and any shortfall. Report honestly if account access isn't available.
 
-## Fixed-industry override
-If I specifically ask for one industry, restrict to that industry. Otherwise stay **fluid and mixed-industry**. If I specify multiple industries, use those and adapt the mix to actual qualified prospects.
+## If I specify an industry
+Example: "Find 30 independent physiotherapy clinics in Ireland and draft 30 emails." Use only that industry. If I specify no industry, mix industries dynamically.
 
-## Short commands that work
-- `DAB: 5 mixed-industry outreach drafts for England. Direct named business emails only. Draft, never send.`
-- `DAB: 30 mixed-industry outreach drafts for regional England. Use the DAB GitHub rules. Draft only.`
-- `DAB: 70 outreach drafts across independent garages, physio clinics and vets in Ireland. Verified named direct business emails only, varied messages, draft only.`
-- `DAB: 20 drafts for independent podiatry clinics in Scotland. Follow DAB rules; draft only.`
+## Short command
+`DAB: Create 5 Gmail drafts for England across different suitable business industries. Follow the current GitHub README, MESSAGE and RUN_PROMPT. Named verified direct emails only, no generic addresses. Strict rule: DAB only in final signature below Michael, NEVER in subject or body. Varied short emails. Draft only, do not send.`
 
-## Commercial lessons built into every run
-- Avoid assuming every recipient in Germany or any other country has the same filtering.
-- Avoid generic shared addresses and prospects without verified decision-makers.
-- Avoid repetitive long sales messages and opening with criticism.
-- Do not imply that a lack of replies proves messages landed in spam.
-- Drafting is not sending; for a new market, run a small deliberate sending pilot before scaling and measure actual commercial outcomes.
+## Quality cannot be guaranteed by this file alone
+This is a mandatory instruction for any agent that reads and follows the repository. The repo cannot remotely force an unrelated assistant to read it, prove email delivery, guarantee a verified address belongs to the intended person, or guarantee that every Gmail-drafting tool call has passed a validator. Verify saved drafts and report failures rather than claiming 100% enforcement.
+
+## Review before scaling
+For new markets and sectors, test small, qualified cohorts first, track real delivery diagnostics and commercial responses, and do not infer spam placement solely from lack of replies.

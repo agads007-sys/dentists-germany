@@ -1,36 +1,41 @@
-# DAB — Mixed-Industry Outreach Workspace
+# DAB — Flexible Business Outreach Workspace
 
-**Brand:** DAB. This workspace is for finding qualified local businesses and preparing Gmail **drafts**, not automatically sending them.
+This repository controls **research and Gmail draft creation** for the Google review invitation service. **DAB is the signature label only in outbound emails. Never write "I run DAB", "DAB offers", or use "DAB" anywhere in the subject or body.**
 
-## What a run means
-A request like **"DAB, make 5 outreach drafts for England"** is fully specified. **No industry is required.** The researcher should actively discover suitable prospects across multiple relevant industries; the user can optionally limit the country, region, industry, audience or price.
+## A command like "5 drafts for England" must work
+- **No industry specified:** Discover suitable prospects across different industries, such as independent car service businesses, detailing, physiotherapy, podiatry, veterinary practices, or other appropriate local businesses. Do not default to garages. Aim for at least three industries in a five-draft batch when verifiable prospects permit.
+- **One or more industries specified:** Follow the user's selection. Industry discovery remains flexible within those bounds.
+- **Any requested count:** 5, 20, 30, 70, etc. means an aim for that many **verified Gmail drafts**, not permission to send or invent leads.
+- Switch industries when the available contacts are generic, inaccessible, irrelevant, or unverifiable. If the quota is impossible with reliable contacts, report a shortfall.
 
-A request like **"DAB, make 30 drafts for physiotherapists in Ireland"** is also valid. An industry explicitly chosen by the user overrides mixed-industry discovery.
+## Mandatory research and contact standard
+1. Find a real, active business in the requested market with a plausible reason to collect genuine Google reviews.
+2. Identify a **named** owner, director, partner or relevant manager. Verify their role.
+3. Find that person's **direct, publicly available business email** and verify its attribution. Never infer an email from a name or guess a format.
+4. **Reject shared/role inboxes** such as `info@`, `contact@`, `hello@`, `service@`, `admin@`, `office@`, `reception@`, `praxis@`, `support@`, etc., including variations.
+5. Verify one factual, specific, relevant observation for the email. Review counts, ratings and competitor comparisons require verification before mention.
+6. Deduplicate prospects within the run and check accessible past-contact and opt-out records; honor known opt-outs. Removing historical exclusion-list files does not erase earlier contact or permission obligations.
+7. Don't substitute a generic email, an invented identity or an invented claim just to meet the requested number.
 
-A new batch may contain garages, detailers, tyre businesses, physiotherapy, podiatry, veterinary practices, chiropractic practices, or other relevant local businesses. These are examples, not a fixed allowlist. Avoid assuming every business in one sector is a suitable prospect.
+## Mandatory outbound copy standard — do not deviate
+- The actual service: after an appropriate completed service/appointment, staff enter a customer phone number with permission; the customer gets an SMS link inviting a **voluntary, honest Google review**. The service provider handles setup.
+- **The company label "DAB" can appear only as the last line of the email signature, immediately after "Michael". It cannot appear in the subject or body, even as "I run DAB".** The signature must end exactly:
+  ```text
+  Michael
+  DAB
+  ```
+- Refer to the offer naturally in the body as **"I run a simple service..."**, **"I've built a simple service..."**, or an equivalent personal, plain explanation. Do not put the company acronym into the body.
+- Approx. 75–115 words (excluding signature), short truthful subject, one verified neutral/positive observation, one simple explanation, one non-pushy question. No criticism of the company's review count, long SEO explanation, fictional proof, guaranteed outcomes, or unapproved pricing/trials.
+- **Meaningful variation:** tailored subject, opening, business-specific use-case, natural phrasing and CTA; no five virtually identical emails with replaced names.
+- Read `MESSAGE.md` for current copy rules and examples. Validate every drafted message with `validate_draft.py` where code execution is available **before** saving it to Gmail; all other requirements still need human/agent source verification.
+- **Drafts only. Never send or schedule emails** unless the user explicitly requests a separate sending action and it is appropriate.
 
-## How to select prospects
-1. Search several different local-service sectors in the chosen area; switch sectors when leads have poor fit or only shared inboxes.
-2. Prioritize active independent businesses with regular customer interactions and a plausible gap in Google review collection, based on evidence rather than arbitrary low-review thresholds.
-3. Find and verify a **named owner, partner, director, or relevant manager** and that person's direct, publicly available professional email. A directory listing or business website can help establish identity, but **never guess the email pattern**.
-4. Reject all generic/shared-role addresses such as `info@`, `contact@`, `admin@`, `reception@`, `office@`, `service@`, and comparable aliases. A generic email isn't proof of spam filtering; rejecting it is a deliberate target-quality rule.
-5. Verify at least one genuinely relevant business fact and any claimed review count or competitor comparison.
-6. Deduplicate businesses and recipients within the run and respect known prior opt-outs/previous contact history. No historical exclusion lists are bundled with this clean workspace.
-7. Create a Gmail draft **only if** a business qualifies. Do not invent prospects or relax the named-direct-email requirement to meet a number.
+## Required operating sequence
+1. Read `README.md`, `MESSAGE.md`, and `RUN_PROMPT.md` on every fresh run.
+2. Research leads and verify named direct contacts and observation sources.
+3. Write each email using the business-specific facts.
+4. Check all copy gates: no DAB in subject/body; signature only; named/direct email; no generic inbox; accurate service; 75–115 words where practicable; meaningful variation; no made-up data.
+5. Run `validate_draft.py` when possible, then save Gmail draft and verify that Gmail returned a draft ID. Code validation cannot verify factual truth, recipient permission, nor whether Gmail was actually accessed.
+6. Report verified contacts by sector, source evidence, actual draft counts, rejected generic contacts and shortfalls. Do not claim that drafts have been sent, delivered, or opened.
 
-For **mixed-industry batches of 5**, seek at least **three different industries**, when enough suitable contacts exist. For larger mixed-industry batches, try **four or more industries** with a meaningful initial sample in each; do not concentrate the entire run in the first easy sector. This is a diversity target, never a reason to fabricate a lead or ignore known opt-outs.
-
-## Writing approach
-Read `MESSAGE.md`: 75–115 words normally, short honest subjects, no scolding about poor reviews, one real observation, a clear SMS explanation, and one conversational question. **Meaningful variation across drafts** is required, not synonym spinning. Use brand **DAB** in the signature. No invented performance guarantees or price/trial unless explicitly authorized.
-
-## Execution
-Read `RUN_PROMPT.md` and `MESSAGE.md`. Save **drafts only** to the connected Gmail account(s) explicitly available for the task; never silently send, schedule or contact anyone. Provide a report by industry, drafts confirmed, missing named-direct addresses, and verification issues.
-
-Sending is a separate future decision. For a new market, use a small pilot and examine actual bounces, qualified replies, paid signups and retention rather than assuming nonresponses are spam.
-
-## Files
-- `README.md` — market-agnostic operating rules
-- `MESSAGE.md` — email design and variations
-- `RUN_PROMPT.md` — ready-to-copy command for any requested number
-
-**Old campaign prospect lists and exclusion logs were intentionally not carried into this rebuild.** Do not infer that past contacts or opt-outs are safe to recontact merely because those files are absent.
+**No historical lead logs/exclusion files are included in the new current branch.** The repository is intentionally general-purpose. Git history is not deleted by file replacement.

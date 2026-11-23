@@ -1,124 +1,129 @@
-# DAB — Flexible Outreach Copy and Research Rules
+# DAB — Exact Email Writing Rules
 
-## Fundamental principle
-**No fixed industry.** Match the email to the *verified prospect* and the service offered by DAB. Unless the user chooses a single industry, research multiple industries in parallel.
+## The non-negotiable branding rule
+**DAB must NEVER appear in an outgoing email except on the final line after "Michael".**
+- No **"I run DAB"**.
+- No **"DAB is a tool"**, **"DAB sends"**, or **"my service DAB"**.
+- No **DAB** in subject lines, first paragraph, middle paragraphs, CTA, or any other body text.
+- The actual closing must finish:
+```text
+Michael
+DAB
+```
+- DAB may appear in internal instructions and commands; that does not authorize it in the outgoing subject/body.
+- Use natural alternatives: "I run a simple service that...", "I've put together a simple service...", "I have a simple way of helping businesses...", "I've built a simple system...". Don't mechanically repeat the same sentence in every email.
+- For a localization, keep the sender's name and **DAB** unchanged on the last two lines. Translate the prose, not the signature.
 
-## Mandatory lead qualification
-- Confirm that the business is independent or locally decision-driven, operating, and located in the requested country/region.
-- Prefer businesses with frequent completed services/appointments and a plausible need to collect more genuine Google reviews. A low review count is a prioritization signal, not a universal hard cutoff. Assess review recency and local peers if reliably observable.
-- Identify a **named actual owner, partner, director or manager** who is relevant to deciding about DAB.
-- Use only that person's **verified, directly attributable, publicly listed work email**. Neither an email format guess nor a generic main-inbox email counts.
-- Reject shared/role addresses: `info@`, `contact@`, `hello@`, `office@`, `admin@`, `reception@`, `service@`, `support@`, `mail@`, `team@`, `enquiries@`, `inquiries@`, `appointments@`, `booking@`, `praxis@`, etc., including prefixed/suffixed variants such as `info-branch@`. Don't use contact forms as substitutes for a direct email.
-- Verify business identity, manager role, work email, and one relevant business fact. Record supporting source URLs or provider references where possible.
-- Skip if the relevant details can't be established. Never invent a person, address, review figure, offer, or competitor claim.
-- Deduplicate within the run; check available prior-contact/opt-out records. Never recontact a known opt-out.
+## Real contact, real relevance
+- A real, active independent business with a reason to ask customers for genuine reviews.
+- A real **named, relevant decision-maker** and a **publicly confirmed direct professional email** belonging to them; no guesses, personal private emails or speculative format generation.
+- Reject `info@`, `contact@`, `office@`, `hello@`, `admin@`, `reception@`, `service@`, `support@`, `mail@`, `sales@`, `team@`, `enquiries@`, `inquiries@`, `appointments@`, `booking@`, `praxis@`, and similarly generic aliases/variants. If nothing better exists, skip.
+- One truthful, independently verified observation specific to the prospect. No fabricated visits, comparisons, review numbers, testimonials or claims. Don't shame them about low review counts.
+- Respect known opt-outs and avoid duplicates. Never waive qualification to reach a quota.
 
-## The service accurately described
-DAB provides a simple system: after a genuine completed service or appointment, a staff member enters the customer's mobile number **with appropriate permission**; an SMS invites the customer to leave an **honest, voluntary Google review** through a direct link. DAB handles setup.
+## What the email should say
+A short, personal introduction; why the service suits this specific business; the simple workflow:
+after a completed customer service or appointment, a staff member enters a mobile number with appropriate permission, and the customer gets an SMS linking directly to their Google review page. The review is honest, optional and not restricted to happy customers. You handle setup. Close with one easy question.
 
-Do not imply that recipients must leave positive reviews, promise review counts, claim rankings are guaranteed, or invent financial outcomes. Clinics have additional trust and patient-data considerations; describe the process accurately and do not make compliance guarantees.
+Target **75–115 words excluding signature**; a little shorter is acceptable when more natural. Don't give a lecture about search rankings or imply results are guaranteed. No price or trial in first contact unless explicitly authorized by the user. Subject must be truthful, non-deceptive and not mention DAB.
 
-## Email-writing rules
-- Usually **75–115 words**, excluding signature, in fluent, local natural language; shorter where appropriate.
-- Begin with a **real, specific, neutral or positive** observation about that business. The fact must have been researched. Never start by insulting its review count.
-- Subject: concise, truthful, relevant; rotate naturally according to the prospect, not misleading mystery subjects.
-- Explain DAB's specific workflow in clear language; don't write an essay about search rankings, competition, or marketing.
-- One friendly ask to see a short example/demo.
-- Default is **no monthly price in the first email**; if user provides price and asks for it, use that exact amount and currency. Don't invent a free trial.
-- Sender signature: `Michael\nDAB` (with a normal sign-off), unless user expressly changes the sender.
-- **Distinct drafts should differ in real focus and natural wording**, because industries and observed facts differ. Avoid copying a common long paragraph to every email. Do not randomize synonyms for the purpose of evading filters.
-- **Drafts only**. The user's request for 5, 30, 70 or any number of drafts does not authorize sending.
+**Every email must be meaningfully different** in verified opening fact, rationale linked to that industry/business, sentence rhythm, subject, and CTA. Do not vary with empty synonyms or pretend personalization.
 
-## Five distinct illustrative draft shapes
-These examples have **placeholders**: do not create actual drafts until business facts, named contacts and individual direct work emails are verified. They illustrate approaches, not claims about real companies.
+## Five examples (illustrative, not real verified contacts)
+Replace bracketed facts only with research you really performed. Don't save these examples directly as Gmail drafts.
 
-### Example A — independent garage
+### 1. Car garage
 Subject: A quick idea for [Garage Name]
 
 Hi [First Name],
 
-I noticed [Garage Name] offers [verified garage service] in [Town]. I thought this could be useful at the point when customers collect their cars.
+I came across [Garage Name] and saw that you offer [verified service] in [Town].
 
-I run DAB. It gives your team a simple way to invite customers to leave genuine Google reviews. After a completed job, someone enters the customer's number with permission; they get a short SMS with the review link.
+I run a simple service that helps garages invite customers to leave genuine Google reviews. After a finished job, someone enters the customer's mobile number with permission, and the customer receives a short SMS linking directly to your review page.
 
-I handle the setup, so there's little for your staff to learn.
+It could fit naturally into the handover when someone collects their car. I handle the setup, so there isn't much for your staff to learn.
 
-Would a brief example be useful?
+Would you be interested in a quick look?
 
 Best,
 Michael
 DAB
 
-### Example B — car detailing
-Subject: A thought about [Detailing Business]
+### 2. Car detailing
+Subject: Something for [Detailing Business]
 
 Hello [First Name],
 
-I saw your [verified detailing service] at [Business] and wanted to share an idea.
+Your [verified detailing service] at [Business Name] caught my attention.
 
-Customers picking up a freshly detailed car have just experienced the work firsthand. DAB gives you a straightforward way to ask for an honest Google review at that point: enter the customer's number, with their permission, and an SMS with your review link goes out.
+When someone collects their car, they've just seen the finished result. I've put together a simple service that lets you invite them to share an honest Google review while the experience is fresh.
 
-There's no complicated new system for the team to operate, and I take care of the setup.
+With their permission, you enter a mobile number and an SMS with your review link goes out. There's nothing complicated to integrate, and I take care of the setup.
 
-Could I show you how it works?
+Could I show you a short example of how it works?
 
 Regards,
 Michael
 DAB
 
-### Example C — physiotherapy practice
+### 3. Physiotherapy clinic
 Subject: A small idea for [Clinic Name]
 
 Hi [First Name],
 
-I came across [Clinic Name] and saw that you offer [verified clinical service] in [Town].
+I noticed [Clinic Name] offers [verified service] in [Town] and thought this might be relevant.
 
-I run DAB, a straightforward service for inviting clients to leave genuine Google reviews after an appointment. With their permission, your team enters a mobile number and the client receives a direct review link by SMS. Leaving a review is entirely optional.
+I have a simple service for inviting clients to leave voluntary Google reviews after their appointments. With appropriate permission, a staff member enters their mobile number and they receive a direct review link by SMS. Whether they review is entirely their choice.
 
-It's designed to be light to use, and I handle the setup. I thought it might be relevant for an independently run clinic.
+I look after the setup, and the process is designed to stay straightforward for a busy clinic.
 
-Would you be open to seeing a short demonstration?
-
-Best,
-Michael
-DAB
-
-### Example D — podiatry clinic
-Subject: Question for [Clinic Name]
-
-Hello [First Name],
-
-I was looking at local podiatry practices and noticed [specific, verified fact about this practice].
-
-I wanted to ask whether you have a consistent way of inviting patients to leave honest Google reviews.
-
-DAB is a small tool for that. Once the appropriate permission has been obtained, someone at reception enters the number after a visit and the patient receives a text with the review link. It's optional for the patient and simple for staff.
-
-I can set it up for you. Interested in a quick look?
+Would a brief demonstration be useful?
 
 Kind regards,
 Michael
 DAB
 
-### Example E — independent vet
+### 4. Podiatry clinic
+Subject: A question about [Clinic Name]
+
+Hello [First Name],
+
+I found your clinic while researching podiatry services in [Town], particularly [verified specific service].
+
+I run a simple service that could make it easier to ask patients for genuine reviews without relying on staff to explain the process each time. After a visit, and with the patient's permission, someone enters their number; they receive a text linking to the clinic's Google review page.
+
+The request is optional for the patient, and I arrange the setup.
+
+Would you like me to explain the process briefly?
+
+Best wishes,
+Michael
+DAB
+
+### 5. Veterinary practice
 Subject: An idea for [Practice Name]
 
 Hi [First Name],
 
 I saw that [Practice Name] provides [verified veterinary service] for local pet owners.
 
-I've built a simple way to make review invitations part of the normal checkout process. DAB lets a staff member enter a pet owner's mobile number with permission, then sends a short text linking to your Google review page.
+I wanted to share a simple way to invite those customers to leave honest Google reviews after a visit. I've built a service where your staff enter a customer's mobile number with permission, and a short text with your review link is sent to them.
 
-The owner chooses whether to leave an honest review; you don't need a complex software integration.
+It doesn't need to be connected to your practice-management software, and I'll handle setting it up.
 
-I handle the setup and thought this might be worth showing you.
-
-Could I send a quick overview?
+Does that sound worth a quick look?
 
 Best,
 Michael
 DAB
 
-## Testing and learning
-Vary **relevance and voice**, not truth. Keep enough of the core offer consistent to compare industries.
-Report by industry: candidates screened, direct verified contacts found, Gmail drafts actually created, and any shortfall. When later tracking sent outreach, distinguish hard bounces, recipient responses, positive interest, trials, subscriptions, and churn. Absence of a reply does not prove filtering.
+## Per-draft acceptance test
+Before each Gmail draft is saved:
+1. Verify correct named person, matching direct work email, company, country, reviewed sources and opt-out checks.
+2. Inspect the **subject** and the **body without its final signature**: the term **DAB** must have **zero occurrences**. It must appear exactly **once** as the **very last line**, after `Michael`.
+3. Confirm the copy describes the SMS invitation accurately, does not select only happy customers, and does not invent facts, prices, trials or results.
+4. Confirm the subject, opening, business angle and CTA are not cloned from the other drafts in the batch.
+5. If any check fails: **rewrite or skip, do not save**. If code execution is available, use `validate_draft.py` as an additional deterministic check. It does not replace research verification.
+
+## Measurement
+For later outreach, record bounces and replies separately, track positive conversations and paid subscriptions, and never treat silence as proof of spam placement.
